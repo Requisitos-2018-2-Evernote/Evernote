@@ -17,4 +17,4 @@
 |João Victor Lustosa Braz|joaovictor-fza@hotmail.com|[@ritzare](https://github.com/ritzare)
 
 
-  Para maiores informações acesse a nossa wiki.
+  Para maiores informações acesse a nossa [wiki](https://requisitos-2018-2-evernote.github.io/Evernote/).

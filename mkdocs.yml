@@ -1,0 +1,20 @@
+site_name: Evernote
+nav:
+    - Home: Home.md
+    - Pré-Rastreabilidade: Pre-Rastreabilidade.md
+    - Elicitação: Elicitacao.md
+    - Modelagem: Modelagem.md
+    - Análise: Analise.md
+    - Pós-Rastreabilidade: Pos-Rastreabilidade.md
+theme:
+  favicon: 'images/evernote-icon.ico'
+  logo: 'images/evernote-logo.png'
+  name: 'material'
+  palette:
+    footer: 'green'
+    primary: 'green'
+    accent: 'green'
+    language: 'pt'
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_png

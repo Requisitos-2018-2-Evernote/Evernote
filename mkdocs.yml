@@ -1,6 +1,6 @@
 site_name: Evernote
 nav:
-    - Home: Home.md
+    - Home: index.md
     - Pré-Rastreabilidade: Pre-Rastreabilidade.md
     - Elicitação: Elicitacao.md
     - Modelagem: Modelagem.md

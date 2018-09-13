@@ -1,5 +1,5 @@
 site_name: Evernote
-nav:
+pages:
     - Home: index.md
     - Pré-Rastreabilidade: Pre-Rastreabilidade.md
     - Elicitação: Elicitacao.md

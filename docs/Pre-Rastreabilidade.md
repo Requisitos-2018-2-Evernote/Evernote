@@ -1,6 +1,5 @@
 ## Rich Pictures
 
-
 #### Visão Geral
 
 ![img-geral1](https://i.imgur.com/V0OFrtn.png)  
@@ -51,4 +50,25 @@ Autor:
 Versão 1.0  
 Autor:
 
+
 ## Argumentação
+
+#### Escolha do app
+![img-escolha-app](https://i.imgur.com/9TZdzhW.png)  
+Versão 1.0  
+Autor:
+
+#### Escolha de horário para reuniões
+![img-concorrencia](https://i.imgur.com/ej1RfzS.png)  
+Versão 1.0  
+Autor:
+
+#### Concorrência do app
+![img-concorrencia](https://i.imgur.com/GkpJSVi.png)  
+Versão 1.0  
+Autor:
+
+#### Monetização
+![img-concorrencia](https://i.imgur.com/vspLN9l.png)  
+Versão 1.0  
+Autor:

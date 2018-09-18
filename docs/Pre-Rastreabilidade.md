@@ -4,11 +4,11 @@
 
 ![img-geral1](https://i.imgur.com/V0OFrtn.png)  
 Versão 1.0  
-Autor:
+Autor: Matheus Filipe
 
 ![img-geral2](https://i.imgur.com/zKH3GTK.png)  
 Versão 1.0  
-Autor:
+Autor: Mateus Oliveira
 
 ![img-geral3](https://i.imgur.com/rXttLcQ.png)  
 Versão 1.0  
@@ -20,7 +20,7 @@ Autor: Larissa Sales
 
 ![img- geral5](https://i.imgur.com/io54nOp.png)  
 Versão 1.0  
-Autor:
+Autor: Matheus Filipe
 
 ![img- geral6](https://i.imgur.com/5bISHEI.png)  
 Versão 1.0  
@@ -28,7 +28,7 @@ Autor:
 
 ![img- geral7](https://i.imgur.com/FTEbY1r.png)  
 Versão 2.0  
-Autor:
+Autor: Matheus Filipe
 
 #### Criar Nota
 ![img-nota](https://i.imgur.com/hlg0A52.jpg)  
@@ -56,19 +56,19 @@ Autor:
 #### Escolha do app
 ![img-escolha-app](https://i.imgur.com/9TZdzhW.png)  
 Versão 1.0  
-Autor:
+Autor: Matheus Filipe
 
 #### Escolha de horário para reuniões
-![img-concorrencia](https://i.imgur.com/ej1RfzS.png)  
+![img-horario](https://i.imgur.com/ej1RfzS.png)  
 Versão 1.0  
-Autor:
+Autor: Matheus Filipe
 
 #### Concorrência do app
 ![img-concorrencia](https://i.imgur.com/GkpJSVi.png)  
 Versão 1.0  
-Autor:
+Autor: Larissa Sales
 
 #### Monetização
-![img-concorrencia](https://i.imgur.com/vspLN9l.png)  
+![img-monetizacao](https://i.imgur.com/vspLN9l.png)  
 Versão 1.0  
 Autor:

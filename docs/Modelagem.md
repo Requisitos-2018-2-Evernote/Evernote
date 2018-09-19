@@ -138,16 +138,16 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Notação utilizada para se referir ao utilitário em questão, o Evernote. |
 | **Classificação** | Objeto |
-| **Impactos** | Usuário deseja proteger conteúdo da aplicação; <br> Usuário pega o celular e abre a aplicação; <br> Possuir conta no app e extensão adicionada ao Google Chrome; <br> Usuário escolhe se a aplicação deve exibir notas no widget. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pega o celular e abre a aplicação; <br> Possuir conta no app e extensão adicionada ao Google Chrome; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe se a aplicação deve exibir notas no widget. |
 | **Sinônimos** | App <br> Aplicativo|
 
 #### Usuário
 
-| Lexo | Usuários |
+| Lexo | Usuário |
 |-----------|------------------|
 | **Noção** | Pessoa que está utilizando o aplicativo. |
 | **Classificação** | Objeto |
-| **Impactos** | Usuário pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso; <br> Usuário deseja proteger conteúdo da aplicação; <br> Usuário abre o Google Chrome e navega até a página da web desejada; <br> Usuário salva a nota; <br> Poderá utilizar todos os recursos disponíveis na aplicação. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso; <br> Usuário deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a nota; <br> Poderá utilizar todos os recursos disponíveis na aplicação. |
 | **Sinônimos** | Usuários |
 
 #### Código de acesso
@@ -156,7 +156,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Sequência de 4 números utilizada para desbloquear o aplicativo. |
 | **Classificação** | Objeto |
-| **Impactos** | Se o  usuário  nunca definiu um código de acesso o mesmo é pedido pelo aplicativo; <br> Usuário pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso. |
+| **Impactos** | Se o  [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) nunca definiu um código de acesso o mesmo é pedido pelo aplicativo; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso. |
 | **Sinônimos** | Senha |
 
 #### Evernote Web Clipper
@@ -165,7 +165,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Extensão do Google Chrome utilizada para capturar páginas da web e salvar como nota no Evernote. |
 | **Classificação** | Objeto |
-| **Impactos** | Capturar página da web utilizando o Evernote Web Clipper; <br> Usuário clica sobre o ícone do Evernote Web Clipper. |
+| **Impactos** | Capturar página da web utilizando o Evernote Web Clipper; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do Evernote Web Clipper. |
 | **Sinônimos** | Web Clipper |
 
 #### Captura
@@ -174,7 +174,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Parte de uma página da web que será salva em uma nota. |
 | **Classificação** | Objeto |
-| **Impactos** | Usuário seleciona um formato de captura; <br> Usuário seleciona em qual caderno deseja salvar a captura; <br> Possui os seguinte formatos: Artigo, Artigo Simplificado, Página inteira, Seleção e Captura de tela. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um formato de captura; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Possui os seguinte formatos: Artigo, Artigo Simplificado, Página inteira, Seleção e Captura de tela. |
 | **Sinônimos** | Capturas |
 
 #### Etiqueta
@@ -183,7 +183,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Classificação de uma nota, facilitando encontrar notas que possuem a mesma etiqueta. |
 | **Classificação** | Objeto |
-| **Impactos** | Usuário pode adicionar etiquetas; <br> Uma forma de dividir suas notas além dos cadernos. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar etiquetas; <br> Uma forma de dividir suas notas além dos cadernos. |
 | **Sinônimos** | Etiquetas <br> Tag |
 
 #### Nota
@@ -192,7 +192,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Arquivo contendo anotações do usuário, que fica armazenado em nuvem no Evernote. |
 | **Classificação** | Objeto |
-| **Impactos** | Usuário escolhe se a aplicação deve exibir notas no widget; <br> Uma nota pode possuir anexos. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe se a aplicação deve exibir notas no widget; <br> Uma nota pode possuir anexos. |
 | **Sinônimos** | Notas <br> anotações. |
 
 #### Caderno
@@ -201,7 +201,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 |-----------|------------------|
 | **Noção** | Agrupador de notas no Evernote. |
 | **Classificação** | Objeto |
-| **Impactos** | Usuário seleciona em qual caderno deseja salvar a captura; <br> Cadernos podem ser utilizados para organizar/separar notas. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Cadernos podem ser utilizados para organizar/separar notas. |
 | **Sinônimos** | Cadernos |
 
 ## Referências

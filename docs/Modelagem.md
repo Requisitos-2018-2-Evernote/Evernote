@@ -141,7 +141,15 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa o Evernote. <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão de oções, que tem formato de 3 traços <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na opção lixeira <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) que quer recuperar <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão com formato de 3 pontinhos <br> Em seguida, clica em "Restaurar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)" |
 | **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
 
-## Léxico
+## Léxicos
+
+o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utilizada na aplicação, que permite explicar palavras inseridas no contexto do produto, ajudando a entender o universo da aplicação.
+
+É composta por:
+- Noção, que é uma breve explicação do léxico;
+- Classificação, que pode ser sujeito, verbo, estado ou objeto;
+- Impactos, que descreve algumas aplicações daquele léxico no contexto do produto estudado;
+- Sinônimos, que mostra palavras que contêm o mesmo significado dentro do universo da aplicação.
 
 ### Sumário Léxicos
 |ID| Nome |
@@ -157,7 +165,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Aplicação
 
-| Lexo | Aplicação |
+| Léxico | Aplicação |
 |-----------|------------------|
 | **Noção** | Notação utilizada para se referir ao utilitário em questão, o Evernote. |
 | **Classificação** | Objeto |
@@ -166,7 +174,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Usuário
 
-| Lexo | Usuário |
+| Léxico | Usuário |
 |-----------|------------------|
 | **Noção** | Pessoa que está utilizando o aplicativo. |
 | **Classificação** | Sujeito |
@@ -175,7 +183,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Código de acesso
 
-| Lexo | Código de Acesso |
+| Léxico | Código de Acesso |
 |-----------|------------------|
 | **Noção** | Sequência de 4 números utilizada para desbloquear o aplicativo. |
 | **Classificação** | Objeto |
@@ -184,7 +192,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Evernote Web Clipper
 
-| Lexo | Evernote Web Clipper |
+| Léxico | Evernote Web Clipper |
 |-----------|------------------|
 | **Noção** | Extensão do Google Chrome utilizada para capturar páginas da web e salvar como nota no Evernote. |
 | **Classificação** | Objeto |
@@ -193,7 +201,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Captura
 
-| Lexo | Captura |
+| Léxico | Captura |
 |-----------|------------------|
 | **Noção** | Parte de uma página da web que será salva em uma nota. |
 | **Classificação** | Objeto |
@@ -202,7 +210,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Etiqueta
 
-| Lexo | Etiqueta |
+| Léxico | Etiqueta |
 |-----------|------------------|
 | **Noção** | Classificação de uma nota, facilitando encontrar notas que possuem a mesma etiqueta. |
 | **Classificação** | Objeto |
@@ -211,7 +219,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Nota
 
-| Lexo | Nota |
+| Léxico | Nota |
 |-----------|------------------|
 | **Noção** | Arquivo contendo anotações do usuário, que fica armazenado em nuvem no Evernote. |
 | **Classificação** | Objeto |
@@ -220,7 +228,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Caderno
 
-| Lexo | Caderno |
+| Léxico | Caderno |
 |-----------|------------------|
 | **Noção** | Agrupador de notas no Evernote. |
 | **Classificação** | Objeto |
@@ -229,3 +237,5 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 ## Referências
 LEITE, Jair. Usando cenários para descobrir requisitos. Disponível [aqui](http://engenhariadesoftware.blogspot.com/2007/05/usando-cenrios-para-descobrir.html). Acesso em: 18 de setembro de 2018.
+
+ALMENTERO, Eduardo Kinder. Léxico Ampliado da Linguagem (LAL). Disponível [aqui](https://engenhariaderequisitos.wordpress.com/2012/04/03/aula-do-dia-0304-lexico-ampliado-da-linguagem-lal-2/). Acesso em: 19 de setembro de 2018.

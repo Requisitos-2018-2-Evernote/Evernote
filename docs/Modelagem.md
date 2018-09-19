@@ -7,12 +7,12 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 ### Sumário Cenários
 | ID  |            Nome               |
 |-----|-------------------------------|
-| [C01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#administras-bloqueio-de-senha) | Administrar bloqueio de senha |
+| [C01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#administrar-bloqueio-de-senha) | Administrar bloqueio de senha |
 | [C02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#desativar-o-bloqueio-de-senha) | Desativar o bloqueio de senha |
 | [C03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#alterar-o-bloqueio-de-senha) | Alterar o bloqueio de senha   |
 | [C04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#desbloquear-com-impressao-digital) | Desbloquear com impressão digital |
 | [C05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#bloqueio-de-senha) | Bloqueio de senha |
-| [C06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exibir-notas) | Exibir [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no Widget |
+| [C06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exibir-notas-no-widget) | Exibir [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no Widget |
 | [C07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#capturar-pagina-da-web-utilizando-o-evernote-web-clipper) | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
 | [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#abrir-aplicativo) | Abrir aplicativo |
 | [C09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exportar-arquivo) | Exportar Arquivo |
@@ -62,7 +62,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | **Restrição** |Estar conectado à internet;<br>Possuir [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Possuir conta no Evernote;<br>Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido.
 | **Exceções** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não definiu uma senha.|
 
-#### Bloqueio de senha - tempo esgotado
+#### Bloqueio de senha
 | Título | Bloqueio de senha |
 |-----------|------------------|
 | **Objetivo** | Definir um tempo limite após o qual será solicitado que o [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) insira novamente o seu [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso).|
@@ -123,14 +123,14 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 ### Sumário Léxicos
 |ID| Nome |
 |--|--|
-| L | Aplicação |
-| L | Usuário |
-| L | Código de acesso |
-| L | Evernote Web Clipper |
-| L | Captura |
-| L | Etiqueta |
-| L | Nota |
-| L | Caderno |
+| [L01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) | Aplicação |
+| [L02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) | Usuário |
+| [L03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) | Código de acesso |
+| [L04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper) | Evernote Web Clipper |
+| [L05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura) | Captura |
+| [L06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta) | Etiqueta |
+| [L07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) | Nota |
+| [L08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) | Caderno |
 
 #### Aplicação
 

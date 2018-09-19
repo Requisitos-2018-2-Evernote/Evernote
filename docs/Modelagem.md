@@ -1,5 +1,7 @@
 ## Cenários
 
+Os cenários representam atividades que podem ser feitas e motivos da sua necessidade, pensando na usabilidade do produto. Descrito de forma simples, contextualiza como uma certa ação pode se desenvolver no comportamento da aplicação. São uma forma de representação fácil para que clientes e usuários possam discutir sobre os levantamentos das especificações dos requisitos juntos aos desenvolvedores.
+
 #### Abrir aplicativo                                                                   
 
 | Título | Abrir aplicativo |
@@ -23,3 +25,7 @@
 | **Exceções** | Celular está sem bateria <br> Aplicativo não abre <br> Touch do celular não funciona <br> Computador está sem internet <br> Arquivo está corrompido |
 
 ## Léxico
+
+
+## Referências
+LEITE, Jair. Usando cenários para descobrir requisitos. Disponível [aqui](http://engenhariadesoftware.blogspot.com/2007/05/usando-cenrios-para-descobrir.html). Acesso em: 18 de setembro de 2018.

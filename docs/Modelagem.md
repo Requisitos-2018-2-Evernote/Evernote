@@ -1,125 +1,126 @@
 
-# Cenários
+
+## Cenários
 
 Os cenários representam atividades que podem ser feitas e motivos da sua necessidade, pensando na usabilidade do produto. Descrito de forma simples, contextualiza como uma certa ação pode se desenvolver no comportamento da aplicação. São uma forma de representação fácil para que clientes e usuários possam discutir sobre os levantamentos das especificações dos requisitos juntos aos desenvolvedores.
 
-## Sumário Cenários
+### Sumário Cenários
 | ID  |            Nome               |
 |-----|-------------------------------|
-| C01 | Administrar bloqueio de senha |
-| C02 | Desativar o bloqueio de senha |
-| C03 | Alterar o bloqueio de senha   |
-| C04 | Desbloquear com impressão digital |
-| C05 | Bloqueio de senha - tempo esgotado |
-| C06 | Exibir notas no Widget |
-| C07 | Capturar página da web utilizando o **Evernote Web Clipper**|
-| C08 | Abrir aplicativo |
-| C09 | Exportar Arquivo |
+| [C01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-01) | Administrar bloqueio de senha |
+| [C02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-02) | Desativar o bloqueio de senha |
+| [C03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-03) | Alterar o bloqueio de senha   |
+| [C04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-04) | Desbloquear com impressão digital |
+| [C05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-05) | Bloqueio de senha - tempo esgotado |
+| [C06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-06) | Exibir [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no Widget |
+| [C07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-07) | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
+| [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-08) | Abrir aplicativo |
+| [C09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-09) | Exportar Arquivo |
 
-### Cenário 01
+#### Cenário 01
 | Título | Administrar bloqueio de senha|
 |-----------|------------------|
-| **Objetivo** | Descrever as opções relacionadas ao bloqueio da **aplicação** com senha.|
-| **Contexto** | **Situação**  - Usuário deseja gerenciar proteção com senha. <br> **Pré-condição**  - Possuir celular e aplicação instalada.|
-| **Atores** | Usuário.|
-| **Recursos** | Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Episódios** |  **Usuário** deseja proteger conteúdo da **aplicação**;<br>**Usuário** pega o celular e abre a aplicação;<br>**Usuário** acessa "configurações" no menu principal;<br>**Usuário** acessa "Informações da conta";<br> **Usuário** acessa "Administrar bloqueio de senha";<br>**Usuário** escolhe "Desativar o bloqueio de senha";<br>**Usuário** escolhe "Alterar o bloqueio de senha";<br>**Usuário** escolhe "Desbloquear com impressão digital";<br>**Usuário** escolhe "Bloqueio de senha - tempo esgotado";<br>**Usuário** escolhe "Exibir notas no Widget".|
-| **Restrição** |Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Exceções** |Se o **usuário** nunca definiu um **Código de acesso** o mesmo é definido ao clicar em "Administrar bloqueio de senha".|
+| **Objetivo** | Descrever as opções relacionadas ao bloqueio da [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) com senha.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja gerenciar proteção com senha. <br> **Pré-condição**  - Possuir celular e [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada.|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** | Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Episódios** |  [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja proteger conteúdo da [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pega o celular e abre a [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa "configurações" no menu principal;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa "Informações da conta";<br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa [Administrar bloqueio de senha](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-01);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe [Desativar o bloqueio de senha](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-02);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe [Alterar o bloqueio de senha](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-03);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe [Desbloquear com impressão digital](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-04);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe [Bloqueio de senha - tempo esgotado](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-05);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe [Exibir notas no Widget](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#cenario-06).|
+| **Restrição** |Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Exceções** |Se o [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) nunca definiu um [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) o mesmo é definido ao clicar em "Administrar bloqueio de senha".|
 
-### Cenário 02
+#### Cenário 02
 | Título | Desativar o bloqueio de senha|
 |-----------|------------------|
 | **Objetivo** | Remover bloqueio com senha do aplicativo.|
-| **Contexto** | **Situação**  - Usuário deseja remover bloqueio com senha.<br>**Pré-condição**  - Possuir **código de acesso** definido na aplicação.|
-| **Atores** | Usuário.|
-| **Recursos** |Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Episódios** | **Usuário** está em "Administrar bloqueio de senha";<br>**Usuário** clica em "Desativar o bloqueio de senha".|
-| **Restrição** |Estar conectado à internet;<br>Possuir aplicação instalada;<br>Possuir conta no Evernote;<br>Possuir **código de acesso** definido.
-| **Exceções** | Usuário não definiu uma senha.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja remover bloqueio com senha.<br>**Pré-condição**  - Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido na [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao).|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** |Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) está em "Administrar bloqueio de senha";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em "Desativar o bloqueio de senha".|
+| **Restrição** |Estar conectado à internet;<br>Possuir [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Possuir conta no Evernote;<br>Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido.
+| **Exceções** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não definiu uma senha.|
 
-### Cenário 03
+#### Cenário 03
 | Título | Alterar o bloqueio de senha|
 |-----------|------------------|
-| **Objetivo** | Alterar o **código de acesso** utilizado para proteger o aplicativo.|
-| **Contexto** | **Situação**  - **Usuário** deseja alterar seu **código de acesso**.<br>**Pré-condição**  - Possuir **código de acesso** definido na aplicação.|
-| **Atores** | Usuário.|
-| **Recursos** |Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Episódios** | **Usuário** está em "Administrar bloqueio de senha";<br>**Usuário** clica em "Alterar o bloqueio de senha";<br>**Usuário** digita sua nova senha;<br>**Usuário** repete o novo código de acesso digitado previamente.|
-| **Restrição** |Estar conectado à internet;<br>Possuir aplicação instalada;<br>Possuir conta no Evernote;<br>Possuir **código de acesso** definido.
-| **Exceções** | Usuário não definiu uma senha.|
+| **Objetivo** | Alterar o [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) utilizado para proteger o aplicativo.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja alterar seu [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso).<br>**Pré-condição**  - Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido na [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao).|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** |Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) está em "Administrar bloqueio de senha";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em "Alterar o bloqueio de senha";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) digita sua nova senha;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) repete o novo [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) digitado previamente.|
+| **Restrição** |Estar conectado à internet;<br>Possuir [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Possuir conta no Evernote;<br>Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido.
+| **Exceções** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não definiu uma senha.|
 
 
-### Cenário 04
+#### Cenário 04
 | Título | Desbloquear com impressão digital.|
 |-----------|------------------|
 | **Objetivo** | Habilitar ou desabilitar desbloquear com impressão digital.|
-| **Contexto** | **Situação**  - **Usuário** deseja habilitar/desabilitar a opção de desbloquear o aplicativo com a impressão digital salva no celular.<br>**Pré-condição**  - Possuir **código de acesso** definido na aplicação.|
-| **Atores** | Usuário.|
-| **Recursos** |Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Episódios** | **Usuário** está em "Administrar bloqueio de senha";<br>**Usuário** ativa ou desativa a opção clicando em "Desbloquear com impressão digital".|
-| **Restrição** |Estar conectado à internet;<br>Possuir aplicação instalada;<br>Possuir conta no Evernote;<br>Possuir **código de acesso** definido.
-| **Exceções** | Usuário não definiu uma senha.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja habilitar/desabilitar a opção de desbloquear o aplicativo com a impressão digital salva no celular.<br>**Pré-condição**  - Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido na [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao).|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** |Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) está em "Administrar bloqueio de senha";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) ativa ou desativa a opção clicando em "Desbloquear com impressão digital".|
+| **Restrição** |Estar conectado à internet;<br>Possuir [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Possuir conta no Evernote;<br>Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido.
+| **Exceções** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não definiu uma senha.|
 
-### Cenário 05
+#### Cenário 05
 | Título | Bloqueio de senha - tempo esgotado|
 |-----------|------------------|
-| **Objetivo** | Definir um tempo limite após o qual será solicitado que o **usuário** insira novamente o seu **código de acesso**.|
-| **Contexto** | **Usuário** deseja definir o tempo para que seja cobrado novamente seu **código de acesso**.<br>**Pré-condição**  - Possuir **código de acesso** definido na aplicação.|
-| **Atores** | Usuário.|
-| **Recursos** |Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Episódios** | **Usuário** está em "Administrar bloqueio de senha";<br>**Usuário** clica em "Bloqueio de senha - tempo esgotado";<br>**Usuário** seleciona o tempo limite de sua escolha.|
-| **Restrição** |Estar conectado à internet;<br>Possuir aplicação instalada;<br>Possuir conta no Evernote;<br>Possuir **código de acesso** definido.
-| **Exceções** | Usuário não definiu uma senha.|
+| **Objetivo** | Definir um tempo limite após o qual será solicitado que o [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) insira novamente o seu [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso).|
+| **Contexto** |**Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja definir o tempo para que seja cobrado novamente seu [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso).<br>**Pré-condição**  - Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido na [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao).|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** |Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) está em "Administrar bloqueio de senha";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em "Bloqueio de senha - tempo esgotado";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona o tempo limite de sua escolha.|
+| **Restrição** |Estar conectado à internet;<br>Possuir [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Possuir conta no Evernote;<br>Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido.
+| **Exceções** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não definiu uma senha.|
 
-### Cenário 06
-| Título | Exibir notas no Widget|
+#### Cenário 06
+| Título | Exibir [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no Widget|
 |-----------|------------------|
-| **Objetivo** | Escolher entre exibir ou não notas no **Widget**.|
-| **Contexto** | **Situação**  - **Usuário** deseja habilitar/desabilitar  a opção de exibir notar no Widget.<br>**Pré-condição**  - Possuir **código de acesso** definido na aplicação.|
-| **Atores** | Usuário.|
-| **Recursos** |Internet;<br>Smartphone;<br>Aplicação instalada;<br>Conta no Evernote.|
-| **Episódios** | **Usuário** está em "Administrar bloqueio de senha";<br>**Usuário** ativa ou desativa a opção clicando em "Exibir notas no Widget".|
-| **Restrição** |Estar conectado à internet;<br>Possuir aplicação instalada;<br>Possuir conta no Evernote;<br>Possuir **código de acesso** definido.
-| **Exceções** | Usuário não definiu uma senha.|
+| **Objetivo** | Escolher entre exibir ou não [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no **Widget**.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja habilitar/desabilitar  a opção de exibir notar no Widget.<br>**Pré-condição**  - Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido na [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao).|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** |Internet;<br>Smartphone;<br>[Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Conta no Evernote.|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) está em "Administrar bloqueio de senha";<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) ativa ou desativa a opção clicando em "Exibir notas no Widget".|
+| **Restrição** |Estar conectado à internet;<br>Possuir [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) instalada;<br>Possuir conta no Evernote;<br>Possuir [código de acesso](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#codigo-de-acesso) definido.
+| **Exceções** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não definiu uma senha.|
 
 
-### Cenário 07
-| Título | Capturar página da web utilizando o **Evernote Web Clipper**|
+#### Cenário 07
+| Título | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
 |-----------|------------------|
-| **Objetivo** | Descrever as opções relacionadas à captura de páginas da web com o Web Clipper.|
-| **Contexto** | **Situação**  - Usuário deseja salvar informações de uma página da web como **nota**.<br>**Pré-condição**  - Possuir conta no app e extensão adicionada ao Google Chrome.|
-| **Atores** | Usuário.|
-| **Recursos** | Internet;<br>Conta no Evernote;<br>Google Chrome;<br>**Evernote Web Clipper**.|
-| **Episódios** | **Usuário** abre o Google Chrome e navega até a página da web desejada;<br>**Usuário** clica sobre o ícone do Evernote Web Clipper;<br>**Usuário** seleciona um **formato de captura**;<br>**Usuário** seleciona em qual **caderno** deseja salvar a **captura**;<br>**Usuário** pode adicionar **etiquetas**;<br>**Usuário** pode adicionar uma observação à **nota**;<br>**Usuário** salva a **nota**;|
+| **Objetivo** | Descrever as opções relacionadas à [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura) de páginas da web com o Web Clipper.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja salvar informações de uma página da web como [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota).<br>**Pré-condição**  - Possuir conta no app e extensão adicionada ao Google Chrome.|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
+| **Recursos** | Internet;<br>Conta no Evernote;<br>Google Chrome;<br>[Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper).|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um **formato de captura**;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) deseja salvar a [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar [etiquetas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar uma observação à [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);|
 | **Restrição** |Estar conectado à internet;<br>Possuir extensão Web Clipper adicionada ao Chrome;|
-| **Exceções** |Usuário pode não salvar a **nota**;<br>Falha na conexão com a internet.|
+| **Exceções** |[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode não salvar a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);<br>Falha na conexão com a internet.|
 
-### Cenário08                                                                   
+#### Cenário08                                                                   
 
 | Título | Abrir aplicativo |
 |-----------|------------------|
 | **Objetivo** | Usar aplicativo |
 | **Contexto** | Ter aplicativo |
-| **Atores** | Usuário |
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario)|
 | **Recursos** | Celular <br> Computador <br> Bateria <br> Internet |
-| **Episódios** | Usuário pega o celular <br> Usuário abre o aplicativo <br> Usuário faz uma anotação |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pega o celular <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o aplicativo <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) faz uma anotação |
 | **Exceções** | Celular está sem bateria <br> Aplicativo não abre <br> Touch do celular não funciona |
 
-### Cenário09                                                                  
+#### Cenário09                                                                  
 
 | Título | Exportar Arquivo |
 |-----------|------------------|
 | **Objetivo** | Salvar arquivo importante |
 | **Contexto** | Ter aplicativo |
-| **Atores** | Usuário |
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario)|
 | **Recursos** | Celular <br> Computador <br> Bateria <br> Internet <br> Arquivo Digital |
-| **Episódios** | Usuário salva pdf pelo computador em uma nota <br> Usuário abre o aplicativo pelo celular <br> Usuário acessa arquivo salvo |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva pdf pelo computador em uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)<br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o aplicativo pelo celular <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa arquivo salvo |
 | **Exceções** | Celular está sem bateria <br> Aplicativo não abre <br> Touch do celular não funciona <br> Computador está sem internet <br> Arquivo está corrompido |
 
-# Léxico
+## Léxico
 
-## Sumário Léxicos
+### Sumário Léxicos
 |ID| Nome |
 |--|--|
 | L | Aplicação |
@@ -131,7 +132,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | L | Nota |
 | L | Caderno |
 
-### Aplicação
+#### Aplicação
 
 **Noção:**
 
@@ -150,7 +151,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
  
 
 
-### Usuário
+#### Usuário
 
 **Noção:**
 
@@ -168,7 +169,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 **Sinônimos:**  usuários.
 
-### Código de acesso
+#### Código de acesso
 
 **Noção:**
 
@@ -183,7 +184,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 **Sinônimos:** senha.
 
-### Evernote Web Clipper
+#### Evernote Web Clipper
 
 **Noção:**
 
@@ -198,7 +199,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 **Sinônimos:** Web Clipper.
 
-### Captura
+#### Captura
 
 **Noção:**
 
@@ -214,7 +215,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 **Sinônimos:** Capturas.
 
-### Etiqueta
+#### Etiqueta
 
 **Noção:**
 
@@ -229,7 +230,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 **Sinônimos:** Etiquetas.
 
-### Nota
+#### Nota
 
 **Noção:**
 
@@ -244,7 +245,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 **Sinônimos:** notas, anotações.
 
-### Caderno
+#### Caderno
 
 **Noção:**
 

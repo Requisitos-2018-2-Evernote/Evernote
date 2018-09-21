@@ -2,15 +2,14 @@
 
 ### Sumário Técnicas
 
-| ID | Story Board |
+| ID | Técnicas de Elicitação|
 |----|------|
-| [x](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criando-listas) | Criando Listas |
-| [x](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#catalogo-de-botanica) | Catálogo de Botânica |
+| [SB1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) | Criando Listas |
+| [SB2](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#catalogo-de-botanica) | Catálogo de Botânica |
+| [ST1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#procurando-um-aplicativo) | Procurando um Aplicativo |
+| [E01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#escolha-do-aplicativo) | Escolha do aplicativo |
 
-| ID | Storytelling |
-|----|------|
-| [x](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#procurando-um-aplicativo) | Procurando um Aplicativo |
-| [x](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#entrevista-com-usuaria-do-evernote) | Entrevista com usuária do Evernote |
+### Questionário
 
 ### Story Board
 
@@ -33,11 +32,13 @@ Já utilizava o OneNote para raras anotações, mas estava passando por alguns �
 
 Elicitado por: Vinícius Ferreira
 
-#### Entrevista com usuária do Evernote
+### Entrevista
 
-Larissa: Clara, você usa o evernote, né?
-Clara: uso sim, anoto as coisas da faculdade lá!
-Larissa: por que você resolveu usar esse aplicativo?
+#### Escolha do aplicativo
+
+Larissa: Clara, você usa o evernote, né?  
+Clara: uso sim, anoto as coisas da faculdade lá!  
+Larissa: por que você resolveu usar esse aplicativo?  
 Clara: Carregar uma mochila pesada todo dia é muito difícil. Pegamos muitas disciplinas na faculdade e carregamos muitos cadernos, além de um computador e outros materiais… A solução mais prática que encontrei pra isso foi parar de trazer cadernos e usar ao máximo o que o computador pode me oferecer, através de um aplicativo que consegue categorizar minhas anotações por cadernos. Isso facilita muito, já que perco menos tempo anotando as coisas, consigo procurar de forma rápida um conteúdo específico e ainda posso usar como agenda também!
 
 Clara Justa, aluna da FGA  
@@ -45,8 +46,15 @@ Elicitado por: Larissa Sales
 
 ## Priorização
 
-### Sumário Priorização
-
 ### First Things First
 
+![Imgur](https://i.imgur.com/ykiIY1V.png)
+
 ### MoSCoW
+
+| Must (M) | Should (S) | Could (C) | Would (W) |
+|----------|------------|-----------|-----------|
+| Criar lembretes | Salvar conteúdos de sites | Gravar áudio | Escrita à mão |
+| Dados e cadernos devem estar seguros | Compartilhar com outros usuários | Salvar fotos | Chat em tempo real |
+| Funcionamento offline | Digitalização |||
+|| Buscador ||||

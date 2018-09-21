@@ -118,6 +118,29 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva pdf pelo computador em uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)<br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o aplicativo pelo celular <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa arquivo salvo |
 | **Exceções** | Celular está sem bateria <br> Aplicativo não abre <br> Touch do celular não funciona <br> Computador está sem internet <br> Arquivo está corrompido |
 
+#### Criar Caderno                                                                
+
+| Título | Criar Caderno |
+|-----------|------------------|
+| **Objetivo** | Criar um caderno para anotações no aplicativo Evernote |
+| **Contexto** | Acessar o aplicativo |
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario)|
+| **Recursos** | Celular <br> Computador <br> Bateria |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa o Evernote <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão de oções, que tem formato de 3 traços <br>  [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na opção [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão com formato de caderno com sinal de + <br> Depois escreve nome do [Caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) e clica em OK |
+| **Restrições** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não logado |
+| **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
+
+#### Restaurar uma nota                                                              
+
+| Título | Restaurar uma nota |
+|-----------|------------------|
+| **Objetivo** | Restaurar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) que foi movida para a lixeira |
+| **Contexto** | Ter [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> Ter uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) excluída|
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario)|
+| **Recursos** | Celular <br> Computador <br> Bateria |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa o Evernote. <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão de oções, que tem formato de 3 traços <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na opção lixeira <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) que quer recuperar <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão com formato de 3 pontinhos <br> Em seguida, clica em "Restaurar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)" |
+| **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
+
 ## Léxicos
 
 o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utilizada na aplicação, que permite explicar palavras inseridas no contexto do produto, ajudando a entender o universo da aplicação.
@@ -154,7 +177,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 | Léxico | Usuário |
 |-----------|------------------|
 | **Noção** | Pessoa que está utilizando o aplicativo. |
-| **Classificação** | Objeto |
+| **Classificação** | Sujeito |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso; <br> Usuário deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a nota; <br> Poderá utilizar todos os recursos disponíveis na aplicação. |
 | **Sinônimos** | Usuários |
 

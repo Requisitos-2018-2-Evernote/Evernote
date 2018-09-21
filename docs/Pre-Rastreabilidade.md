@@ -1,5 +1,22 @@
 ## Rich Pictures
 
+| ID | Rich Pictures |
+|----|------|
+| [RP1](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP2](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP3](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP4](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP5](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP6](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP7](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
+| [RP8](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Criar Nota |
+| [RP9](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criar-nota) | Visão de Usuário |
+| [RP10](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas) | Pequenas Empresas |
+| [RP11](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho) | Fluxo de Trabalho |
+
+
+### Sumário Rich Pictures
+
 #### Visão Geral
 
 ![img-geral1](https://i.imgur.com/V0OFrtn.png)  
@@ -51,7 +68,17 @@ Versão 1.0
 Autor:
 
 
-## Argumentação
+## Argumentações
+
+### Sumário Argumentações
+
+| ID | Argumentação |
+|----|------|
+| [A1](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#escolha-do-app) | Escolha do App |
+| [A2](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#escolha-de-horario-para-reunioes) | Escolha de horário para reuniões |
+| [A3](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#concorrencia-do-app) | Concorrência do App |
+| [A4](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#monetizacao) | Monetização |
+
 
 #### Escolha do app
 ![img-escolha-app](https://i.imgur.com/9TZdzhW.png)  

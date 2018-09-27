@@ -16,6 +16,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | [C07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#capturar-pagina-da-web-utilizando-o-evernote-web-clipper) | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
 | [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#abrir-aplicativo) | Abrir aplicativo |
 | [C09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exportar-arquivo) | Exportar Arquivo |
+| [C10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-pilha-de-cadernos) | Criar Pilha de Cadernos |
 
 #### Administrar bloqueio de senha
 | Título | Administrar bloqueio de senha |
@@ -89,7 +90,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | Título | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
 |-----------|------------------|
 | **Objetivo** | Descrever as opções relacionadas à [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura) de páginas da web com o Web Clipper.|
-| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja salvar informações de uma página da web como [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota).<br>**Pré-condição**  - Possuir conta no app e extensão adicionada ao Google Chrome.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja salvar informações de uma página da web como [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota).<br>**Pré-condição**  - Possuir conta no [app](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) e extensão adicionada ao Google Chrome.|
 | **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
 | **Recursos** | Internet;<br>Conta no Evernote;<br>Google Chrome;<br>[Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper).|
 | **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um **formato de captura**;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) deseja salvar a [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar [etiquetas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar uma observação à [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);|
@@ -104,7 +105,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | **Contexto** | Ter aplicativo |
 | **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario)|
 | **Recursos** | Celular <br> Computador <br> Bateria <br> Internet |
-| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pega o celular <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o aplicativo <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) faz uma anotação |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pega o celular <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o aplicativo <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão de "mais" <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe o tipo de nota que quer fazer <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) faz uma anotação |
 | **Exceções** | Celular está sem bateria <br> Aplicativo não abre <br> Touch do celular não funciona |
 
 #### Exportar Arquivo                                                                 
@@ -112,11 +113,11 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | Título | Exportar Arquivo |
 |-----------|------------------|
 | **Objetivo** | Salvar arquivo importante |
-| **Contexto** | Ter aplicativo |
+| **Contexto** | Ter [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) |
 | **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario)|
 | **Recursos** | Celular <br> Computador <br> Bateria <br> Internet <br> Arquivo Digital |
 | **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva pdf pelo computador em uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)<br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o aplicativo pelo celular <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa arquivo salvo |
-| **Exceções** | Celular está sem bateria <br> Aplicativo não abre <br> Touch do celular não funciona <br> Computador está sem internet <br> Arquivo está corrompido |
+| **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona <br> Computador está sem internet <br> Arquivo está corrompido |
 
 #### Criar Caderno                                                                
 
@@ -141,6 +142,17 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) acessa o Evernote. <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão de oções, que tem formato de 3 traços <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na opção lixeira <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica na [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) que quer recuperar <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no botão com formato de 3 pontinhos <br> Em seguida, clica em "Restaurar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)" |
 | **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
 
+#### Criar pilha de cadernos                                                            
+
+| Título | Criar uma pilha de cadernos |
+|-----------|------------------|
+| **Objetivo** | Agrupar cadernos por temas em comum |
+| **Contexto** | Ter [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> Agrupar [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) |
+| **Recursos** | Celular <br> Computador <br> Bateria |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em ["cadernos"](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica e segura um [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) existente <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona opção "mover para pilha" ou "mover para nova pilha" |
+| **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
+
 ## Léxicos
 
 o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utilizada na aplicação, que permite explicar palavras inseridas no contexto do produto, ajudando a entender o universo da aplicação.
@@ -162,6 +174,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 | [L06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta) | Etiqueta |
 | [L07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) | Nota |
 | [L08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) | Caderno |
+| [L09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pilha) | Pilha |
 
 #### Aplicação
 
@@ -234,6 +247,16 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 | **Classificação** | Objeto |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Cadernos podem ser utilizados para organizar/separar notas. |
 | **Sinônimos** | Cadernos |
+
+#### Pilha
+
+| Léxico | Pilha |
+|-----------|------------------|
+| **Noção** | Agrupador de cadernos no Evernote. |
+| **Classificação** | Objeto |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) cria pilha de cadernos; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) organiza cadernos por temas em comum. |
+| **Sinônimos** | Pilhas |
+
 
 ## Referências
 LEITE, Jair. Usando cenários para descobrir requisitos. Disponível [aqui](http://engenhariadesoftware.blogspot.com/2007/05/usando-cenrios-para-descobrir.html). Acesso em: 18 de setembro de 2018.

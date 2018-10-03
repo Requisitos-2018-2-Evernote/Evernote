@@ -7,7 +7,9 @@
 | [UC01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha) | Administrar bloqueio de senha |
 | [UC02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#evernote-web-clipper) | Evernote web clipper |
 | [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete) | Criar Lembrete |
-| [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-nota) | Criar Nota |
+| [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-nota) | Criar Nota
+| [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#pesquisar-nota) | Pesquisar Nota |
+| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo | 
 
 #### Administrar bloqueio de senha
 ![Administrar bloqueio de senha](https://i.imgur.com/EFzAWAX.png)
@@ -20,6 +22,12 @@
 
 #### Criar Nota
 ![Imgur](https://i.imgur.com/cnwFYOI.jpg?1)
+
+#### Pesquisar Nota
+![Imgur](https://i.imgur.com/vImXAt1.jpg)
+
+#### Exportar Arquivo
+![Imgur](https://i.imgur.com/oiwhfQD.png)
 
 ## Especificação Suplementar
 

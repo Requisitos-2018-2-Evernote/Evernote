@@ -9,7 +9,10 @@
 | [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete) | Criar Lembrete |
 | [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-nota) | Criar Nota
 | [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#pesquisar-nota) | Pesquisar Nota |
-| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo | 
+| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo |
+| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#restaurar-nota) | Restaurar Nota |
+| [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro) | Cadastro |
+| [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario) | Login de Usuário |  
 
 #### Administrar bloqueio de senha
 ![Administrar bloqueio de senha](https://i.imgur.com/EFzAWAX.png)
@@ -28,6 +31,15 @@
 
 #### Exportar Arquivo
 ![Imgur](https://i.imgur.com/oiwhfQD.png)
+
+#### Restaurar Nota
+![Imgur](https://i.imgur.com/2DFXIPN.jpg)
+
+#### Cadastro
+![Imgur](https://i.imgur.com/Tebtpo1.png)
+
+#### Login de Usuário
+![Imgur](https://i.imgur.com/ODqWSBg.png)
 
 ## Especificação Suplementar
 

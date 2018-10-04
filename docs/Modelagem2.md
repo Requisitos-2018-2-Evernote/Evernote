@@ -129,6 +129,7 @@ Usuário
 Usuário não deve estar logado no evernote.
 
 **Fluxo Principal:**
+
 1. Usuário acessa o evernote por algum dispositivo.
 
 2. Usuário acessa a opção "Entrar".
@@ -137,7 +138,9 @@ Usuário não deve estar logado no evernote.
 
 4. Usuário insere as informações de Login.
 
-**Fluxo Alternativo 01 (Login com conta google):**
+**Fluxo Alternativo 01:**
+Login com conta google
+
 1. Usuário seleciona a opção "Continuar com o Google".
 
 2. Usuário insere um email ou um telefone cadastrado numa conta Google.
@@ -153,7 +156,9 @@ Regras de Negócio 01
 |Email Google| exemplo@exemplo.com | Sim | Email google valido|
 |Senha|padrão google|Sim|Senha valida|
 
-**Fluxo Alternativo 02 (Login com email):**
+**Fluxo Alternativo 02:**
+Login com email
+
 1. Usuário insere um email valido e não cadastrado.
 
 2. Usuário insere sua senha valida.
@@ -190,6 +195,7 @@ Usuário tem acesso aos cadernos criados.
 Usuario
 
 **Fluxo básico:**
+
 1. O caso de uso começa quando o usuário abre o aplicativo, seleciona o menu e seleciona a opção "Cadernos".
 
 2. O usuário visualiza todos os cadernos existentes e tem a opção pesquisar por um determinado caderno.
@@ -385,14 +391,15 @@ Nota já possui um lembrete
 
 4. O fluxo é encerrado.
 
-
 **Pré-condições**
 O usuário deverá estar logado no sistema.
 
 **Pós-condições**
 É adicionado um novo lembrete.
 
+
 #### Mudar para plano Premium
+
 **Nome do Caso de Uso**
 Mudar para plano Premium
 

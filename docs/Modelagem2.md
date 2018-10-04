@@ -38,16 +38,6 @@
 #### Cadastro
 ![Imgur](https://i.imgur.com/Tebtpo1.png)
 
-#### Login de Usuário
-![Imgur](https://i.imgur.com/ODqWSBg.png)
-
-
-## Especificação Suplementar
-
-### Sumário Especificação Suplementar
-
-#### UC08 Cadastro de Usuário
-
 **Descrição:**
 Este caso de uso permite que o usuário possa se cadatre e tenha acesso ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
 
@@ -61,6 +51,7 @@ Usuário
 Usuário não deve está cadastrado no evernote.
 
 **Fluxo Principal:**
+
 1. Usuário não cadastrado acessa o evernote por algum dispositivo.
 
 2. Usuário acessa a opção criar conta.
@@ -70,6 +61,7 @@ Usuário não deve está cadastrado no evernote.
 4. Usuário insere as informações de cadastro.
 
 **Fluxo Alternativo 01 (Cadastrar com conta google):**
+
 1. Usuário não cadastrado seleciona a opção "Continuar com o Google".
 
 2. Usuário não cadastrado insere um email ou um telefone cadastrado numa conta Google.
@@ -121,7 +113,8 @@ Regras de Negócio 02
 |Senha|String|sim|Senha valida|
 
 
-#### UC09 Login do Usuário
+#### Login de Usuário
+![Imgur](https://i.imgur.com/ODqWSBg.png)
 
 **Descrição:**  
 Este caso de uso permite que o usuário possa se conectar ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
@@ -180,12 +173,17 @@ Regras de Negócio 02
 |Senha|String|sim|Senha valida|
 
 
+
+## Especificação Suplementar
+
+### Sumário Especificação Suplementar
+
 #### Acessar Caderno
 
 **Nome do Caso de Uso:**
 Acessar Caderno
 
-**Breve descrição:**
+**Descrição:**
 Usuário tem acesso aos cadernos criados.
 
 **Atores:**
@@ -217,7 +215,7 @@ O usuário terá acesso aos seus cadernos.
 **Nome do Caso de Uso:**
 Criar Caderno
 
-**Breve descrição:**
+**Descrição:**
 Usuário cria um novo caderno.
 
 **Atores:** 
@@ -247,7 +245,7 @@ O usuário terá um novo caderno criado.
 **Nome do Caso de Uso:**
 Acessar Nota
 
-**Breve descrição:**
+**Descrição:**
 Usuário tem acesso as notas criadas.
 
 **Atores:**
@@ -314,7 +312,7 @@ O usuário terá acesso a sua nota.
 **Nome do Caso de Uso:**
 Adicionar Etiqueta
 
-**Breve descrição:**
+**Descrição:**
 Permite a um usuário adicionar uma Etiqueta a uma nota.
 
 **Atores:**
@@ -356,7 +354,7 @@ O usuário deverá estar logado no sistema.
 **Nome do Caso de Uso:**
 Adicionar Lembrete
 
-**Breve descrição:**
+**Descrição:**
 Permite a um usuário adicionar uma Lembrete a uma nota.
 
 **Atores:**
@@ -398,7 +396,7 @@ O usuário deverá estar logado no sistema.
 **Nome do Caso de Uso**
 Mudar para plano Premium
 
-**Breve descrição**
+**Descrição**
 Usuário se torna um membro Premium.
 
 **Atores**
@@ -449,14 +447,14 @@ Usuario deseja pagar usando um vale-presente pré-pago
 6. O caso de uso se encerra.
 
 
-**Fluxo de Exceção 01**
+**Fluxo de Exceção 01:**
 Não ter acesso a Internet durante o procedimento
 
 1. O sistema informa a falta de internet.
 
 2. O caso de uso se encerra.
 
-**Fluxo de Exceção 02**
+**Fluxo de Exceção 02:**
 Não possuir uma das formas de pagamento aceitas.
 
 1. O sistema informa as opções existentes.
@@ -465,7 +463,7 @@ Não possuir uma das formas de pagamento aceitas.
 
 3. O caso de uso se encerra.
 
-**Pré-condições**
+**Pré-condições:**
 
 1. O usuário deverá estar logado no sistema.
 
@@ -474,7 +472,7 @@ Não possuir uma das formas de pagamento aceitas.
 3. O usuário deverá possuir uma das formas de pagamento aceitas.
 
 
-**Pós-condições**
+**Pós-condições:**
 O usuário terá uma conta premium.
 
 

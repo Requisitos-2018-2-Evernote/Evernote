@@ -12,6 +12,7 @@
 | [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo |
 | [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#restaurar-nota) | Restaurar Nota |
 | [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro) | Cadastro |
+| [UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#lixeira) | Lixeira |
 | [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario) | Login de Usuário |  
 
 #### Administrar bloqueio de senha
@@ -27,13 +28,16 @@
 ![Imgur](https://i.imgur.com/cnwFYOI.jpg?1)
 
 #### Pesquisar Nota
-![Imgur](https://i.imgur.com/vImXAt1.jpg)
+![Imgur](https://i.imgur.com/YDJDe41.png)
 
 #### Exportar Arquivo
 ![Imgur](https://i.imgur.com/oiwhfQD.png)
 
 #### Restaurar Nota
 ![Imgur](https://i.imgur.com/2DFXIPN.jpg)
+
+#### Lixeira
+![Imgur](https://i.imgur.com/B0FfeZn.png)
 
 #### Cadastro
 ![Imgur](https://i.imgur.com/Tebtpo1.png)

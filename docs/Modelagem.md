@@ -14,7 +14,7 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | [C05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#bloqueio-de-senha) | Bloqueio de senha |
 | [C06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exibir-notas-no-widget) | Exibir [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no Widget |
 | [C07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#capturar-pagina-da-web-utilizando-o-evernote-web-clipper) | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
-| [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#abrir-aplicativo) | Abrir [aplicativo]https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao)  |
+| [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#abrir-aplicativo) | Abrir [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao)  |
 | [C09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exportar-arquivo) | Exportar arquivo |
 | [C10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-caderno) | Criar [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
 | [C11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#restaurar-uma-nota) | Restaurar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |

@@ -3,8 +3,9 @@ pages:
     - Home: index.md
     - Pré-Rastreabilidade: Pre-Rastreabilidade.md
     - Elicitação: Elicitacao.md
-    - Modelagem - Cenários e Léxicos: Modelagem.md
-    - Modelagem - Casos de uso e Especificação Suplementar: Modelagem2.md
+    - Modelagem - Inicial: Modelagem.md
+    - Modelagem - Tradicional: Modelagem2.md
+    - Modelagem - Ágil: Modelagem3.md
     - Análise: Analise.md
     - Pós-Rastreabilidade: Pos-Rastreabilidade.md
 theme:

@@ -19,9 +19,8 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | [C10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-caderno) | Criar [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
 | [C11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#restaurar-uma-nota) | Restaurar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
 | [C12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-pilha-de-cadernos) | Criar pilha de [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
-| [C13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#buscar-nota) | Buscar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
-| [C14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#esvaziar-lixeira) | Esvaziar lixeira |
-| [C15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#buscar-nota) | Buscar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
+| [C13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#esvaziar-lixeira) | Esvaziar lixeira |
+| [C14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#buscar-nota) | Buscar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
 
 
 #### Administrar bloqueio de senha

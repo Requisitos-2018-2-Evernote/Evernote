@@ -6,18 +6,21 @@
 ##### US01 - Realizar cadastro
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve ser apresentado uma campo para inserção do E-mail</li>
-	<li>Deve ser apresentado uma campo para inserção da Senha</li>
-	<li>Deve ser efetuado o cadastro</li>
+
+- Deve ser apresentado uma campo para inserção do E-mail
+
+- Deve ser apresentado uma campo para inserção da Senha
+
+- Deve ser efetuado o cadastro
 
 
 ##### US02 - Realizar cadastro com conta Google
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve pedir permissão da conta Google</li>
-	<li>Deve ser efetuado o cadastro</li>
+
+-  Deve pedir permissão da conta Google
+
+- Deve ser efetuado o cadastro
 
 
 #### Login
@@ -27,26 +30,30 @@
 ##### US03 - Realizar Login
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve ser apresentado uma campo para inserção do E-mail</li>
-	<li>Deve ser apresentado uma campo para inserção da Senha</li>
-	<li>Deve ser efetuado o login</li>
+
+-  Deve ser apresentado uma campo para inserção do E-mail
+
+- Deve ser apresentado uma campo para inserção da Senha
+
+- Deve ser efetuado o login
 
 
 ##### US04 - Terminar sessão
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve ser deslogado ao clicar no botão de deslogar</li>
-	<li>Deve voltar para a página inicial</li>
+
+- Deve ser deslogado ao clicar no botão de deslogar
+
+- Deve voltar para a página inicial
 
 
 ##### US05 - Efetuar login com conta Google
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve haver um campo para login com conta google</li>
-	<li>Deve aparecer confirmação de login com conta Google</li>
+
+- Deve haver um campo para login com conta google
+
+- Deve aparecer confirmação de login com conta Google
 
 
 #### Conta
@@ -59,64 +66,72 @@
 ##### US13 - Criar Nota
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve haver a opção de criar uma nota em branco</li>
-	<li>Deve abrir a nota criada</li>
+
+- Deve haver a opção de criar uma nota em branco
+
+- Deve abrir a nota criada
 
 
 ##### US14 - Editar Nota
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve permitir a edição da nota já existente</li>
-	<li>Deve salvar ao fechar a nota</li>
+
+- Deve permitir a edição da nota já existente
+
+- Deve salvar ao fechar a nota
 
 
 ##### US15 - Renomear Nota
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve permitir a edição da título já existente</li>
-    <li>Deve salvar ao fechar a nota</li>
+
+- Deve permitir a edição da título já existente
+
+- Deve salvar ao fechar a nota
 
 
 ##### US16 - Excluir Nota
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve mover nota para lixeira ao excluir nota</li>
-    <li>Deve fechar a nota</li>
+
+- Deve mover nota para lixeira ao excluir nota
+
+- Deve fechar a nota
 
 
 ##### US17 - Mover Nota de Caderno
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve aparecer lista de cadernos já existentes</li>
-    <li>Deve aparecer opção de criar novo caderno</li>
-    <li>A nota deve estar no endereço do caderno para o qual foi movido</li>
+
+- Deve aparecer lista de cadernos já existentes
+
+- Deve aparecer opção de criar novo caderno
+
+- A nota deve estar no endereço do caderno para o qual foi movido
 
 
 ##### US18 - Restaurar Nota de Caderno
 
 **Criterios de Aceitação**
-<ul>
-	<li>A nota deve voltar para o caderno ao qual ela pertencia antes de ser excluída</li>
+
+- A nota deve voltar para o caderno ao qual ela pertencia antes de ser excluída
 
 
 ##### US19 - Duplicar Nota
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve criar um nota idêntica no mesmo caderno da nota original</li>
+
+- Deve criar um nota idêntica no mesmo caderno da nota original
 
 
 ##### US20 - Salvar Nota
 
 **Criterios de Aceitação**
-<ul>
-	<li>Deve haver opção de salvar</li>
-    <li>Deve salvar a nota automaticamente ao fechá-la</li>
+
+- Deve haver opção de salvar
+
+- Deve salvar a nota automaticamente ao fechá-la
+
 
 #### Caderno
 ![Imgur](https://i.imgur.com/PMmYFO2.png)

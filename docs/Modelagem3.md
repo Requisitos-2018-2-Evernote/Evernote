@@ -11,6 +11,12 @@
 	<li>Deve ser apresentado uma campo para inserção da Senha</li>
 	<li>Deve ser efetuado o cadastro</li>
 
+##### US02 - Realizar cadastro com conta Google
+
+**Criterios de Aceitação**
+<ul>
+	<li>Deve pedir permissão da conta Google</li>
+	<li>Deve ser efetuado o cadastro</li>
 
 #### Login
 ![Imgur](https://i.imgur.com/4tQkFly.png)
@@ -23,6 +29,20 @@
 	<li>Deve ser apresentado uma campo para inserção da Senha</li>
 	<li>Deve ser efetuado o login</li>
 
+##### US04 - Terminar sessão
+
+**Criterios de Aceitação**
+<ul>
+	<li>Deve ser deslogado ao clicar no botão de deslogar</li>
+	<li>Deve voltar para a página inicial</li>
+
+##### US04 - Efetuar login com conta Google
+
+**Criterios de Aceitação**
+<ul>
+	<li>Deve haver um campo para login com conta google</li>
+	<li>Deve aparecer confirmação de login com conta Google</li>
+    
 #### Conta
 ![Imgur](https://i.imgur.com/lPnuoPU.png)
 

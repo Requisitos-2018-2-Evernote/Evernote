@@ -14,9 +14,15 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | [C05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#bloqueio-de-senha) | Bloqueio de senha |
 | [C06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exibir-notas-no-widget) | Exibir [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) no Widget |
 | [C07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#capturar-pagina-da-web-utilizando-o-evernote-web-clipper) | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
-| [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#abrir-aplicativo) | Abrir aplicativo |
-| [C09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exportar-arquivo) | Exportar Arquivo |
-| [C10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-pilha-de-cadernos) | Criar Pilha de Cadernos |
+| [C08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#abrir-aplicativo) | Abrir [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao)  |
+| [C09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#exportar-arquivo) | Exportar arquivo |
+| [C10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-caderno) | Criar [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
+| [C11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#restaurar-uma-nota) | Restaurar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
+| [C12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#criar-pilha-de-cadernos) | Criar pilha de [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
+| [C13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#buscar-nota) | Buscar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
+| [C14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#esvaziar-lixeira) | Esvaziar lixeira |
+| [C15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#buscar-nota) | Buscar [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) |
+
 
 #### Administrar bloqueio de senha
 | Título | Administrar bloqueio de senha |
@@ -152,6 +158,28 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | **Recursos** | Celular <br> Computador <br> Bateria |
 | **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em ["cadernos"](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica e segura um [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) existente <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona opção "mover para pilha" ou "mover para nova pilha" |
 | **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
+
+#### Esvaziar lixeira
+
+| Título | Esvaziar lixeira |
+|-----------|------------------|
+| **Objetivo** | Remover permanentemente todas as [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) excluidas mas mantidas na lixeira |
+| **Contexto** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) decide não precisar das [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) descartadas para a lixeira e decide deleta-las permanentemente |
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) |
+| **Recursos** | Plataforma <br> [Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacão) <br> Bateria |
+| **Episódios** | O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre a lixeira <br> O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) comanda o esvaziamento <br> A lixeira é esvaziada <br> Uma mensagem comunica que a lixeira está vazia |
+| **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> A lixeira está vazia |
+
+#### Buscar nota
+
+| Título | Buscar nota |
+|-----------|------------------|
+| **Objetivo** | Encontrar a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) desejada |
+| **Contexto** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) requer acesso à uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) mas desconhece seu paredeiro ou prefere localiza-la através de uma palavra-chave |
+| **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) |
+| **Recursos** | Plataforma <br> [Aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacão) <br> Bateria <br> Alogoritmo de busca |
+| **Episódios** | O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica no ícone de busca <br> O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escreve uma palavra-chave <br> O algoritmo retorna uma lista das possíveis [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) <br> O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) vizualiza as notas retornadas pelo algoritmo <br> O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) encontra a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) <br> O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não encontra a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)  |
+| **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Não haver [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) salvas no [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacão) |
 
 ## Léxicos
 

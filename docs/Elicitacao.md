@@ -56,6 +56,10 @@ Elicitado por: Larissa Sales
 
 ![Imgur](https://i.imgur.com/ykiIY1V.png)
 
+![Imgur](https://i.imgur.com/IP5VG7I.png?1)
+Autor: João Victor
+
+
 ### MoSCoW
 
 | Must (M) | Should (S) | Could (C) | Would (W) |

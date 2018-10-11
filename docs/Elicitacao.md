@@ -27,6 +27,38 @@ Autor: Marcelo Araújo
 ![Imgur](https://i.imgur.com/RycRwGb.png)
 Autor: João Victor
 
+### Brainstorm
+
+![Imgur]()
+
+Autor: João Victor
+
+
+**Brainstorming** é uma técnica para geração de idéias. Ela consiste em uma ou
+várias reuniões que permitem que as pessoas sugiram e explorem idéias.
+
+Requisitos encontrados:
+
+1 - O usuário deve visualizar as notas.
+
+2 - O usuário deve ser capaz de sincronizar os dispositivos.
+
+3 - O usuário deve ser capaz de editar um nota.
+
+4 - O usuário deve ser capaz de compartilha uma nota.
+
+34 - O usuário deve ser capaz de anexar arquivos do google drive em uma nota.
+
+35 - O usuário deve ser capaz de gravar áudio em uma nota.
+
+36 - O usuário deve ser capaz de tirar uma foto para uma nota.
+
+37 - O usuário deve ser capaz de inserir uma foto em uma nota.
+
+38 - O usuário deve ser capaz de esconder a barra de ferramentas.
+
+39 - O usuário deve ser capaz de duplicar uma nota.
+
 
 ### Storytelling
 

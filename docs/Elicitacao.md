@@ -4,14 +4,19 @@
 
 | ID | Técnicas de Elicitação|
 |----|------|
-| [SB1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) | Criando Listas |
-| [SB2](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#catalogo-de-botanica) | Catálogo de Botânica |
+| [SB1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) | Uso diário |
+| [SB2](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) | Criando Listas |
+| [SB3](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#catalogo-de-botanica) | Catálogo de Botânica |
 | [ST1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#procurando-um-aplicativo) | Procurando um Aplicativo |
 | [E01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#escolha-do-aplicativo) | Escolha do aplicativo |
 
 ### Questionário
 
 ### Story Board
+
+#### Uso diário 
+![Imgur](https://i.imgur.com/99xUIVI.jpg)
+Autor: João Victor
 
 #### Criando Listas
 
@@ -21,6 +26,7 @@ Autor: Marcelo Araújo
 #### Catálogo de Botânica
 ![Imgur](https://i.imgur.com/RycRwGb.png)
 Autor: João Victor
+
 
 ### Storytelling
 

@@ -62,9 +62,54 @@ Autor: João Victor
 
 ### MoSCoW
 
-| Must (M) | Should (S) | Could (C) | Would (W) |
+| Must (M) |  Should (S) | Could (C) | Would (W) |
 |----------|------------|-----------|-----------|
 | Criar lembretes | Salvar conteúdos de sites | Gravar áudio | Escrita à mão |
 | Dados e cadernos devem estar seguros | Compartilhar com outros usuários | Salvar fotos | Chat em tempo real |
 | Funcionamento offline | Digitalização |||
 || Buscador ||||
+
+|Número|Requisito|MoSCoW|
+|---------|-------|---------|
+|1.| O usuário deve visualizar as notas.| Must |
+|2.| O usuário deve ser capaz de sincronizar os dispositivos.| Should |
+|3.| O usuário deve ser capaz de editar um nota. |Must|
+|4.| O usuário deve ser capaz de compartilha uma nota. | Should|
+|5.| O usuário deve ser capaz de “favoritar” uma nota.| Would|
+|6.| O usuário deve ser capaz de inserir um lembrete em uma nota.| Must|
+|7.| O usuário deve ser capaz de imprimir uma nota. | Should|
+|8.| O usuário deve ser capaz de excluir uma nota. | Must|
+|9.| O usuário deve ser capaz de visualizar uma lixeira. Could|
+|10.| O usuário deve visualizar a data de uma nota. | Must|
+|11.| O usuário pode visualizar o local de criação de uma nota. | Should|
+|12.| O usuário deve ser capaz de editar o titulo de uma nota. | Could|
+|13.| O usuário tem acesso a informações detalhas de uma nota. | Should|
+|14.| O usuário deve ser capaz de copiar uma nota inteira. | Must|
+|15.| O usuário deve ser capaz de copiar um “link interno” de uma nota.| Could|
+|16.| O usuário pode visualizar a hora de criação de uma nota. | Must|
+|17.| O usuário pode personalizar a barra de ferramentas de uma nota.| Could|
+|18.| O usuário deve ser capaz de alterar a fonte do texto de uma nota.| Could|
+|19.| O usuário deve ser capaz de alterar o tamanho do texto de uma nota.| Could|
+|20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.| Could|
+|21.| O usuário deve ser capaz de alterar o texto de uma nota para negrito.| Could|
+|22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| Could|
+|23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.| Could|
+|24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| Could|
+|25. |O usuário deve ser capaz de marca o texto de uma nota. | Would|
+|26. |O usuário deve ser capaz de inserir código-fonte em uma nota.| Could|
+|27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|Would|
+|28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| Would|
+|29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| Would|
+|30.| O usuário deve ser capaz de alinha o texto de uma nota. | Would|
+|31.| O usuário deve ser capaz de inserir uma tabela em uma nota.| Would|
+|32.| O usuário deve ser capaz de inserir uma linha em uma nota.| Would|
+|33.| O usuário deve ser capaz de anexar arquivos em uma nota. | Must|
+|34.| O usuário deve ser capaz de anexar arquivos do google drive em uma nota.| Could|
+|35.| O usuário deve ser capaz de gravar áudio em uma nota. | Must|
+|36.| O usuário deve ser capaz de tirar uma foto para uma nota. | Must|
+|37.| O usuário deve ser capaz de inserir uma foto em uma nota. | Must|
+|38.| O usuário deve ser capaz de esconder a barra de ferramentas.| Would|
+|39.| O usuário deve ser capaz de duplicar uma nota. | Would|
+|40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| Could|
+
+Autor: João Victor

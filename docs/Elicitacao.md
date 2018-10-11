@@ -62,6 +62,21 @@ Autor: João Victor
 
 ### MoSCoW
 
+Para a priorização de requisitos foi utilizado o MoSCoW, que consiste na divisão
+dos requisitos nas seguinte categorias:
+
+
+
+**Must** = Maior prioridade
+
+**Should** = Prioridade secundária
+
+**Could** = Prioridade terciária
+
+**Would** = Menor prioridade
+
+
+
 | Must (M) |  Should (S) | Could (C) | Would (W) |
 |----------|------------|-----------|-----------|
 | Criar lembretes | Salvar conteúdos de sites | Gravar áudio | Escrita à mão |
@@ -79,7 +94,7 @@ Autor: João Victor
 |6.| O usuário deve ser capaz de inserir um lembrete em uma nota.| Must|
 |7.| O usuário deve ser capaz de imprimir uma nota. | Should|
 |8.| O usuário deve ser capaz de excluir uma nota. | Must|
-|9.| O usuário deve ser capaz de visualizar uma lixeira. Could|
+|9.| O usuário deve ser capaz de visualizar uma lixeira.| Could|
 |10.| O usuário deve visualizar a data de uma nota. | Must|
 |11.| O usuário pode visualizar o local de criação de uma nota. | Should|
 |12.| O usuário deve ser capaz de editar o titulo de uma nota. | Could|

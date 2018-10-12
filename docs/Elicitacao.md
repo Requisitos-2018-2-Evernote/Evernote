@@ -29,9 +29,9 @@ Autor: João Victor
 
 ### Brainstorm
 
-![Imgur]()
+![Imgur](https://i.imgur.com/Xrr677z.png)
 
-Autor: João Victor
+
 
 
 **Brainstorming** é uma técnica para geração de idéias. Ela consiste em uma ou

@@ -12,6 +12,28 @@
 
 ### Questionário
 
+### Introspecção
+
+Colocando-se no lugar do usuário foi feita a introspecção, visando a elicitação de
+principalmente requisitos funcionais.
+
+Para isso me coloquei no lugar de um usuário navegando através das
+funcionalidades do evernote.
+
+|Número|Requisito|
+|--------|---------|
+|1.| O usuário deve visualizar as notas.|
+|2.| O usuário deve ser capaz de sincronizar os dispositivos.|
+|3.| O usuário deve ser capaz de editar um nota.|
+|4.| O usuário deve ser capaz de compartilha uma nota.|
+|5.| O usuário deve ser capaz de “favoritar” uma nota.|
+|6.| O usuário deve ser capaz de inserir um lembrete em uma nota.|
+|7.| O usuário deve ser capaz de imprimir uma nota.|
+|8.| O usuário deve ser capaz de excluir uma nota.|
+|9.| O usuário deve ser capaz de visualizar uma lixeira.|
+|10.| O usuário deve visualizar a data de uma nota.|
+
+
 ### Story Board
 
 #### Uso diário 

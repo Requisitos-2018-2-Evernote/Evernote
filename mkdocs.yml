@@ -6,6 +6,7 @@ pages:
     - Modelagem - Inicial: Modelagem.md
     - Modelagem - Tradicional: Modelagem2.md
     - Modelagem - Ágil: Modelagem3.md
+    - Modelagem - NFR: Modelagem4.md 
     - Análise: Analise.md
     - Pós-Rastreabilidade: Pos-Rastreabilidade.md
 theme:

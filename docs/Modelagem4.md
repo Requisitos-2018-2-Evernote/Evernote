@@ -6,7 +6,8 @@
 | 16/10/2018 | Mateus Oliveira  | NFR de segurança e de satisfação | 0.1 |
 | 17/10/2018 | Larissa Sales | NFR de organização dos cadernos | 0.2 |
 | 17/10/2018 | Matheus Filipe | NFR de interface e segurança de armazenamento de dados | 0.3 |
-| 17/10/2018 | João Victor | Geral | 0.4 |
+| 17/10/2018 | João Victor | Geral | 1.0|
+| 17/10/2018 | Marcelo Magalhães | Usabilidade | 1.1 |
 
 ## NFR
 
@@ -27,6 +28,8 @@
 
 ### Usabilidade
 ![Imgur](https://i.imgur.com/yFzCSGQ.jpg)
+
+![imgur](https://i.imgur.com/J99s7Nl.png)
 
 #### Organização dos cadernos do usuário
 ![Imgur](https://i.imgur.com/FTyDMtR.jpg)

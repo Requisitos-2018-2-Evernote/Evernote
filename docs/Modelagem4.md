@@ -36,3 +36,12 @@
 
 ### Desempenho
 ![Imgur](https://i.imgur.com/Ez9PBPY.jpg)
+
+## Referências
+[https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91](https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91)
+
+[https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
+[https://evernote.com/intl/pt-br/security](https://evernote.com/intl/pt-br/security)
+
+[https://evernote.com/intl/pt-br/privacy/data-usage](https://evernote.com/intl/pt-br/privacy/data-usage)

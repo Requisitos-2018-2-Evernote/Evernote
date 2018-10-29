@@ -7,10 +7,14 @@
 | 16/10/2018 | Mateus Oliveira  | NFR de segurança e de satisfação | 0.1 |
 | 17/10/2018 | Larissa Sales | NFR de organização dos cadernos | 0.2 |
 | 17/10/2018 | Matheus Filipe | NFR de interface e segurança de armazenamento de dados | 0.3 |
-| 17/10/2018 | João Victor | Geral | 1.0|
-| 17/10/2018 | Marcelo Magalhães | Usabilidade | 1.1 |
-|29/10/2018|Mateus Oliveira| iStar nota, SD e SR| 1.2 |
-|29/10/2018| Matheus Filipe | iStar Geral|1.2.1|
+| 17/10/2018 | João Victor | NFR Geral | 1.0|
+| 17/10/2018 | Marcelo Magalhães | NFR de Usabilidade | 1.1 |
+| 29/10/2018 | Mateus Oliveira| iStar nota, SD e SR | 1.2 |
+| 29/10/2018 | Matheus Filipe | iStar Geral|1.3|
+| 29/10/2018 | Larissa Sales | iStar de exportar nota | 1.4 |
+| 29/10/2018 | Larissa Sales | iStar de login | 1.5 |
+| 29/10/2018 | Larissa Sales | iStar de restaurar nota | 1.6 |
+
 
 ## NFR
 
@@ -49,6 +53,7 @@
 
 #### Modelo Estratégico de Dependência
 ![enter image description here](https://i.imgur.com/81ivaaf.jpg)
+
 #### Modelo de Raciocínio Estratégico
 ![enter image description here](https://i.imgur.com/sCGtOJg.jpg)
 
@@ -56,8 +61,25 @@
 
 #### Modelo Estratégico de Dependência
 ![enter image description here](https://i.imgur.com/VYNDkO1.png)
+
 #### Modelo de Raciocínio Estratégico
 ![enter image description here](https://i.imgur.com/hySobTH.png)
+
+### Login
+
+#### Modelo de Raciocínio Estratégico
+![Imgur](https://i.imgur.com/Nl7ftNu.png)
+
+### Exportar Nota
+
+#### Modelo de Raciocínio Estratégico
+![Imgur](https://i.imgur.com/IVM3fnd.png)
+
+### Restaurar Nota
+
+#### Modelo de Raciocínio Estratégico
+![Imgur](https://i.imgur.com/7R6KzeU.png)
+
 ## Referências
 [https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91](https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91)
 

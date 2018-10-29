@@ -14,6 +14,10 @@
 | 29/10/2018 | Larissa Sales | iStar de exportar nota | 1.4 |
 | 29/10/2018 | Larissa Sales | iStar de login | 1.5 |
 | 29/10/2018 | Larissa Sales | iStar de restaurar nota | 1.6 |
+| 29/10/2018 | João Victor | iStar armazenamento e sincronização de dados | 1.7 |
+| 29/10/2018 | João Victor | iStar bate papo | 1.7.2 |
+| 29/10/2018 | Marcelo Magalhães | iStar Realizar busca | 2.0 |
+
 
 
 ## NFR
@@ -51,34 +55,51 @@
 
 ### Geral
 
-#### Modelo Estratégico de Dependência
 ![enter image description here](https://i.imgur.com/81ivaaf.jpg)
 
-#### Modelo de Raciocínio Estratégico
 ![enter image description here](https://i.imgur.com/sCGtOJg.jpg)
+
+![](https://i.imgur.com/SBOuWzK.png)
 
 ### Nota
 
-#### Modelo Estratégico de Dependência
 ![enter image description here](https://i.imgur.com/VYNDkO1.png)
 
-#### Modelo de Raciocínio Estratégico
 ![enter image description here](https://i.imgur.com/hySobTH.png)
 
 ### Login
 
-#### Modelo de Raciocínio Estratégico
 ![Imgur](https://i.imgur.com/Nl7ftNu.png)
 
 ### Exportar Nota
 
-#### Modelo de Raciocínio Estratégico
 ![Imgur](https://i.imgur.com/IVM3fnd.png)
 
 ### Restaurar Nota
 
-#### Modelo de Raciocínio Estratégico
 ![Imgur](https://i.imgur.com/7R6KzeU.png)
+
+### Armazenar em nuvem
+![](https://i.imgur.com/rYRpboG.png)
+
+### Armazenar em disco local
+![](https://i.imgur.com/kpOgcCF.png)
+
+### Sincronizar de dados
+
+![](https://i.imgur.com/oAvIV7z.png)
+
+### Bate papo
+![](https://i.imgur.com/0TnPuOd.png)
+
+### Realizar pesquisa
+
+![](https://i.imgur.com/sDjtZqK.png)
+
+![](https://i.imgur.com/BgR4duf.png)
+
+![](https://i.imgur.com/DzgLTwc.png)
+
 
 ## Referências
 [https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91](https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91)

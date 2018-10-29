@@ -57,8 +57,6 @@
 
 ![enter image description here](https://i.imgur.com/81ivaaf.jpg)
 
-![enter image description here](https://i.imgur.com/sCGtOJg.jpg)
-
 ![](https://i.imgur.com/SBOuWzK.png)
 
 ### Nota
@@ -99,6 +97,9 @@
 ![](https://i.imgur.com/BgR4duf.png)
 
 ![](https://i.imgur.com/DzgLTwc.png)
+
+### Particularidades da versão premium
+![enter image description here](https://i.imgur.com/sCGtOJg.jpg)
 
 
 ## Referências

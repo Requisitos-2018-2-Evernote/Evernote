@@ -1,0 +1,1001 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      <meta http-equiv="x-ua-compatible" content="ie=edge">
+      
+      
+      
+      
+        <meta name="lang:clipboard.copy" content="Copy to clipboard">
+      
+        <meta name="lang:clipboard.copied" content="Copied to clipboard">
+      
+        <meta name="lang:search.language" content="en">
+      
+        <meta name="lang:search.pipeline.stopwords" content="True">
+      
+        <meta name="lang:search.pipeline.trimmer" content="True">
+      
+        <meta name="lang:search.result.none" content="No matching documents">
+      
+        <meta name="lang:search.result.one" content="1 matching document">
+      
+        <meta name="lang:search.result.other" content="# matching documents">
+      
+        <meta name="lang:search.tokenizer" content="[\s\-]+">
+      
+      <link rel="shortcut icon" href="../images/evernote-icon.ico">
+      <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.0.4">
+    
+    
+      
+        <title>Modelagem - Intencional - Evernote</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/application.451f80e5.css">
+      
+        <link rel="stylesheet" href="../assets/stylesheets/application-palette.22915126.css">
+      
+      
+        
+        
+        <meta name="theme-color" content="#4caf50">
+      
+    
+    
+      <script src="../assets/javascripts/modernizr.1aa3b519.js"></script>
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700|Roboto+Mono">
+        <style>body,input{font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono","Courier New",Courier,monospace}</style>
+      
+    
+    <link rel="stylesheet" href="../assets/fonts/material-icons.css">
+    
+    
+  </head>
+  
+    
+    
+    <body dir="ltr" data-md-color-primary="green" data-md-color-accent="green">
+  
+    <svg class="md-svg">
+      <defs>
+        
+        
+      </defs>
+    </svg>
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
+    
+      <a href="../#historico-de-versoes" tabindex="1" class="md-skip">
+        Skip to content
+      </a>
+    
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid">
+    <div class="md-flex">
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <a href=".." title="Evernote" class="md-header-nav__button md-logo">
+          
+            <img src="../images/evernote-logo.png" width="24" height="24">
+          
+        </a>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        <label class="md-icon md-icon--menu md-header-nav__button" for="__drawer"></label>
+      </div>
+      <div class="md-flex__cell md-flex__cell--stretch">
+        <div class="md-flex__ellipsis md-header-nav__title" data-md-component="title">
+          
+            
+              <span class="md-header-nav__topic">
+                Evernote
+              </span>
+              <span class="md-header-nav__topic">
+                Modelagem - Intencional
+              </span>
+            
+          
+        </div>
+      </div>
+      <div class="md-flex__cell md-flex__cell--shrink">
+        
+          
+            <label class="md-icon md-icon--search md-header-nav__button" for="__search"></label>
+            
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="query" data-md-state="active">
+      <label class="md-icon md-search__icon" for="__search"></label>
+      <button type="reset" class="md-icon md-search__icon" data-md-component="reset" tabindex="-1">
+        &#xE5CD;
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="result">
+          <div class="md-search-result__meta">
+            Type to start searching
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+          
+        
+      </div>
+      
+    </div>
+  </nav>
+</header>
+    
+    <div class="md-container">
+      
+        
+      
+      
+      <main class="md-main">
+        <div class="md-main__inner md-grid" data-md-component="container">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" data-md-level="0">
+  <label class="md-nav__title md-nav__title--site" for="__drawer">
+    <a href=".." title="Evernote" class="md-nav__button md-logo">
+      
+        <img src="../images/evernote-logo.png" width="48" height="48">
+      
+    </a>
+    Evernote
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href=".." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Pre-Rastreabilidade/" title="Pré-Rastreabilidade" class="md-nav__link">
+      Pré-Rastreabilidade
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Elicitacao/" title="Elicitação" class="md-nav__link">
+      Elicitação
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Modelagem/" title="Modelagem - Inicial" class="md-nav__link">
+      Modelagem - Inicial
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Modelagem2/" title="Modelagem - Tradicional" class="md-nav__link">
+      Modelagem - Tradicional
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Modelagem3/" title="Modelagem - Ágil" class="md-nav__link">
+      Modelagem - Ágil
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Modelagem - Intencional
+      </label>
+    
+    <a href="./" title="Modelagem - Intencional" class="md-nav__link md-nav__link--active">
+      Modelagem - Intencional
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" title="Histórico de Versões" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nfr" title="NFR" class="md-nav__link">
+    NFR
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#geral" title="Geral" class="md-nav__link">
+    Geral
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguranca" title="Segurança" class="md-nav__link">
+    Segurança
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#seguranca-do-conteudo" title="Segurança do conteúdo" class="md-nav__link">
+    Segurança do conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#satisfacao-do-usuario-free" title="Satisfação do usuário free" class="md-nav__link">
+    Satisfação do usuário free
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguranca-no-armazenamento-de-dados" title="Segurança no armazenamento de dados" class="md-nav__link">
+    Segurança no armazenamento de dados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usabilidade" title="Usabilidade" class="md-nav__link">
+    Usabilidade
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#organizacao-dos-cadernos-do-usuario" title="Organização dos cadernos do usuário" class="md-nav__link">
+    Organização dos cadernos do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#amigabilidade-da-interface" title="Amigabilidade da interface" class="md-nav__link">
+    Amigabilidade da interface
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#desempenho" title="Desempenho" class="md-nav__link">
+    Desempenho
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#istar" title="iStar" class="md-nav__link">
+    iStar
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#geral_1" title="Geral" class="md-nav__link">
+    Geral
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-estrategico-de-dependencia" title="Modelo Estratégico de Dependência" class="md-nav__link">
+    Modelo Estratégico de Dependência
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nota" title="Nota" class="md-nav__link">
+    Nota
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-estrategico-de-dependencia_1" title="Modelo Estratégico de Dependência" class="md-nav__link">
+    Modelo Estratégico de Dependência
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_1" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#login" title="Login" class="md-nav__link">
+    Login
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_2" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exportar-nota" title="Exportar Nota" class="md-nav__link">
+    Exportar Nota
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_3" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#restaurar-nota" title="Restaurar Nota" class="md-nav__link">
+    Restaurar Nota
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_4" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" title="Referências" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Analise/" title="Análise" class="md-nav__link">
+      Análise
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../Pos-Rastreabilidade/" title="Pós-Rastreabilidade" class="md-nav__link">
+      Pós-Rastreabilidade
+    </a>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" title="Histórico de Versões" class="md-nav__link">
+    Histórico de Versões
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#nfr" title="NFR" class="md-nav__link">
+    NFR
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#geral" title="Geral" class="md-nav__link">
+    Geral
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguranca" title="Segurança" class="md-nav__link">
+    Segurança
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#seguranca-do-conteudo" title="Segurança do conteúdo" class="md-nav__link">
+    Segurança do conteúdo
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#satisfacao-do-usuario-free" title="Satisfação do usuário free" class="md-nav__link">
+    Satisfação do usuário free
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#seguranca-no-armazenamento-de-dados" title="Segurança no armazenamento de dados" class="md-nav__link">
+    Segurança no armazenamento de dados
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#usabilidade" title="Usabilidade" class="md-nav__link">
+    Usabilidade
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#organizacao-dos-cadernos-do-usuario" title="Organização dos cadernos do usuário" class="md-nav__link">
+    Organização dos cadernos do usuário
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#amigabilidade-da-interface" title="Amigabilidade da interface" class="md-nav__link">
+    Amigabilidade da interface
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#desempenho" title="Desempenho" class="md-nav__link">
+    Desempenho
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#istar" title="iStar" class="md-nav__link">
+    iStar
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#geral_1" title="Geral" class="md-nav__link">
+    Geral
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-estrategico-de-dependencia" title="Modelo Estratégico de Dependência" class="md-nav__link">
+    Modelo Estratégico de Dependência
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#nota" title="Nota" class="md-nav__link">
+    Nota
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-estrategico-de-dependencia_1" title="Modelo Estratégico de Dependência" class="md-nav__link">
+    Modelo Estratégico de Dependência
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_1" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#login" title="Login" class="md-nav__link">
+    Login
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_2" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#exportar-nota" title="Exportar Nota" class="md-nav__link">
+    Exportar Nota
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_3" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#restaurar-nota" title="Restaurar Nota" class="md-nav__link">
+    Restaurar Nota
+  </a>
+  
+    <nav class="md-nav">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelo-de-raciocinio-estrategico_4" title="Modelo de Raciocínio Estratégico" class="md-nav__link">
+    Modelo de Raciocínio Estratégico
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" title="Referências" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  <h1>Modelagem - Intencional</h1>
+                
+                <h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th>Data</th>
+<th>Autor(es)</th>
+<th>Descrição</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>16/10/2018</td>
+<td>Mateus Oliveira</td>
+<td>NFR de segurança e de satisfação</td>
+<td>0.1</td>
+</tr>
+<tr>
+<td>17/10/2018</td>
+<td>Larissa Sales</td>
+<td>NFR de organização dos cadernos</td>
+<td>0.2</td>
+</tr>
+<tr>
+<td>17/10/2018</td>
+<td>Matheus Filipe</td>
+<td>NFR de interface e segurança de armazenamento de dados</td>
+<td>0.3</td>
+</tr>
+<tr>
+<td>17/10/2018</td>
+<td>João Victor</td>
+<td>NFR Geral</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>17/10/2018</td>
+<td>Marcelo Magalhães</td>
+<td>NFR de Usabilidade</td>
+<td>1.1</td>
+</tr>
+<tr>
+<td>29/10/2018</td>
+<td>Mateus Oliveira</td>
+<td>iStar nota, SD e SR</td>
+<td>1.2</td>
+</tr>
+<tr>
+<td>29/10/2018</td>
+<td>Matheus Filipe</td>
+<td>iStar Geral</td>
+<td>1.3</td>
+</tr>
+<tr>
+<td>29/10/2018</td>
+<td>Larissa Sales</td>
+<td>iStar de exportar nota</td>
+<td>1.4</td>
+</tr>
+<tr>
+<td>29/10/2018</td>
+<td>Larissa Sales</td>
+<td>iStar de login</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>29/10/2018</td>
+<td>Larissa Sales</td>
+<td>iStar de restaurar nota</td>
+<td>1.6</td>
+</tr>
+</tbody>
+</table>
+<h2 id="nfr">NFR</h2>
+<h3 id="geral">Geral</h3>
+<p><img alt="Imgur" src="https://i.imgur.com/hICZgwT.jpg" /></p>
+<h3 id="seguranca">Segurança</h3>
+<p><img alt="Imgur" src="https://i.imgur.com/UgbzWQy.jpg" /></p>
+<h4 id="seguranca-do-conteudo">Segurança do conteúdo</h4>
+<p><img alt="Segurança do conteúdo" src="https://i.imgur.com/DZiVsXy.png" /></p>
+<h4 id="satisfacao-do-usuario-free">Satisfação do usuário free</h4>
+<p><img alt="Satisfação do usuário free" src="https://i.imgur.com/HvIosgP.png" /></p>
+<h4 id="seguranca-no-armazenamento-de-dados">Segurança no armazenamento de dados</h4>
+<p><img alt="Imgur" src="https://i.imgur.com/8zV2lLE.png" /></p>
+<h3 id="usabilidade">Usabilidade</h3>
+<p><img alt="Imgur" src="https://i.imgur.com/yFzCSGQ.jpg" /></p>
+<p><img alt="imgur" src="https://i.imgur.com/J99s7Nl.png" /></p>
+<h4 id="organizacao-dos-cadernos-do-usuario">Organização dos cadernos do usuário</h4>
+<p><img alt="Imgur" src="https://i.imgur.com/FTyDMtR.jpg" /></p>
+<h4 id="amigabilidade-da-interface">Amigabilidade da interface</h4>
+<p><img alt="Imgur" src="https://i.imgur.com/013HZBS.jpg" /></p>
+<h3 id="desempenho">Desempenho</h3>
+<p><img alt="Imgur" src="https://i.imgur.com/Ez9PBPY.jpg" /></p>
+<h2 id="istar">iStar</h2>
+<h3 id="geral_1">Geral</h3>
+<h4 id="modelo-estrategico-de-dependencia">Modelo Estratégico de Dependência</h4>
+<p><img alt="enter image description here" src="https://i.imgur.com/81ivaaf.jpg" /></p>
+<h4 id="modelo-de-raciocinio-estrategico">Modelo de Raciocínio Estratégico</h4>
+<p><img alt="enter image description here" src="https://i.imgur.com/sCGtOJg.jpg" /></p>
+<h3 id="nota">Nota</h3>
+<h4 id="modelo-estrategico-de-dependencia_1">Modelo Estratégico de Dependência</h4>
+<p><img alt="enter image description here" src="https://i.imgur.com/VYNDkO1.png" /></p>
+<h4 id="modelo-de-raciocinio-estrategico_1">Modelo de Raciocínio Estratégico</h4>
+<p><img alt="enter image description here" src="https://i.imgur.com/hySobTH.png" /></p>
+<h3 id="login">Login</h3>
+<h4 id="modelo-de-raciocinio-estrategico_2">Modelo de Raciocínio Estratégico</h4>
+<p><img alt="Imgur" src="https://i.imgur.com/Nl7ftNu.png" /></p>
+<h3 id="exportar-nota">Exportar Nota</h3>
+<h4 id="modelo-de-raciocinio-estrategico_3">Modelo de Raciocínio Estratégico</h4>
+<p><img alt="Imgur" src="https://i.imgur.com/IVM3fnd.png" /></p>
+<h3 id="restaurar-nota">Restaurar Nota</h3>
+<h4 id="modelo-de-raciocinio-estrategico_4">Modelo de Raciocínio Estratégico</h4>
+<p><img alt="Imgur" src="https://i.imgur.com/7R6KzeU.png" /></p>
+<h2 id="referencias">Referências</h2>
+<p><a href="https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91">https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91</a></p>
+<p><a href="https://www.nngroup.com/articles/ten-usability-heuristics/">https://www.nngroup.com/articles/ten-usability-heuristics/</a></p>
+<p><a href="https://evernote.com/intl/pt-br/security">https://evernote.com/intl/pt-br/security</a></p>
+<p><a href="https://evernote.com/intl/pt-br/privacy/data-usage">https://evernote.com/intl/pt-br/privacy/data-usage</a></p>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid">
+        
+          <a href="../Modelagem3/" title="Modelagem - Ágil" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
+            </div>
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                Modelagem - Ágil
+              </span>
+            </div>
+          </a>
+        
+        
+          <a href="../Analise/" title="Análise" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
+              <span class="md-flex__ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                Análise
+              </span>
+            </div>
+            <div class="md-flex__cell md-flex__cell--shrink">
+              <i class="md-icon md-icon--arrow-forward md-footer-nav__button"></i>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        powered by
+        <a href="https://www.mkdocs.org">MkDocs</a>
+        and
+        <a href="https://squidfunk.github.io/mkdocs-material/">
+          Material for MkDocs</a>
+      </div>
+      
+        
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../assets/javascripts/application.583bbe55.js"></script>
+      
+      <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
+      
+    
+    
+      
+    
+  </body>
+</html>

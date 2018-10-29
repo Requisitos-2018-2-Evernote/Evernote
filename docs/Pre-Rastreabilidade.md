@@ -11,10 +11,11 @@
 | [RP05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
 | [RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
 | [RP07](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Criar Nota |
-| [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criar-nota) | Visão de Usuário |
+| [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criar-nota) | Criar Nota |
+| [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-de-usuario) | Visão de Usuário |
 | [RP10](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas) | Pequenas Empresas |
 | [RP11](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho) | Fluxo de Trabalho |
+| [RP12](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#estrategia-de-marketing) | Estratégia de Marketing |
 
 
 #### Visão Geral
@@ -67,6 +68,10 @@ Autor:
 Versão 1.0  
 Autor:
 
+#### Estratégia de Marketing
+![img-estrategia](https://i.imgur.com/bxVk8xA.jpg)  
+Versão 1.0  
+Autor: Vinícius da Costa
 
 ## Argumentações
 
@@ -78,6 +83,7 @@ Autor:
 | [A02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#escolha-de-horario-para-reunioes) | Escolha de horário para reuniões |
 | [A03](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#concorrencia-do-app) | Concorrência do App |
 | [A04](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#monetizacao) | Monetização |
+| [A05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#coletar-notas) | Coletar notas |
 
 
 #### Escolha do app
@@ -99,3 +105,8 @@ Autor: Larissa Sales
 ![img-monetizacao](https://i.imgur.com/vspLN9l.png)  
 Versão 1.0  
 Autor:
+
+#### Coletar notas
+![img-monetizacao](https://i.imgur.com/ClPAwfQ.jpg)  
+Versão 1.0  
+Autor: Vinícius da Costa

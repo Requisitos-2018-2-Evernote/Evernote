@@ -20,7 +20,7 @@ principalmente requisitos funcionais.
 Para isso me coloquei no lugar de um usuário navegando através das
 funcionalidades do evernote.
 
-|Id|Requisito|
+|ID|Requisito|
 |--------|---------|
 |R01.| O usuário deve visualizar as notas.|
 |R02.| O usuário deve ser capaz de sincronizar os dispositivos.|
@@ -63,16 +63,16 @@ Requisitos encontrados:
 
 |ID|Descrição|
 |--|--|
-|R01||O usuário deve visualizar as notas.|
-|R02||O usuário deve ser capaz de sincronizar os dispositivos.|
-|R03||O usuário deve ser capaz de editar um nota.|
-|R04||O usuário deve ser capaz de compartilha uma nota.|
-|R34||O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|
-|R35||O usuário deve ser capaz de gravar áudio em uma nota.|
-|R36||O usuário deve ser capaz de tirar uma foto para uma nota.|
-|R37||O usuário deve ser capaz de inserir uma foto em uma nota.|
-|R38||O usuário deve ser capaz de esconder a barra de ferramentas.|
-|R39||O usuário deve ser capaz de duplicar uma nota.|
+|R01|O usuário deve visualizar as notas.|
+|R02|O usuário deve ser capaz de sincronizar os dispositivos.|
+|R03|O usuário deve ser capaz de editar um nota.|
+|R04|O usuário deve ser capaz de compartilha uma nota.|
+|R34|O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|
+|R35|O usuário deve ser capaz de gravar áudio em uma nota.|
+|R36|O usuário deve ser capaz de tirar uma foto para uma nota.|
+|R37|O usuário deve ser capaz de inserir uma foto em uma nota.|
+|R38|O usuário deve ser capaz de esconder a barra de ferramentas.|
+|R39|O usuário deve ser capaz de duplicar uma nota.|
 
 
 ### Storytelling
@@ -102,7 +102,7 @@ Elicitado por: Larissa Sales
 ### First Things First
 
 ![Imgur](https://i.imgur.com/ykiIY1V.png)
-Auto: Marcelo Magalhães
+Autor: Marcelo Magalhães
 
 ![Imgur](https://i.imgur.com/IP5VG7I.png?1)
 Autor: João Victor
@@ -123,7 +123,7 @@ dos requisitos nas seguinte categorias:
 
 **Would** = Menor prioridade
 
-
+#### MSCW01
 
 | Must (M) |  Should (S) | Could (C) | Would (W) |
 |----------|------------|-----------|-----------|
@@ -132,7 +132,9 @@ dos requisitos nas seguinte categorias:
 | Funcionamento offline | Digitalização |||
 || Buscador ||||
 
-|Id|Requisito|MoSCoW|
+#### MSCW02
+
+|ID|Requisito|MoSCoW|
 |---------|-------|---------|
 |R01.| O usuário deve visualizar as notas.| Must |
 |R02.| O usuário deve ser capaz de sincronizar os dispositivos.| Should |

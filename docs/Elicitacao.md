@@ -4,15 +4,23 @@
 
 | ID | Técnicas de Elicitação|
 |----|------|
-| [SB1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) | Uso diário |
-| [SB2](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) | Criando Listas |
-| [SB3](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#catalogo-de-botanica) | Catálogo de Botânica |
-| [ST1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#procurando-um-aplicativo) | Procurando um Aplicativo |
+| [IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01) | Colocando-se no lugar do usuário |
+| [SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) | Uso diário |
+| [SB02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) | Criando Listas |
+| [SB03](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#catalogo-de-botanica) | Catálogo de Botânica |
+| [ST01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#procurando-um-aplicativo) | Procurando um Aplicativo |
 | [E01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#escolha-do-aplicativo) | Escolha do aplicativo |
+| [BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01) | Brainstorming |
+| [FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01) | First Things First 1 |
+| [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02) | First Things First 2 |
+| [MSCW01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw01) | MoSCoW 1 |
+| [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) | MoSCoW 2 |
 
 ### Questionário
 
 ### Introspecção
+
+#### IT01
 
 Colocando-se no lugar do usuário foi feita a introspecção, visando a elicitação de
 principalmente requisitos funcionais.
@@ -54,7 +62,7 @@ Autor: João Victor
 ![Imgur](https://i.imgur.com/Xrr677z.png)
 
 
-
+#### BS01
 
 **Brainstorming** é uma técnica para geração de idéias. Ela consiste em uma ou
 várias reuniões que permitem que as pessoas sugiram e explorem idéias.
@@ -101,8 +109,12 @@ Elicitado por: Larissa Sales
 
 ### First Things First
 
+#### FTF01
+
 ![Imgur](https://i.imgur.com/ykiIY1V.png)
 Autor: Marcelo Magalhães
+
+#### FTF02
 
 ![Imgur](https://i.imgur.com/IP5VG7I.png?1)
 Autor: João Victor

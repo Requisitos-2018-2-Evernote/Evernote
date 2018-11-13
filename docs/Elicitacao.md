@@ -40,6 +40,15 @@ funcionalidades do evernote.
 |R08.| O usuário deve ser capaz de excluir uma nota.|
 |R09.| O usuário deve ser capaz de visualizar uma lixeira.|
 |R10.| O usuário deve visualizar a data de uma nota.|
+|R12.| O usuário deve ser capaz de editar o titulo de uma nota. |
+|R13.| O usuário tem acesso a informações detalhas de uma nota. |
+|R14.| O usuário deve ser capaz de copiar uma nota inteira. | 
+|R15.| O usuário deve ser capaz de copiar um “link interno” de uma nota.| 
+|R16.| O usuário pode visualizar a hora de criação de uma nota. | 
+|R17.| O usuário pode personalizar a barra de ferramentas de uma nota.|
+|R18.| O usuário deve ser capaz de alterar a fonte do texto de uma nota.|
+|R19.| O usuário deve ser capaz de alterar o tamanho do texto de uma nota.|
+|R20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.| 
 
 
 ### Story Board

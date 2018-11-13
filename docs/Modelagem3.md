@@ -19,7 +19,7 @@
 |[US15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us15-renomear-nota)|Renomear nota|
 |[US16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us16-excluir-nota)|Excluir nota|
 |[US17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us17-mover-nota-de-caderno)|Mover nota de caderno|
-|[US18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us18-restaurar-nota)|Restaurar nota|
+|[US18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us18-restaurar-nota-de-caderno)|Restaurar nota de caderno|
 |[US19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us19-duplicar-nota)|Duplicar nota|
 |[US20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us20-salvar-nota)|Salvar nota|
 |[US21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us21-alterar-formatacao-do-texto-da-nota)|Alterar formatação do texto da nota|
@@ -44,7 +44,7 @@
 #### Cadastro
 ![Imgur](https://i.imgur.com/SSHL8Ck.png)
 
-##### US01 - Realizar cadastro
+##### US01 - Fazer cadastro no aplicativo
 
 **Criterios de Aceitação**
 
@@ -55,7 +55,7 @@
 - Deve ser efetuado o cadastro
 
 
-##### US02 - Realizar cadastro com conta Google
+##### US02 - Fazer cadastro utilizando os dados da minha conta Google
 
 **Criterios de Aceitação**
 
@@ -68,7 +68,7 @@
 ![Imgur](https://i.imgur.com/4tQkFly.png)
 
 
-##### US03 - Realizar Login
+##### US03 - Realizar login na aplicação
 
 **Criterios de Aceitação**
 
@@ -88,7 +88,7 @@
 - Deve voltar para a página inicial
 
 
-##### US05 - Efetuar login com conta Google
+##### US05 - Realizar login utilizando o Google
 
 **Criterios de Aceitação**
 

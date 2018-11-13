@@ -61,26 +61,18 @@ várias reuniões que permitem que as pessoas sugiram e explorem idéias.
 
 Requisitos encontrados:
 
-R01 - O usuário deve visualizar as notas.
-
-R02 - O usuário deve ser capaz de sincronizar os dispositivos.
-
-R03 - O usuário deve ser capaz de editar um nota.
-
-R04 - O usuário deve ser capaz de compartilha uma nota.
-
-R34 - O usuário deve ser capaz de anexar arquivos do google drive em uma 
-nota.
-
-R35 - O usuário deve ser capaz de gravar áudio em uma nota.
-
-R36 - O usuário deve ser capaz de tirar uma foto para uma nota.
-
-R37 - O usuário deve ser capaz de inserir uma foto em uma nota.
-
-R38 - O usuário deve ser capaz de esconder a barra de ferramentas.
-
-R39 - O usuário deve ser capaz de duplicar uma nota.
+|ID|Descrição|
+|--|--|
+|R01||O usuário deve visualizar as notas.|
+|R02||O usuário deve ser capaz de sincronizar os dispositivos.|
+|R03||O usuário deve ser capaz de editar um nota.|
+|R04||O usuário deve ser capaz de compartilha uma nota.|
+|R34||O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|
+|R35||O usuário deve ser capaz de gravar áudio em uma nota.|
+|R36||O usuário deve ser capaz de tirar uma foto para uma nota.|
+|R37||O usuário deve ser capaz de inserir uma foto em uma nota.|
+|R38||O usuário deve ser capaz de esconder a barra de ferramentas.|
+|R39||O usuário deve ser capaz de duplicar uma nota.|
 
 
 ### Storytelling

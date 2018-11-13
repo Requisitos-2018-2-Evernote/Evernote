@@ -59,6 +59,16 @@ funcionalidades do evernote.
 |R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| 
 |R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| 
 |R30.| O usuário deve ser capaz de alinha o texto de uma nota. | 
+|R31.| O usuário deve ser capaz de inserir uma tabela em uma nota.|
+|R32.| O usuário deve ser capaz de inserir uma linha em uma nota.|
+|R33.| O usuário deve ser capaz de anexar arquivos em uma nota. | 
+|R34.| O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|
+|R35.| O usuário deve ser capaz de gravar áudio em uma nota. | 
+|R36.| O usuário deve ser capaz de tirar uma foto para uma nota. |
+|R37.| O usuário deve ser capaz de inserir uma foto em uma nota. |
+|R38.| O usuário deve ser capaz de esconder a barra de ferramentas.|
+|R39.| O usuário deve ser capaz de duplicar uma nota. | 
+|R40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| 
 
 
 ### Story Board

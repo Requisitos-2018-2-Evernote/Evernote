@@ -84,6 +84,7 @@ Autor: Vinícius da Costa
 | [A03](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#concorrencia-do-app) | Concorrência do App |
 | [A04](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#monetizacao) | Monetização |
 | [A05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#coletar-notas) | Coletar notas |
+| [A06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#plataformas) | Plataformas |
 
 
 #### Escolha do app
@@ -104,9 +105,14 @@ Autor: Larissa Sales
 #### Monetização
 ![img-monetizacao](https://i.imgur.com/vspLN9l.png)  
 Versão 1.0  
-Autor:
+Autor: Marcelo Magalhães
 
 #### Coletar notas
-![img-monetizacao](https://i.imgur.com/ClPAwfQ.jpg)  
+![img-colletar-notas](https://i.imgur.com/ClPAwfQ.jpg)  
 Versão 1.0  
 Autor: Vinícius da Costa
+
+#### Plataformas
+![img-plataforma](https://imgur.com/VaZO1Mc.png)  
+Versão 1.0  
+Autor: Marcelo Magalhães

@@ -20,18 +20,18 @@ principalmente requisitos funcionais.
 Para isso me coloquei no lugar de um usuário navegando através das
 funcionalidades do evernote.
 
-|Número|Requisito|
+|Id|Requisito|
 |--------|---------|
-|1.| O usuário deve visualizar as notas.|
-|2.| O usuário deve ser capaz de sincronizar os dispositivos.|
-|3.| O usuário deve ser capaz de editar um nota.|
-|4.| O usuário deve ser capaz de compartilha uma nota.|
-|5.| O usuário deve ser capaz de “favoritar” uma nota.|
-|6.| O usuário deve ser capaz de inserir um lembrete em uma nota.|
-|7.| O usuário deve ser capaz de imprimir uma nota.|
-|8.| O usuário deve ser capaz de excluir uma nota.|
-|9.| O usuário deve ser capaz de visualizar uma lixeira.|
-|10.| O usuário deve visualizar a data de uma nota.|
+|R01.| O usuário deve visualizar as notas.|
+|R02.| O usuário deve ser capaz de sincronizar os dispositivos.|
+|R03.| O usuário deve ser capaz de editar um nota.|
+|R04.| O usuário deve ser capaz de compartilha uma nota.|
+|R05.| O usuário deve ser capaz de “favoritar” uma nota.|
+|R06.| O usuário deve ser capaz de inserir um lembrete em uma nota.|
+|R07.| O usuário deve ser capaz de imprimir uma nota.|
+|R08.| O usuário deve ser capaz de excluir uma nota.|
+|R09.| O usuário deve ser capaz de visualizar uma lixeira.|
+|R10.| O usuário deve visualizar a data de uma nota.|
 
 
 ### Story Board
@@ -61,25 +61,26 @@ várias reuniões que permitem que as pessoas sugiram e explorem idéias.
 
 Requisitos encontrados:
 
-1 - O usuário deve visualizar as notas.
+R01 - O usuário deve visualizar as notas.
 
-2 - O usuário deve ser capaz de sincronizar os dispositivos.
+R02 - O usuário deve ser capaz de sincronizar os dispositivos.
 
-3 - O usuário deve ser capaz de editar um nota.
+R03 - O usuário deve ser capaz de editar um nota.
 
-4 - O usuário deve ser capaz de compartilha uma nota.
+R04 - O usuário deve ser capaz de compartilha uma nota.
 
-34 - O usuário deve ser capaz de anexar arquivos do google drive em uma nota.
+R34 - O usuário deve ser capaz de anexar arquivos do google drive em uma 
+nota.
 
-35 - O usuário deve ser capaz de gravar áudio em uma nota.
+R35 - O usuário deve ser capaz de gravar áudio em uma nota.
 
-36 - O usuário deve ser capaz de tirar uma foto para uma nota.
+R36 - O usuário deve ser capaz de tirar uma foto para uma nota.
 
-37 - O usuário deve ser capaz de inserir uma foto em uma nota.
+R37 - O usuário deve ser capaz de inserir uma foto em uma nota.
 
-38 - O usuário deve ser capaz de esconder a barra de ferramentas.
+R38 - O usuário deve ser capaz de esconder a barra de ferramentas.
 
-39 - O usuário deve ser capaz de duplicar uma nota.
+R39 - O usuário deve ser capaz de duplicar uma nota.
 
 
 ### Storytelling
@@ -109,6 +110,7 @@ Elicitado por: Larissa Sales
 ### First Things First
 
 ![Imgur](https://i.imgur.com/ykiIY1V.png)
+Auto: Marcelo Magalhães
 
 ![Imgur](https://i.imgur.com/IP5VG7I.png?1)
 Autor: João Victor
@@ -138,47 +140,47 @@ dos requisitos nas seguinte categorias:
 | Funcionamento offline | Digitalização |||
 || Buscador ||||
 
-|Número|Requisito|MoSCoW|
+|Id|Requisito|MoSCoW|
 |---------|-------|---------|
-|1.| O usuário deve visualizar as notas.| Must |
-|2.| O usuário deve ser capaz de sincronizar os dispositivos.| Should |
-|3.| O usuário deve ser capaz de editar um nota. |Must|
-|4.| O usuário deve ser capaz de compartilha uma nota. | Should|
-|5.| O usuário deve ser capaz de “favoritar” uma nota.| Would|
-|6.| O usuário deve ser capaz de inserir um lembrete em uma nota.| Must|
-|7.| O usuário deve ser capaz de imprimir uma nota. | Should|
-|8.| O usuário deve ser capaz de excluir uma nota. | Must|
-|9.| O usuário deve ser capaz de visualizar uma lixeira.| Could|
-|10.| O usuário deve visualizar a data de uma nota. | Must|
-|11.| O usuário pode visualizar o local de criação de uma nota. | Should|
-|12.| O usuário deve ser capaz de editar o titulo de uma nota. | Could|
-|13.| O usuário tem acesso a informações detalhas de uma nota. | Should|
-|14.| O usuário deve ser capaz de copiar uma nota inteira. | Must|
-|15.| O usuário deve ser capaz de copiar um “link interno” de uma nota.| Could|
-|16.| O usuário pode visualizar a hora de criação de uma nota. | Must|
-|17.| O usuário pode personalizar a barra de ferramentas de uma nota.| Could|
-|18.| O usuário deve ser capaz de alterar a fonte do texto de uma nota.| Could|
-|19.| O usuário deve ser capaz de alterar o tamanho do texto de uma nota.| Could|
-|20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.| Could|
-|21.| O usuário deve ser capaz de alterar o texto de uma nota para negrito.| Could|
-|22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| Could|
-|23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.| Could|
-|24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| Could|
-|25. |O usuário deve ser capaz de marca o texto de uma nota. | Would|
-|26. |O usuário deve ser capaz de inserir código-fonte em uma nota.| Could|
-|27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|Would|
-|28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| Would|
-|29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| Would|
-|30.| O usuário deve ser capaz de alinha o texto de uma nota. | Would|
-|31.| O usuário deve ser capaz de inserir uma tabela em uma nota.| Would|
-|32.| O usuário deve ser capaz de inserir uma linha em uma nota.| Would|
-|33.| O usuário deve ser capaz de anexar arquivos em uma nota. | Must|
-|34.| O usuário deve ser capaz de anexar arquivos do google drive em uma nota.| Could|
-|35.| O usuário deve ser capaz de gravar áudio em uma nota. | Must|
-|36.| O usuário deve ser capaz de tirar uma foto para uma nota. | Must|
-|37.| O usuário deve ser capaz de inserir uma foto em uma nota. | Must|
-|38.| O usuário deve ser capaz de esconder a barra de ferramentas.| Would|
-|39.| O usuário deve ser capaz de duplicar uma nota. | Would|
-|40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| Could|
+|R01.| O usuário deve visualizar as notas.| Must |
+|R02.| O usuário deve ser capaz de sincronizar os dispositivos.| Should |
+|R03.| O usuário deve ser capaz de editar um nota. |Must|
+|R04.| O usuário deve ser capaz de compartilha uma nota. | Should|
+|R05.| O usuário deve ser capaz de “favoritar” uma nota.| Would|
+|R06.| O usuário deve ser capaz de inserir um lembrete em uma nota.| Must|
+|R07.| O usuário deve ser capaz de imprimir uma nota. | Should|
+|R08.| O usuário deve ser capaz de excluir uma nota. | Must|
+|R09.| O usuário deve ser capaz de visualizar uma lixeira.| Could|
+|R10.| O usuário deve visualizar a data de uma nota. | Must|
+|R11.| O usuário pode visualizar o local de criação de uma nota. | Should|
+|R12.| O usuário deve ser capaz de editar o titulo de uma nota. | Could|
+|R13.| O usuário tem acesso a informações detalhas de uma nota. | Should|
+|R14.| O usuário deve ser capaz de copiar uma nota inteira. | Must|
+|R15.| O usuário deve ser capaz de copiar um “link interno” de uma nota.| Could|
+|R16.| O usuário pode visualizar a hora de criação de uma nota. | Must|
+|R17.| O usuário pode personalizar a barra de ferramentas de uma nota.| Could|
+|R18.| O usuário deve ser capaz de alterar a fonte do texto de uma nota.| Could|
+|R19.| O usuário deve ser capaz de alterar o tamanho do texto de uma nota.| Could|
+|R20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.| Could|
+|R21.| O usuário deve ser capaz de alterar o texto de uma nota para negrito.| Could|
+|R22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| Could|
+|R23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.| Could|
+|R24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| Could|
+|R25. |O usuário deve ser capaz de marca o texto de uma nota. | Would|
+|R26. |O usuário deve ser capaz de inserir código-fonte em uma nota.| Could|
+|R27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|Would|
+|R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| Would|
+|R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| Would|
+|R30.| O usuário deve ser capaz de alinha o texto de uma nota. | Would|
+|R31.| O usuário deve ser capaz de inserir uma tabela em uma nota.| Would|
+|R32.| O usuário deve ser capaz de inserir uma linha em uma nota.| Would|
+|R33.| O usuário deve ser capaz de anexar arquivos em uma nota. | Must|
+|R34.| O usuário deve ser capaz de anexar arquivos do google drive em uma nota.| Could|
+|R35.| O usuário deve ser capaz de gravar áudio em uma nota. | Must|
+|R36.| O usuário deve ser capaz de tirar uma foto para uma nota. | Must|
+|R37.| O usuário deve ser capaz de inserir uma foto em uma nota. | Must|
+|R38.| O usuário deve ser capaz de esconder a barra de ferramentas.| Would|
+|R39.| O usuário deve ser capaz de duplicar uma nota. | Would|
+|R40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| Could|
 
 Autor: João Victor

@@ -181,11 +181,16 @@ Regras de Negócio 02
 |E-mail|exemplo@exemplo.com| sim | Email valido|
 |Senha|String|sim|Senha valida|
 
+## Especificação de Casos de Uso
 
-
-## Especificação Suplementar
-
-### Sumário Especificação Suplementar
+|ID|Nome|
+|--|--|
+|[UCS01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno|Acessar Caderno|
+|[UCS02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno|Criar Caderno|
+|[UCS03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota|Acessar Nota|
+|[UCS04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta|Adicionar Etiqueta|
+|[UCS05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete|Adicionar Lembrete|
+|[UCS06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium|Mudar para plano Premium|
 
 #### Acessar Caderno
 

@@ -49,6 +49,16 @@ funcionalidades do evernote.
 |R18.| O usuário deve ser capaz de alterar a fonte do texto de uma nota.|
 |R19.| O usuário deve ser capaz de alterar o tamanho do texto de uma nota.|
 |R20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.| 
+|R21.| O usuário deve ser capaz de alterar o texto de uma nota para negrito.| 
+|R22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| 
+|R23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.|
+|R24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| 
+|R25. |O usuário deve ser capaz de marca o texto de uma nota. | 
+|R26. |O usuário deve ser capaz de inserir código-fonte em uma nota.| 
+|R27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|
+|R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| 
+|R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| 
+|R30.| O usuário deve ser capaz de alinha o texto de uma nota. | 
 
 
 ### Story Board

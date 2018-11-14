@@ -112,6 +112,16 @@ João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Seguran�
 |||Não Funcional|Usar retenção de notas |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
 |||Não Funcional|Armazenar senha por PBKDF2|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
 |||Não Funcional|Usar token de autenticação |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Utilizar modo offline|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar imei e SIM|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar Cache|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar modo online|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar armazenamento em nuvem |[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar pesquisa avançada|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Disponibilizar tecnicas de pesquisas |[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar metadados de notas|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Utilizar dois data centers|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Armazenar conteudo das notas|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
 # Forward-From
 
 

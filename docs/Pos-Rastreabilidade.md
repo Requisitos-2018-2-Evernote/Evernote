@@ -37,6 +37,19 @@
 ||Funcional|Deletar permanentemente|Lixeira|
 ||Funcional|Cadastrar no app|Cadastro|
 ||Funcional|Cadastrar utilizando conta google|Cadastro|
+**Product Backlog**|Funcional|Terminar sessão |US04|
+||Funcional|Realizar login utilizando o Google|US05|
+||Funcional|Gerenciar disposivos|US11|
+||Funcional|Convidar amigos|US12|
+||Funcional|Salvar nota|US20|
+||Funcional|Pesquisar na nota|US23|
+||Funcional|Ver estatísticas da nota|US25|
+||Funcional|Renomear um caderno|US28|
+||Funcional|Excluir o caderno|US29|
+||Funcional|Ordenar cadernos por nome ou data|US30|
+||Funcional|Classificar caderno por|US31|
+||Funcional|Adicionar caderno à tela inicial do celular|US33|
+||Funcional|Restaurar caderno apagado|US35|
 
 
 

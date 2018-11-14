@@ -58,6 +58,23 @@ Marcelo e Matheus|**Product Backlog**|||||Funcional|Terminar sessão |US04|
 |||Funcional|Classificar caderno por|US31|
 |||Funcional|Adicionar caderno à tela inicial do celular|US33|
 |||Funcional|Restaurar caderno apagado|US35|
+João Victor|**Introspecção**|||||Funcional|Compartilhar caderno|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de sincronizar os disposivos.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de editar um nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de compartilha uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de “favorar” uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir um lembrete em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de imprimir uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de excluir uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de visualizar uma lixeira.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar a data de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode visualizar o local de criação de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de editar o titulo de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) tem acesso a informações detalhas de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de copiar uma nota inteira|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+
+
 # Forward-From
 
 

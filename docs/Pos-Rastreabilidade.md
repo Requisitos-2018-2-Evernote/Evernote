@@ -2,7 +2,8 @@
 ## Forward-To
 ELICITADOR|TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
 |---------|-----------|-----------|-------|------------|
-João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Rich Picture**|||||Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+João Victor, Larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Rich Picture**||
+|||Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 |||Funcional|Criar uma nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 |||Funcional|Anexar arquivo na nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 |||Funcional|Compartilhar nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
@@ -12,15 +13,17 @@ João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Rich Picture
 |||Funcional|Baixar caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 Equipe Evernote|**Questionário**||||
 |||Funcional|Sincronizar caderno|Questionário requisito 2|
-João Victor e Marcelo|**Story Board**|||||Funcional|Criar checklist dentro de uma nota|Criando Listas|
-|||Funcional|Editar nota|Uso diário|
-|||Funcional|Editar nota||Uso diário
-|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir um lembrete em uma nota.|Uso diário|
-|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|Uso diário|
-|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma foto em uma nota.|Uso diário|
-|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma lista com marcadores no texto de uma nota|Criando Listas|
+João Victor e Marcelo|**Story Board**||
+|||Funcional|Criar checklist dentro de uma nota|[SB02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) - Criando Listas|
+|||Funcional|Editar nota|[SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) - Uso diário|
+|||Funcional|Editar nota||[SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) - Uso diário
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir um lembrete em uma nota.|[SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) - Uso diário|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|[SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) - Uso diário|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma foto em uma nota.|[SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) - Uso diário|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma lista com marcadores no texto de uma nota|[SB02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) - Criando Listas|
 |||Funcional|Criar um novo caderno||Cátalogo de Botanica
-Equipe Evernote|**Brainstorming**|||||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+Equipe Evernote|**Brainstorming**||
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de sincronizar os dispositivos.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de editar um nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de compartilha uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
@@ -30,35 +33,39 @@ Equipe Evernote|**Brainstorming**|||||Funcional|O [Usuário](https://requisitos-
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma foto em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de esconder a barra de ferramentas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de duplicar uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-João Victor e larissa|**MoSCoW**||||
-|||Não Funcional|Segurança dos dados|-|
-|||Funcional|Excluir nota|MoSCoW requisito 8|
-|||Funcional|Renomear nota|MoSCoW requisito 12|
-|||Funcional|Alterar formatação do texto da nota|MoSCoW requisitos 18 - 25|
-|||Funcional|Criar lista enumerada|MoSCoW requisitos 28|
-João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Cenários**|||||Funcional|Restaurar nota|C11|
-|||Funcional|Ativar bloqueio de senha|C01|
-|||Funcional|Desativar o bloqueio de senha|C02|
-|||Funcional|Alterar o bloqueio de senha|C03|
-|||Funcional|Alterar tempo de bloqueio|C05|
-João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Casos de uso**|||||Funcional|Realizar login na aplicação|Criar lembrete|
-|||Funcional|Pesquisar notas dentro do caderno|Pesquisar nota|
-|||Funcional|Deletar permanentemente|Lixeira|
-|||Funcional|Cadastrar no app|Cadastro|
-|||Funcional|Cadastrar utilizando conta google|Cadastro|
-Marcelo e Matheus|**Product Backlog**|||||Funcional|Terminar sessão |US04|
-|||Funcional|Realizar login utilizando o Google|US05|
-|||Funcional|Gerenciar disposivos|US11|
-|||Funcional|Convidar amigos|US12|
-|||Funcional|Salvar nota|US20|
-|||Funcional|Pesquisar na nota|US23|
-|||Funcional|Ver estatísticas da nota|US25|
-|||Funcional|Renomear um caderno|US28|
-|||Funcional|Excluir o caderno|US29|
-|||Funcional|Ordenar cadernos por nome ou data|US30|
-|||Funcional|Classificar caderno por|US31|
-|||Funcional|Adicionar caderno à tela inicial do celular|US33|
-|||Funcional|Restaurar caderno apagado|US35|
+João Victor, Larissa e Marcelo|**MoSCoW**||||
+|||Não Funcional|Segurança dos dados|[MSCW01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)|
+|||Funcional|Funcionamento offline|[MSCW01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)|
+|||Funcional|Excluir nota|[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) requisito 8|
+|||Funcional|Renomear nota|[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) requisito 12|
+|||Funcional|Alterar formatação do texto da nota|[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) requisitos 18 - 25|
+|||Funcional|Criar lista enumerada|[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) requisitos 28|
+João Victor, Larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Cenários**||
+|||Funcional|Restaurar nota|[C11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#restaurar-uma-nota)|
+|||Funcional|Ativar bloqueio de senha|[C01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#administrar-bloqueio-de-senha)|
+|||Funcional|Desativar o bloqueio de senha|[C02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#desativar-o-bloqueio-de-senha)|
+|||Funcional|Alterar o bloqueio de senha|[C03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#alterar-o-bloqueio-de-senha) |
+|||Funcional|Alterar tempo de bloqueio|[C05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#bloqueio-de-senha)|
+João Victor, Larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Casos de uso**||
+|||Funcional|Realizar login na aplicação|[UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete) - Criar lembrete|
+|||Funcional|Pesquisar notas dentro do caderno|[UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#pesquisar-nota) - Pesquisar nota|
+|||Funcional|Deletar permanentemente|[UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#lixeira) - Lixeira|
+|||Funcional|Cadastrar no app|[UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro)  - Cadastro|
+|||Funcional|Cadastrar utilizando conta google|[UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro)  - Cadastro|
+Marcelo e Matheus|**Product Backlog**||
+|||Funcional|Terminar sessão |[US04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us04-terminar-sessao)|
+|||Funcional|Realizar login utilizando o Google|[US05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us05-realizar-login-utilizando-o-google)|
+|||Funcional|Gerenciar disposivos|[US11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us11-gerenciar-dispositivos)|
+|||Funcional|Convidar amigos|[US12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us12-convidar-amigos)|
+|||Funcional|Salvar nota|[US20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us20-salvar-nota)|
+|||Funcional|Pesquisar na nota|[US23](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us23-pesquisar-na-nota)|
+|||Funcional|Ver estatísticas da nota|[US25](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us25-ver-estatísticas-da-nota)|
+|||Funcional|Renomear um caderno|[US28](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us28-renomear-um-caderno)|
+|||Funcional|Excluir o caderno|[US29](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us29-excluir-o-caderno)|
+|||Funcional|Ordenar cadernos por nome ou data|[US30](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us30-ordenar-cadernos-por-nome-ou-data)|
+|||Funcional|Classificar caderno por|[US31](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us31-classificar-caderno)|
+|||Funcional|Adicionar caderno à tela inicial do celular|[US33](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us33-adicionar-caderno-a-tela-inicial-do-celular)|Adicionar caderno à tela inicial do celular|
+|||Funcional|Restaurar caderno apagado|[US35](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us35-restaurar-caderno-apagado)|
 João Victor|**Introspecção**|||||Funcional|Compartilhar caderno|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 |||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de sincronizar os disposivos.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
@@ -100,7 +107,7 @@ João Victor|**Introspecção**|||||Funcional|Compartilhar caderno|[IT01](https:
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de esconder a barra de ferramentas.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 |||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de duplicar uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de alterar a data e hora da criação de uma nota|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+João Victor, Marcelo|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
 |||Não Funcional|Usar FIREWALLS |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
 |||Não Funcional|Usar VPNs|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
 |||Não Funcional|Usar origem de endereço de IP|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
@@ -141,10 +148,14 @@ João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Seguran�
 |||Não Funcional|Usar localização de informação aparente |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
 |||Não Funcional|Apresentar qualidade nos resultados |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
 |||Não Funcional|Usar Icones grandes |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar contraste seguindo W3C|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar fontes e tamanho que sigam regras da W3C|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+
+## Backward-From
+
+![Imgur](https://i.imgur.com/Wrqgy03.jpg)
 
 ## Forward-From
-
-
 
 |Aplicativo|US| Descrição|
 |--|--|--|
@@ -188,28 +199,6 @@ João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Seguran�
 |[IMG53](https://requisitos-2018-2-evernote.github.io/Evernote/Pos-Rastreabilidade/#img53)|[US38](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us38-deletar-permanentemente)|Deletar permanentemente|
 
 
-## Backward-From
-
-![Imgur](https://i.imgur.com/Wrqgy03.jpg)
-
-Versão 1.0
-
-
-
-<!-- | App | Web | Rastros|
-|--|--|--|
-| ![Screenshot](images/criar-notas.png) | ![Screenshot](images/criar-notas-web.png) | |
-| ![Screenshot](images/criar-notas-opcoes.png) |  | |
-| ![Screenshot](images/criar-caderno.png) | ![Screenshot](images/criar-caderno-web.png) | |
-|  | ![Screenshot](images/criar-tag-web.png) | |
-| | ![Screenshot](images/cadastro-web.png) | |
-| | ![Screenshot](images/login-web.png) | |
-| ![Screenshot](images/compartilhar-opcoes1.png) ![Screenshot](images/compartilhar-opcoes3.png) ![Screenshot](images/compartilhar-opcoes3.png) | ![Screenshot](images/compartilhar-opcoes-web.png) | |
-| ![Screenshot](images/menu.png) | ![Screenshot](images/menu-web.png) | |
-| ![Screenshot](images/pesquisar-notas.png) | ![Screenshot](images/pesquisar-notas-web.png) | |
-| ![Screenshot](images/tags.png) | ![Screenshot](images/tags-web.png) | |
-| ![Screenshot](images/visualizar-notas.png) | ![Screenshot](images/visualizar-notas-web.png) | |
-| ![Screenshot](images/visualizar-notas-opcoes.png) | ![Screenshot](images/visualizar-notas-opcoes-web.png) | | -->
 
 #### IMG01
 ![Screenshot](images/cadastro.png)

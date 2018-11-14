@@ -1,4 +1,31 @@
 # Forward-From
+|TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
+|-----------|-----------|-------|------------|
+**Rich Picture**|Funcional|Criar um novo caderno|RP01|
+||Funcional|Criar uma nota|RP02|
+||Funcional|Anexar arquivo na nota|RP02|
+||Funcional|Compartilhar nota|RP02|
+||Funcional|Adicionar lembrete à nota|RP02|
+||Funcional|Mover nota de caderno|RP02|
+||Funcional|Atualizar para conta premium|RP02|
+||Funcional|Baixar caderno|RP02|
+**Questionário**|Funcional|Sincronizar caderno|Questionário requisito 2|
+**Story Board**|Funcional|Criar checklist dentro de uma nota|Criando Listas|
+||Funcional|Editar nota|Uso diário|
+**Brainstorming**|Funcional|O usuário deve visualizar as notas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de sincronizar os dispositivos.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de editar um nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de compartilha uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de gravar áudio em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de tirar uma foto para uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de inserir uma foto em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de esconder a barra de ferramentas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+||Funcional|O usuário deve ser capaz de duplicar uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+
+
+
+
 
 |Aplicativo|US| Descrição|
 |--|--|--|

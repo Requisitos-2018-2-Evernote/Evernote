@@ -122,6 +122,24 @@ João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Seguran�
 |||Não Funcional|Utilizar metadados de notas|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
 |||Não Funcional|Utilizar dois data centers|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
 |||Não Funcional|Armazenar conteudo das notas|[NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)|
+|||Não Funcional|Disponibilizar sistema de ajuda|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Elaborar documentação de [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar tutorial|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar icones Intuitivos |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar Pesquisa rapida|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar categorias de notas |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar interface limpa|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar linguagem simples |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar categoria de nomes|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar rotulos|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar linkls|[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar apresentação simples de conteudo |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|usar formato de informação simples |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar layout agradavel |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar graficos |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar localização de informação aparente |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Apresentar qualidade nos resultados |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
+|||Não Funcional|Usar Icones grandes |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
 # Forward-From
 
 

@@ -153,8 +153,24 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 
 ## Backward-From
 
+
 #### Versão 1.0
-![Imgur](https://i.imgur.com/Wrqgy03.jpg)
+
+
+
+| ID     | Requisito                                    | Product Backlog | Esp. Casos de  Uso                  | Cenário | Léxico             | MoSCoW | First Things First | Análise de Protocolo/Observação Participativa | Storytelling/Brainstorm | Questionário | RichPicture                   | Gráfico i*                                                                             | 
+|--------|----------------------------------------------|-----------------|-------------------------------------|---------|--------------------|--------|--------------------|-----------------------------------------------|-------------------------|--------------|-------------------------------|----------------------------------------------------------------------------------------| 
+| RF01   | Etiquetar nota                               | US38            | UC 12 - Criar etiqueta              | CE17    | Nota               | -      | -                  | Análise de Protocolo                          | Storytelling            | -            | RP01 - Visão geral|versão 1.0 | [i* Nota] Task - Adicionar Etiqueta                                                    | 
+| RF02   | Coletar Fotos                                | US02            | -                                   | CE16    | -                  | -      | First Things First | Análise de Protocolo                          | -                       | -            | RP01 - Visão geral|versão 1.0 | -                                                                                      | 
+| RF03   | Sincronizar dispositivo                      | US03            | -                                   | -       | -                  | MoSCoW | -                  | -                                             | Brainstorm              | -            | RP01 - Visão geral|versão 1.0 | [i* Sincronia de dados] Task - Solicitar sincronização                                 | 
+| RF04   | Gravar nota de áudio                         | US04            | -                                   | -       | Nota               | MoSCoW | First Things First | -                                             | Brainstorm              | -            | RP01 - Visão geral|versão 1.0 | -                                                                                      | 
+| RF05   | Anexar arquivos em nota                      | US05            | -                                   | -       | Anexo              | MoSCoW | -                  | Análise de Protocolo                          | -                       | -            | RP01 - Visão geral|versão 1.0 | [i* Usuário/Nota] Task - Adicionar anexo                                               | 
+| RF06   | Criar nota de caligrafia                     | US06            | -                                   | -       | Nota               | -      | First Things First | -                                             | -                       | -            | RP06 - Visão geral|versão 1.0 | -                                                                                      | 
+| RF07   | Digitalizar documento                        | US07            | -                                   | -       | Digitalização      | -      | First Things First | -                                             | -                       | -            | RP10 - Pequenas Empresas      | -                                                                                      | 
+| RF08   | Usar buscador de texto                       | -               | UC05 - Pesquisar nota               | CE20    | -                  | MoSCoW | First Things First | Análise de Protocolo                          | -                       | -            | -                             | [i* Usuário/Nota] Task - Pesquisar na nota                                             | 
+| RF09   | Criar lista                                  | US08            | -                                   | -       | -                  | -      | -                  | -                                             | -                       | -            | RP02 - Visão geral            | -                                                                                      | 
+
+
 
 #### Versão 1.1
 ![Screenshot](images/bf.jpg)
@@ -368,3 +384,7 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 
 #### IMG55
 ![Screenshot](images/pesquisar-notas-web.png)
+
+### Referências
+
+[Toranzo02] Toranzo, M.; Castro, J. & Mello, E. "Uma proposta para melhorar o rastreamento de requisitos". In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002.

@@ -157,7 +157,7 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 ![Imgur](https://i.imgur.com/Wrqgy03.jpg)
 
 #### Versão 1.1
-![Screenshot](images/bf.png)
+![Screenshot](images/bf.jpg)
 
 ## Forward-From
 

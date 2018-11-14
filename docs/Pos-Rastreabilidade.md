@@ -204,13 +204,13 @@
 ![Screenshot](images/deletar-caderno.png)
 
 #### IMG48
-![Screenshot](images/ordernar-cadernos.png)
+![Screenshot](images/ordenar-cadernos.png)
 
 #### IMG49
-![Screenshot](images/classificar-cadernos.png)
+![Screenshot](images/classificar-caderno.png)
 
 #### IMG50
-![Screenshot](images/baixar-cadernos.png)
+![Screenshot](images/baixar-caderno.png)
 
 #### IMG51
 ![Screenshot](images/sincronizar-caderno.png)

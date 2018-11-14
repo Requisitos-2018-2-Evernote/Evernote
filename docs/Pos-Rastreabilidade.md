@@ -1,14 +1,14 @@
 # Forward-From
 |TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
 |-----------|-----------|-------|------------|
-**Rich Picture**|Funcional|Criar um novo caderno|RP01|
-||Funcional|Criar uma nota|RP02|
-||Funcional|Anexar arquivo na nota|RP02|
-||Funcional|Compartilhar nota|RP02|
-||Funcional|Adicionar lembrete à nota|RP02|
-||Funcional|Mover nota de caderno|RP02|
-||Funcional|Atualizar para conta premium|RP02|
-||Funcional|Baixar caderno|RP02|
+**Rich Picture**|Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Criar uma nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Anexar arquivo na nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Compartilhar nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Adicionar lembrete à nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Mover nota de caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Atualizar para conta premium|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+||Funcional|Baixar caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 **Questionário**|Funcional|Sincronizar caderno|Questionário requisito 2|
 **Story Board**|Funcional|Criar checklist dentro de uma nota|Criando Listas|
 ||Funcional|Editar nota|Uso diário|

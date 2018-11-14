@@ -22,6 +22,21 @@
 ||Funcional|O usuário deve ser capaz de inserir uma foto em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 ||Funcional|O usuário deve ser capaz de esconder a barra de ferramentas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 ||Funcional|O usuário deve ser capaz de duplicar uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+**MoSCoW**|Não Funcional|Segurança dos dados|-
+||Funcional|Excluir nota|MoSCoW requisito 8|
+||Funcional|Renomear nota|MoSCoW requisito 12|
+||Funcional|Alterar formatação do texto da nota|MoSCoW requisitos 18 - 25|
+||Funcional|Criar lista enumerada|MoSCoW requisitos 28|
+**Cenários**|Funcional|Restaurar nota|C11|
+||Funcional|Ativar bloqueio de senha|C01|
+||Funcional|Desativar o bloqueio de senha|C02|
+||Funcional|Alterar o bloqueio de senha|C03|
+||Funcional|Alterar tempo de bloqueio|C05|
+**Casos de uso**|Funcional|Realizar login na aplicação|Criar lembrete|
+||Funcional|Pesquisar notas dentro do caderno|Pesquisar nota|
+||Funcional|Deletar permanentemente|Lixeira|
+||Funcional|Cadastrar no app|Cadastro|
+||Funcional|Cadastrar utilizando conta google|Cadastro|
 
 
 

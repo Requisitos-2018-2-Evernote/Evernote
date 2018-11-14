@@ -29,7 +29,35 @@ Equipe Evernote|**Brainstorming**|||||Funcional|O [Usuário](https://requisitos-
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma foto em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de esconder a barra de ferramentas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de duplicar uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-
+João Victor e larissa|**MoSCoW**||||
+|||Não Funcional|Segurança dos dados|-|
+|||Funcional|Excluir nota|MoSCoW requisito 8|
+|||Funcional|Renomear nota|MoSCoW requisito 12|
+|||Funcional|Alterar formatação do texto da nota|MoSCoW requisitos 18 - 25|
+|||Funcional|Criar lista enumerada|MoSCoW requisitos 28|
+João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Cenários**|||||Funcional|Restaurar nota|C11|
+|||Funcional|Ativar bloqueio de senha|C01|
+|||Funcional|Desativar o bloqueio de senha|C02|
+|||Funcional|Alterar o bloqueio de senha|C03|
+|||Funcional|Alterar tempo de bloqueio|C05|
+João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Casos de uso**|||||Funcional|Realizar login na aplicação|Criar lembrete|
+|||Funcional|Pesquisar notas dentro do caderno|Pesquisar nota|
+|||Funcional|Deletar permanentemente|Lixeira|
+|||Funcional|Cadastrar no app|Cadastro|
+|||Funcional|Cadastrar utilizando conta google|Cadastro|
+Marcelo e Matheus|**Product Backlog**|||||Funcional|Terminar sessão |US04|
+|||Funcional|Realizar login utilizando o Google|US05|
+|||Funcional|Gerenciar disposivos|US11|
+|||Funcional|Convidar amigos|US12|
+|||Funcional|Salvar nota|US20|
+|||Funcional|Pesquisar na nota|US23|
+|||Funcional|Ver estatísticas da nota|US25|
+|||Funcional|Renomear um caderno|US28|
+|||Funcional|Excluir o caderno|US29|
+|||Funcional|Ordenar cadernos por nome ou data|US30|
+|||Funcional|Classificar caderno por|US31|
+|||Funcional|Adicionar caderno à tela inicial do celular|US33|
+|||Funcional|Restaurar caderno apagado|US35|
 # Forward-From
 
 

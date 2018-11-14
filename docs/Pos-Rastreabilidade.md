@@ -1,7 +1,8 @@
-# Forward-To
-Elicitador|TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
+#Matrizes de Rastreabilidade
+## Forward-To
+ELICITADOR|TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
 |---------|-----------|-----------|-------|------------|
-Metheus Oliveira|**Rich Picture**|||||Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+João Victor , larissa, Matheus Filipe, Matheus Oliveira, Marcelo|**Rich Picture**|||||Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 |||Funcional|Criar uma nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 |||Funcional|Anexar arquivo na nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
 |||Funcional|Compartilhar nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
@@ -140,7 +141,9 @@ João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Seguran�
 |||Não Funcional|Usar localização de informação aparente |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
 |||Não Funcional|Apresentar qualidade nos resultados |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
 |||Não Funcional|Usar Icones grandes |[NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|
-# Forward-From
+
+## Forward-From
+
 
 
 |Aplicativo|US| Descrição|
@@ -185,8 +188,11 @@ João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Seguran�
 |[IMG53](https://requisitos-2018-2-evernote.github.io/Evernote/Pos-Rastreabilidade/#img53)|[US38](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us38-deletar-permanentemente)|Deletar permanentemente|
 
 
+## Backward-From
 
+![Imgur](https://i.imgur.com/Wrqgy03.jpg)
 
+Versão 1.0
 
 
 

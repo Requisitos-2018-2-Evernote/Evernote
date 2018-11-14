@@ -1,96 +1,36 @@
+# Forward-To
+Elicitador|TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
+|---------|-----------|-----------|-------|------------|
+Metheus Oliveira|**Rich Picture**|||||Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Criar uma nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Anexar arquivo na nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Compartilhar nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Adicionar lembrete à nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Mover nota de caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Atualizar para conta premium|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+|||Funcional|Baixar caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
+Equipe Evernote|**Questionário**||||
+|||Funcional|Sincronizar caderno|Questionário requisito 2|
+João Victor e Marcelo|**Story Board**|||||Funcional|Criar checklist dentro de uma nota|Criando Listas|
+|||Funcional|Editar nota|Uso diário|
+|||Funcional|Editar nota||Uso diário
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir um lembrete em uma nota.|Uso diário|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|Uso diário|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma foto em uma nota.|Uso diário|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma lista com marcadores no texto de uma nota|Criando Listas|
+|||Funcional|Criar um novo caderno||Cátalogo de Botanica
+Equipe Evernote|**Brainstorming**|||||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve visualizar as notas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de sincronizar os dispositivos.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de editar um nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de compartilha uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de anexar arquivos do google drive em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de gravar áudio em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de tirar uma foto para uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de inserir uma foto em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de esconder a barra de ferramentas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+|||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de duplicar uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
+
 # Forward-From
-|TÉCNICA DE ELICITAÇÃO|TIPO|REQUISITO|OBSERVAÇÕES|
-|-----------|-----------|-------|------------|
-**Rich Picture**|Funcional|Criar um novo caderno|[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Criar uma nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Anexar arquivo na nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Compartilhar nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Adicionar lembrete à nota|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Mover nota de caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Atualizar para conta premium|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-||Funcional|Baixar caderno|[RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)|
-**Questionário**|Funcional|Sincronizar caderno|Questionário requisito 2|
-**Story Board**|Funcional|Criar checklist dentro de uma nota|Criando Listas|
-||Funcional|Editar nota|Uso diário|
-**Brainstorming**|Funcional|O usuário deve visualizar as notas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de sincronizar os dispositivos.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de editar um nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de compartilha uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de gravar áudio em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de tirar uma foto para uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de inserir uma foto em uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de esconder a barra de ferramentas.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-||Funcional|O usuário deve ser capaz de duplicar uma nota.|[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)|
-**MoSCoW**|Não Funcional|Segurança dos dados|-
-||Funcional|Excluir nota|MoSCoW requisito 8|
-||Funcional|Renomear nota|MoSCoW requisito 12|
-||Funcional|Alterar formatação do texto da nota|MoSCoW requisitos 18 - 25|
-||Funcional|Criar lista enumerada|MoSCoW requisitos 28|
-**Cenários**|Funcional|Restaurar nota|C11|
-||Funcional|Ativar bloqueio de senha|C01|
-||Funcional|Desativar o bloqueio de senha|C02|
-||Funcional|Alterar o bloqueio de senha|C03|
-||Funcional|Alterar tempo de bloqueio|C05|
-**Casos de uso**|Funcional|Realizar login na aplicação|Criar lembrete|
-||Funcional|Pesquisar notas dentro do caderno|Pesquisar nota|
-||Funcional|Deletar permanentemente|Lixeira|
-||Funcional|Cadastrar no app|Cadastro|
-||Funcional|Cadastrar utilizando conta google|Cadastro|
-**Product Backlog**|Funcional|Terminar sessão |US04|
-||Funcional|Realizar login utilizando o Google|US05|
-||Funcional|Gerenciar disposivos|US11|
-||Funcional|Convidar amigos|US12|
-||Funcional|Salvar nota|US20|
-||Funcional|Pesquisar na nota|US23|
-||Funcional|Ver estatísticas da nota|US25|
-||Funcional|Renomear um caderno|US28|
-||Funcional|Excluir o caderno|US29|
-||Funcional|Ordenar cadernos por nome ou data|US30|
-||Funcional|Classificar caderno por|US31|
-||Funcional|Adicionar caderno à tela inicial do celular|US33|
-||Funcional|Restaurar caderno apagado|US35|
-**Introspecção**|Funcional|Compartilhar caderno|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve visualizar as notas.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de sincronizar os disposivos.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de editar um nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de compartilha uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de “favorar” uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir um lembrete em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de imprimir uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de excluir uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de visualizar uma lixeira.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve visualizar a data de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário pode visualizar o local de criação de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de editar o titulo de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário tem acesso a informações detalhas de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de copiar uma nota inteira|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de copiar um “link interno” de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário pode visualizar a hora de criação de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário pode personalizar a barra de ferramentas de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar a fonte do texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar o tamanho do texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de alterar a cor do texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para negrito.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para Itálico.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para traçado.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de marca o texto de uma nota|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir código-fonte em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alinha o texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de inserir uma tabela em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir uma linha em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de anexar arquivos em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de gravar áudio em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de tirar uma foto para uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de inserir uma foto em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de esconder a barra de ferramentas.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional| O usuário deve ser capaz de duplicar uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-||Funcional|O usuário deve ser capaz de alterar a data e hora da criação de uma nota|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 
 
 |Aplicativo|US| Descrição|

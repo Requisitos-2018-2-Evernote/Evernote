@@ -99,7 +99,19 @@ João Victor|**Introspecção**|||||Funcional|Compartilhar caderno|[IT01](https:
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de esconder a barra de ferramentas.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 |||Funcional| O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de duplicar uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 |||Funcional|O [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deve ser capaz de alterar a data e hora da criação de uma nota|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-
+João Victor|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar FIREWALLS |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar VPNs|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar origem de endereço de IP|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Criptografar usando DKIM|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar politica DMARC|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar Email e senha|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Limitar tentativas de login |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Permitir medição de força|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar Salt exclusivo |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar retenção de notas |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Armazenar senha por PBKDF2|[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
+|||Não Funcional|Usar token de autenticação |[NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)|
 # Forward-From
 
 

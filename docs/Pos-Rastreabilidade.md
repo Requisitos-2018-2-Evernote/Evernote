@@ -63,7 +63,20 @@
 ||Funcional|O usuário deve visualizar a data de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 ||Funcional| O usuário pode visualizar o local de criação de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 ||Funcional| O usuário deve ser capaz de editar o titulo de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
-
+||Funcional| O usuário tem acesso a informações detalhas de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de copiar uma nota inteira|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de copiar um “link interno” de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional| O usuário pode visualizar a hora de criação de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário pode personalizar a barra de ferramentas de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de alterar a fonte do texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de alterar o tamanho do texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional| O usuário deve ser capaz de alterar a cor do texto de uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para negrito.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para Itálico.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de alterar o texto de uma nota para traçado.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional| O usuário deve ser capaz de marca o texto de uma nota|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
+||Funcional|O usuário deve ser capaz de inserir código-fonte em uma nota.|[IT01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#it01)|
 
 
 

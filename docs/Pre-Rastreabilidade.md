@@ -1,76 +1,54 @@
-## Rich Pictures
+
+
+## Rich Pictures 
+
+
+|Versionamento|
+|-------|
+|[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Pré-Rastreabilidade-Versões) |
+
 
 ### Sumário Rich Pictures
 
 | ID | Rich Pictures |
 |----|------|
 | [RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP03](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP04](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP07](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral) | Visão Geral |
-| [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criar-nota) | Criar Nota |
-| [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-de-usuario) | Visão de Usuário |
-| [RP10](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas) | Pequenas Empresas |
-| [RP11](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho) | Fluxo de Trabalho |
-| [RP12](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#estrategia-de-marketing) | Estratégia de Marketing |
+| [RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#Gerencia-de-Projeto) | Gerencia de Projeto |
+| [RP03](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criar-nota) | Criar Nota |
+| [RP04](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-de-usuario) | Visão de Usuário |
+| [RP05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas) | Pequenas Empresas |
+| [RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho) | Fluxo de Trabalho |
+| [RP07](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#estrategia-de-marketing) | Estratégia de Marketing |
 
 
 #### Visão Geral
 
-![img-geral1](https://i.imgur.com/V0OFrtn.png)  
-Versão 1.0  
-Autor: Matheus Filipe
-
-![img-geral2](https://i.imgur.com/zKH3GTK.png)  
-Versão 1.0  
-Autor: Mateus Oliveira
-
-![img-geral3](https://i.imgur.com/rXttLcQ.png)  
-Versão 1.0  
-Autor:
-
-![img- geral4](https://i.imgur.com/H7Bc12y.png)  
-Versão 1.0  
-Autor: Larissa Sales
-
-![img- geral5](https://i.imgur.com/io54nOp.png)  
-Versão 1.0  
-Autor: Matheus Filipe
-
-![img- geral6](https://i.imgur.com/5bISHEI.png)  
-Versão 1.0  
-Autor:
 
 ![img- geral7](https://i.imgur.com/FTEbY1r.png)  
-Versão 2.0  
 Autor: Matheus Filipe
 
 #### Criar Nota
 ![img-nota](https://i.imgur.com/hlg0A52.jpg)  
-Versão 1.0  
 Autor: Larissa Sales
 
 #### Visão de Usuário
 ![img-usuario](https://i.imgur.com/meMKqdW.png)  
-Versão 1.0  
 Autor: Larissa Sales
 
 #### Pequenas Empresas
 ![img-empresas](https://i.imgur.com/0Acz1pW.png)  
-Versão 1.0  
-Autor:
+Autor: João Victor
 
 #### Fluxo de Trabalho
 ![img-trabalho](https://i.imgur.com/IT3rbkp.png)  
-Versão 1.0  
-Autor:
+Autor: João Victor
+
+#### Gerencia de Projeto 
+![img-geral3](https://i.imgur.com/rXttLcQ.png)  
+Autor: João Victor
 
 #### Estratégia de Marketing
 ![img-estrategia](https://i.imgur.com/bxVk8xA.jpg)  
-Versão 1.0  
 Autor: Vinícius da Costa
 
 ## Argumentações

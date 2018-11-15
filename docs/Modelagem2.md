@@ -1,5 +1,8 @@
 ## Casos de Uso
 
+|Versionamento|
+|-------|
+|[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2-versões) |
 
 ### Sumário Casos de Uso
 |ID|Nome  |

@@ -2,6 +2,10 @@
 
 ## Histórico de Versões
 
+|Versionamento|
+|-------|
+|[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2-versões) |
+
 |Data| Autor(es) |Descrição| Versão|
 |--|--|--|--|
 | 16/10/2018 | Mateus Oliveira  | NFR de segurança e de satisfação | 0.1 |

@@ -212,81 +212,144 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 | Léxico | Aplicação |
 |-----------|------------------|
 | **Noção** | Notação utilizada para se referir ao utilitário em questão, o Evernote. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pega o celular e abre a aplicação; <br> Possuir conta no app e extensão adicionada ao Google Chrome; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe se a aplicação deve exibir notas no widget. |
-| **Sinônimos** | App <br> Aplicativo|
+| **Sinônimos** | App <br> Aplicativo.|
 
 #### Usuário
 
 | Léxico | Usuário |
 |-----------|------------------|
 | **Noção** | Pessoa que está utilizando o aplicativo. |
-| **Classificação** | Sujeito |
+| **Classificação** | Sujeito. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso; <br> Usuário deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a nota; <br> Poderá utilizar todos os recursos disponíveis na aplicação. |
-| **Sinônimos** | Usuários |
+| **Sinônimos** | Usuários. |
 
 #### Código de acesso
 
 | Léxico | Código de Acesso |
 |-----------|------------------|
 | **Noção** | Sequência de 4 números utilizada para desbloquear o aplicativo. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | Se o  [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) nunca definiu um código de acesso o mesmo é pedido pelo aplicativo; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso. |
-| **Sinônimos** | Senha |
+| **Sinônimos** | Senha. |
 
 #### Evernote Web Clipper
 
 | Léxico | Evernote Web Clipper |
 |-----------|------------------|
 | **Noção** | Extensão do Google Chrome utilizada para capturar páginas da web e salvar como nota no Evernote. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | Capturar página da web utilizando o Evernote Web Clipper; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do Evernote Web Clipper. |
-| **Sinônimos** | Web Clipper |
+| **Sinônimos** | Web Clipper. |
 
 #### Captura
 
 | Léxico | Captura |
 |-----------|------------------|
 | **Noção** | Parte de uma página da web que será salva em uma nota. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um formato de captura; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Possui os seguinte formatos: Artigo, Artigo Simplificado, Página inteira, Seleção e Captura de tela. |
-| **Sinônimos** | Capturas |
+| **Sinônimos** | Capturas. |
 
 #### Etiqueta
 
 | Léxico | Etiqueta |
 |-----------|------------------|
 | **Noção** | Classificação de uma nota, facilitando encontrar notas que possuem a mesma etiqueta. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar etiquetas; <br> Uma forma de dividir suas notas além dos cadernos. |
-| **Sinônimos** | Etiquetas <br> Tag |
+| **Sinônimos** | Etiquetas. <br> Tag. |
 
 #### Nota
 
 | Léxico | Nota |
 |-----------|------------------|
 | **Noção** | Arquivo contendo anotações do usuário, que fica armazenado em nuvem no Evernote. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe se a aplicação deve exibir notas no widget; <br> Uma nota pode possuir anexos. |
-| **Sinônimos** | Notas <br> anotações. |
+| **Sinônimos** | Notas; <br> Anotações. |
 
 #### Caderno
 
 | Léxico | Caderno |
 |-----------|------------------|
 | **Noção** | Agrupador de notas no Evernote. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Cadernos podem ser utilizados para organizar/separar notas. |
-| **Sinônimos** | Cadernos |
+| **Sinônimos** | Cadernos. |
 
 #### Pilha
 
 | Léxico | Pilha |
 |-----------|------------------|
 | **Noção** | Agrupador de cadernos no Evernote. |
-| **Classificação** | Objeto |
+| **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) cria pilha de cadernos; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) organiza cadernos por temas em comum. |
-| **Sinônimos** | Pilhas |
+| **Sinônimos** | Pilhas. |
+
+#### Lembrete
+
+| Léxico | Lembrete |
+|-----------|------------------|
+| **Noção** | Um alerta sonoro configurável com hora e data acompanhado por uma breve descrição. |
+| **Classificação** | Objeto. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) com receio de não comparecer na reunião cria um lembrete para a mesma. |
+| **Sinônimos** | Advertência; <br> Aviso; <br> Apontamento. |
+
+#### Anexo
+
+| Léxico | Anexo |
+|-----------|------------------|
+| **Noção** | Algo que foi acrescentado, incorporado à uma nota; <br>  Algo que fica próximo, contíguo, adjacente. |
+| **Classificação** | Objeto. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) recebeu uma nota contendo uma planilha de dados como anexo. |
+| **Sinônimos** | Incluído; <br> Ligado; <br> Junto. |
+
+#### Upgrade
+
+| Léxico | Upgrade |
+|-----------|------------------|
+| **Noção** | Processo que consiste na atualização do hardware ou software que estão presentes em um computador. |
+| **Classificação** | Estado. |
+| **Impactos** | Para ter acesso a mais recursos é necessário que seja feito um upgrade para o plano Premium(pago). |
+| **Sinônimos** | Melhoria; <br> Optimização; |
+
+#### Digitalização
+
+| Léxico | Digitalização |
+|-----------|------------------|
+| **Noção** | Processo que consiste em transformar um documento físico em uma cópia digital. |
+| **Classificação** | Estado. |
+| **Impactos** | Usuário inseriu a cópia digitalizada de seu RG em uma nota. |
+| **Sinônimos** | Escaneamento; <br>  Virtualizar. |
+
+#### Núvem
+
+| Léxico | Núvem |
+|-----------|------------------|
+| **Noção** | Um armazenamento de dados disponível por um serviço e acessível em qualquer lugar do mundo e a qualquer hora, sem necessidade de softwares ou aplicativos adicionais. |
+| **Classificação** | Estado. |
+| **Impactos** | Todas as notas e cadernos do usuário são armazenados na núvem para posterior sincronização entre dispositivos. |
+| **Sinônimos** | Cloud. |
+
+#### Google
+
+| Léxico | Google |
+|-----------|------------------|
+| **Noção** | Uma empresa multinacional de serviços online e software dos Estados Unidos especializada no ramo de busca online. |
+| **Classificação** | Estado. |
+| **Impactos** | Usuário usou a ferramenta Google para solucionar uma dúvida sobre o Evernote. |
+| **Sinônimos** | Não possui. |
+
+#### Offline
+
+| Léxico | Offline |
+|-----------|------------------|
+| **Noção** | Condição na qual um usuário se encontra sem acesso ou desconectado da rede mundial de computadores. |
+| **Classificação** | Estado. |
+| **Impactos** | Usuário não pôde compartilhar uma nota pois estava offline. |
+| **Sinônimos** | Desconectado; <br> Deslogado. |
 
 
 ## Referências

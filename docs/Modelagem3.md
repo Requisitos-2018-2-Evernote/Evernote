@@ -215,6 +215,22 @@
 - Deve salvar a nota automaticamente ao fechá-la
 
 
+#### Caderno
+
+
+| Tema     | Épico                         | ID   | "Eu, como" | Desejo                                                 | Para que eu possa                                      | Comentário                                  | Sprint | pontos | prioridade  | 
+|----------|-------------------------------|------|------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|--------|--------|-------------| 
+| Caderno  | Gerenciar cadernos            | US27 | Usuário    | criar um novo caderno                                  | criar uma novo caderno em branco                       |                                             | 1      | 2      | Muito Alta  | 
+|          |                               | US28 | Usuário    | renomear um caderno                                    | trocar nome de uma caderno existente                   |                                             | 2      | 1      | Média       | 
+|          |                               | US29 | Usuário    | excluir o caderno                                      | apagar um caderno existente                            |                                             | 2      | 2      | Média       | 
+|          |                               | US30 | Usuário    | ordenar cadernos por nome ou data                      | ordernar os cadernos                                   |                                             | 5      | 2      | Baixa       | 
+|          |                               | US31 | Usuário    | classificar caderno por                                | ordernar as notas dentro do caderno                    |                                             | 5      | 3      | Baixa       | 
+|          |                               | US32 | Usuário    | baixar caderno                                         | fazer download de caderno para acessar sem internet    |                                             | 2      | 5      | Alta        | 
+|          |                               | US33 | Usuário    | adicionar caderno à tela inicial do celular            | acessar rapidamente                                    |                                             | 5      | 8      | Muito Baixa | 
+|          |                               | US34 | Usuário    | sincronizar caderno                                    | acessar de qualquer dispositivo                        |                                             | 2      | 5      | Alta        | 
+|          |                               | US35 | Usuário    | restaurar caderno apagado                              | recuperar notas                                        |                                             | 2      | 2      | Alta        | 
+|          |                               | US36 | Usuário    | compartilhar caderno                                   | compartilhar caderno com outro usuário                 |                                             | 3      | 5      | Baixa       | 
+|          |                               | US37 | Usuário    | pesquisar notas dentro do caderno                      | acessar facilmente                                     |                                             | 5      | 2      | Baixa       | 
 
 
 

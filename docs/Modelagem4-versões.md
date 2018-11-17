@@ -21,3 +21,19 @@ Autor: João Victor
 #### Versão 1.0
 ![Imgur](https://i.imgur.com/qxDhPr7.jpg)
 Autor: João Victor
+
+
+
+## iStar
+
+### Sincronizar de dados
+
+#### Versão 1.0
+![](https://i.imgur.com/oHEhZZX.png)
+Autor: João Victor
+
+### Armazenar em disco local
+#### Versão 1.0
+
+![](https://i.imgur.com/YAcVfFb.png)
+Autor: João Victor

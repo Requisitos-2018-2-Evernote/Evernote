@@ -272,3 +272,16 @@ dos requisitos nas seguinte categorias:
 |R40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| Could|
 
 Autor: João Victor
+
+### Análise de Protocolo
+
+Como você faz para criar uma nota?
+Abro o meu navegador ou aplicativo do celular e sou enviado para a tela de login para logar com uma conta existente ou criar uma conta. Após realizar o login sou enviado para a tela principal do programa, seleciono o botão de notas e sou redirecionado para a tela de criação de notas onde é criado um caderno onde a nota será adicionada, dou um título para a minha nota no espaço destinado a isso e o conteúdo da nota no espaço de texto abaixo do espaço do título.
+
+Como faço para consultar minha nota após criada?
+Após realizado o processo de criação da nota detalhado acima vou no menu principal lateral do Evernote e seleciono o botão de meus cadernos. Dentro da opção posso visualizar todos os cadernos criados por mim e ao selecionar um caderno consigo ver todas as notas criadas dentro daquele específico caderno.
+
+Como faço para configurar um lembrete?
+Dentro da tela de criação de nota clico no botão de editar lembrete no canto superior esquerdo da tela, ao clica-lo uma aba aparece com a opção notificar-me onde posso escolher a data e hora que desejo ser notificado sobre aquela nota pertencente ao lembrete.
+
+Autor: Matheus Filipe

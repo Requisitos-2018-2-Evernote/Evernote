@@ -110,6 +110,19 @@
 
 - Deve aparecer confirmação de login com conta Google
 
+#### Conta
+
+
+| Tema     | Épico                         | ID   | "Eu, como" | Desejo                                                 | Para que eu possa                                      | Comentário                                  | Sprint | pontos | prioridade  | 
+|----------|-------------------------------|------|------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|--------|--------|-------------| 
+| Conta    | Administrar bloqueio de senha | US06 | Usuário    | ativar bloqueio de senha                               | proteger conteúdo do aplicativo com senha              | PIN de 4 dígitos                            | 4      | 3      | Alta        | 
+|          |                               | US07 | Usuário    | desativar bloqueio de senha                            | cancelar a requisição de senha para acesso             |                                             | 4      | 3      | Alta        | 
+|          |                               | US08 | Usuário    | alterar o bloqueio de senha                            | mudar o PIN que protege o aplicativo                   |                                             | 4      | 3      | Média       | 
+|          |                               | US09 | Usuário    | alterar tempo de bloqueio                              | escolher quanto tempo antes de pedir a senha novamente |                                             | 4      | 3      | Média       | 
+|          |                               | US10 | Usuário    | atualizar para conta premium                           | pagar aplicativo para ter acesso a mais funções        |                                             | 3      | 5      | Alta        | 
+|          |                               | US11 | Usuário    | gerenciar dispositivos                                 | deslogar remotamente de um dispositivo                 | apenas 2 para usuários free                 | 3      | 5      | Média       | 
+|          |                               | US12 | Usuário    | convidar amigos                                        | receber premium por 1 mês                              | cada amigo te dá direito a 1 mês de premium | 3      | 3      | Baixa       | 
+
 
 ##### US13 - Criar Nota
 

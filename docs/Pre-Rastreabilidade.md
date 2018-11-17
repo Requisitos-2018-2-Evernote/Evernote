@@ -19,8 +19,8 @@
 | [RP05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas) | Pequenas Empresas |
 | [RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho) | Fluxo de Trabalho |
 | [RP07](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#estrategia-de-marketing) | Estratégia de Marketing |
-| [RP08]() | Visão Geral 2 |
-| [RP09]() | Funcionalidades e recursos |
+| [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral-2) | Visão Geral 2 |
+| [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#funcionalidades-e-recursos) | Funcionalidades e recursos |
 
 
 #### Visão Geral

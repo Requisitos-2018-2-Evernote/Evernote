@@ -45,6 +45,21 @@
 #### Cadastro
 ![Imgur](https://i.imgur.com/Tebtpo1.png)
 
+#### Criar Lembrete v1.1
+![Imgur](https://i.imgur.com/EeXjO7c.png)
+
+#### Criar Conta
+![Imgur](https://i.imgur.com/Ap9e3P5.png)
+
+#### Etiquetar
+![Imgur](https://i.imgur.com/zo7Ke69.png)
+
+#### Compartilhar Mana
+![Imgur](https://i.imgur.com/cop6SS9.png)
+
+#### Criar Nota v1.1
+![Imgur](https://i.imgur.com/MXJ6fPb.png)
+
 **Descrição:**
 Este caso de uso permite que o usuário possa se cadatre e tenha acesso ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
 

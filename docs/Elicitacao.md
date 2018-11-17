@@ -15,6 +15,8 @@
 | [SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#uso-diario) | Uso diário |
 | [SB02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#criando-listas) | Criando Listas |
 | [SB03](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#catalogo-de-botanica) | Catálogo de Botânica |
+| [SB04](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#sb04-nota-de-audio) | Nota de áudio |
+| [SB05](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#sb05-lista-de-compras) | Lista de compra |
 | [ST01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#procurando-um-aplicativo) | Procurando um Aplicativo |
 | [E01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#escolha-do-aplicativo) | Escolha do aplicativo |
 | [BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01) | Brainstorming |
@@ -129,11 +131,11 @@ Autor: Marcelo Araújo
 ![Imgur](https://i.imgur.com/RycRwGb.png)
 Autor: João Victor
 
-#### SB04 - Lista de compras
+#### SB04 - Nota de áudio
 ![Imgur](https://i.imgur.com/18p4jyR.png)
 Autor: Matheus Filipe
 
-#### SB05 - Nota de áudio
+#### SB05 - Lista de compras
 ![Imgur](https://i.imgur.com/0KVG3nP.png)
 Autor: Matheus Filipe
 

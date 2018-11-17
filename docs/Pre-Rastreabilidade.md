@@ -19,6 +19,8 @@
 | [RP05](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas) | Pequenas Empresas |
 | [RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho) | Fluxo de Trabalho |
 | [RP07](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#estrategia-de-marketing) | Estratégia de Marketing |
+| [RP08]() | Visão Geral 2 |
+| [RP09]() | Funcionalidades e recursos |
 
 
 #### Visão Geral
@@ -50,6 +52,14 @@ Autor: João Victor
 #### Estratégia de Marketing
 ![img-estrategia](https://i.imgur.com/bxVk8xA.jpg)  
 Autor: Vinícius da Costa
+
+#### Visão Geral 2
+![Imgur](https://i.imgur.com/9jMq9Wu.jpg)
+Autor: Matheus Filipe
+
+#### Funcionalidades e recursos
+![Imgur](https://i.imgur.com/RIHuQF0.jpg)
+Autor: Matheus Filipe
 
 ## Argumentações
 

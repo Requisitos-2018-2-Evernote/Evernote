@@ -124,6 +124,27 @@
 |          |                               | US12 | Usuário    | convidar amigos                                        | receber premium por 1 mês                              | cada amigo te dá direito a 1 mês de premium | 3      | 3      | Baixa       | 
 
 
+#### Nota
+
+
+| Tema     | Épico                         | ID   | "Eu, como" | Desejo                                                 | Para que eu possa                                      | Comentário                                  | Sprint | pontos | prioridade  | 
+|----------|-------------------------------|------|------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|--------|--------|-------------| 
+| Nota     | Gerenciar notas               | US13 | Usuário    | criar nota                                             | criar uma nova nota em branco                          |                                             | 1      | 2      | Muito Alta  | 
+|          |                               | US14 | Usuário    | editar nota                                            | editar uma nota existente                              |                                             | 1      | 3      | Muito Alta  | 
+|          |                               | US15 | Usuário    | renomear nota                                          | trocar o nome de uma nota                              |                                             | 2      | 1      | Alta        | 
+|          |                               | US16 | Usuário    | excluir nota                                           | excluir uma nota existente                             |                                             | 1      | 2      | Muito Alta  | 
+|          |                               | US17 | Usuário    | mover nota de caderno                                  | trocar em qual caderno a nota se encontra              |                                             | 2      | 2      | Média       | 
+|          |                               | US18 | Usuário    | restaurar nota                                         | restaurar nota da lixeira do aplicativo                |                                             | 2      | 2      | Alta        | 
+|          |                               | US19 | Usuário    | duplicar nota                                          | criar nota idêntica à atual                            |                                             | 5      | 3      | Muito Baixa | 
+|          |                               | US20 | Usuário    | salvar nota                                            | salvar alterações feitas na nota                       |                                             | 1      | 2      | Muito Alta  | 
+|          |                               | US21 | Usuário    | alterar formatação do texto da nota                    | melhorar a leitura das notas                           |                                             | 2      | 5      | Alta        | 
+|          |                               | US22 | Usuário    | anexar arquivo na nota                                 | acessar arquivos dentro da nota                        |                                             | 2      | 5      | Muito Alta  | 
+|          |                               | US23 | Usuário    | pesquisar na nota                                      | encontrar partes da nota com mais facilidade           |                                             | 5      | 2      | Baixa       | 
+|          |                               | US24 | Usuário    | compartilhar nota                                      | enviar a nota para outro usuário                       |                                             | 3      | 5      | Baixa       | 
+|          |                               | US25 | Usuário    | ver estatísticas da nota                               | "saber quantidade de palavras, linhas, etc"            |                                             | 5      | 3      | Muito Baixa | 
+|          |                               | US26 | Usuário    | criar checklist dentro de uma nota                     | criar listas onde eu possa marcar o que já foi feito   |                                             | 5      | 5      | Média       | 
+
+
 ##### US13 - Criar Nota
 
 **Criterios de Aceitação**

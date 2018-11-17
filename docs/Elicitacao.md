@@ -115,6 +115,7 @@ funcionalidades do evernote.
 |RNF75.| O usuário deve ser capaz de contar com uma plataforma integrada com outras ferramentas. |
 |RNF76.| O usuário deve ser capaz de contar com a disponibilidade de um servidor núvem. |
 
+Autor: João Victor e Matheus Filipe
 
 ### Story Board
 

@@ -46,7 +46,7 @@ Autor: João Victor
 Autor: João Victor
 
 #### Gerencia de Projeto 
-![img-geral3](https://i.imgur.com/rXttLcQ.png)  
+![Imgur](https://i.imgur.com/xG0exrC.jpg)  
 Autor: João Victor
 
 #### Estratégia de Marketing

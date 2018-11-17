@@ -6,21 +6,22 @@
 |-------|
 |[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2-versões) |
 
-|Data| Autor(es) |Descrição| Versão|
-|--|--|--|--|
-| 16/10/2018 | Mateus Oliveira  | NFR de segurança e de satisfação | 0.1 |
-| 17/10/2018 | Larissa Sales | NFR de organização dos cadernos | 0.2 |
-| 17/10/2018 | Matheus Filipe | NFR de interface e segurança de armazenamento de dados | 0.3 |
-| 17/10/2018 | João Victor | NFR Geral | 1.0|
-| 17/10/2018 | Marcelo Magalhães | NFR de Usabilidade | 1.1 |
-| 29/10/2018 | Mateus Oliveira| iStar nota, SD e SR | 1.2 |
-| 29/10/2018 | Matheus Filipe | iStar Geral|1.3|
-| 29/10/2018 | Larissa Sales | iStar de exportar nota | 1.4 |
-| 29/10/2018 | Larissa Sales | iStar de login | 1.5 |
-| 29/10/2018 | Larissa Sales | iStar de restaurar nota | 1.6 |
-| 29/10/2018 | João Victor | iStar armazenamento e sincronização de dados | 1.7 |
-| 29/10/2018 | João Victor | iStar bate papo | 1.7.2 |
-| 29/10/2018 | Marcelo Magalhães | iStar Realizar busca | 2.0 |
+ |Data| Autor(es) |Descrição| Versão|
+ |--|--|--|--|
+ | 16/10/2018 | Mateus Oliveira  | NFR de segurança e de satisfação | 0.1 |
+ | 17/10/2018 | Larissa Sales | NFR de organização dos cadernos | 0.2 |
+ | 17/10/2018 | Matheus Filipe | NFR de interface e segurança de armazenamento de dados | 0.3 |
+ | 17/10/2018 | João Victor | Segurança, desempenho, usabilidade e NFR Geral | 1.0|
+ | 17/10/2018 | Marcelo Magalhães | NFR de Usabilidade | 1.1 |
+ | 29/10/2018 | Mateus Oliveira| iStar nota, SD e SR | 1.2 |
+ | 29/10/2018 | Matheus Filipe | iStar Geral|1.3|
+ | 29/10/2018 | Larissa Sales | iStar de exportar nota | 1.4 |
+ | 29/10/2018 | Larissa Sales | iStar de login | 1.5 |
+ | 29/10/2018 | Larissa Sales | iStar de restaurar nota | 1.6 |
+ | 29/10/2018 | João Victor | iStar armazenamento e sincronização de dados | 1.7 |
+ | 29/10/2018 | João Victor | iStar bate papo | 1.7.2 |
+ | 29/10/2018 | Marcelo Magalhães | iStar Realizar busca | 2.0 |
+
 
 
 
@@ -28,32 +29,44 @@
 
 ### Geral
 ![Imgur](https://i.imgur.com/hICZgwT.jpg)
+Autor: João Victor
 
 ### Segurança
-![Imgur](https://i.imgur.com/UgbzWQy.jpg)
+![Imgur](https://i.imgur.com/1YSqujo.jpg)
+Autor: João Victor
 
 #### Segurança do conteúdo
 ![Segurança do conteúdo](https://i.imgur.com/DZiVsXy.png)
+Autor: Mateus Oliveira 
 
 #### Satisfação do usuário free
 ![Satisfação do usuário free](https://i.imgur.com/HvIosgP.png)
+Autor: Mateus Oliveira 
 
 #### Segurança no armazenamento de dados
 ![Imgur](https://i.imgur.com/8zV2lLE.png)
+Autor: Matheus Filipe
 
 ### Usabilidade
 ![Imgur](https://i.imgur.com/yFzCSGQ.jpg)
+Autor: João Victor
 
 ![imgur](https://i.imgur.com/J99s7Nl.png)
+Autor: Marcelo Magalhães
 
 #### Organização dos cadernos do usuário
 ![Imgur](https://i.imgur.com/FTyDMtR.jpg)
 
+Autor: Larissa Sales 
+
+
 #### Amigabilidade da interface
 ![Imgur](https://i.imgur.com/013HZBS.jpg)
+Autor: Matheus Filipe
 
-### Desempenho
+#### Desempenho
 ![Imgur](https://i.imgur.com/Ez9PBPY.jpg)
+Autor: João Victor
 
 ## iStar
 
@@ -62,6 +75,7 @@
 ![enter image description here](https://i.imgur.com/81ivaaf.jpg)
 
 ![](https://i.imgur.com/SBOuWzK.png)
+Autor: João Victor
 
 ### Nota
 
@@ -83,16 +97,20 @@
 
 ### Armazenar em nuvem
 ![](https://i.imgur.com/rYRpboG.png)
+Autor: João Victor
 
 ### Armazenar em disco local
 ![](https://i.imgur.com/kpOgcCF.png)
+Autor: João Victor
 
 ### Sincronizar de dados
 
 ![](https://i.imgur.com/oAvIV7z.png)
+Autor: João Victor
 
 ### Bate papo
 ![](https://i.imgur.com/0TnPuOd.png)
+Autor: João Victor
 
 ### Realizar pesquisa
 

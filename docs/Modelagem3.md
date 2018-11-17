@@ -2,7 +2,7 @@
 
 |Versionamento|
 |-------|
-|[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2-versões) |
+|[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3-versões) |
 
 |ID| Product Backlog|
 |--|--|
@@ -46,7 +46,12 @@
 |[US38](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us38-deletar-permanentemente)|Deletar permanentemente|
 
 #### Cadastro
-![Imgur](https://i.imgur.com/SSHL8Ck.png)
+
+
+| Tema     | Épico                         | ID   | "Eu, como" | Desejo                                                 | Para que eu possa                                      | Comentário                                  | Sprint | pontos | prioridade  | 
+|----------|-------------------------------|------|------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|--------|--------|-------------| 
+| Cadastro |                               | US01 | Usuário    | me cadastrar no aplicativo                             | criar minha conta na aplicação                         | "cadastro de nome, senha, email"            | 1      | 5      | Muito Alta  | 
+|          |                               | US02 | Usuário    | me cadastrar utilizando os dados da minha conta Google | "me cadastrar, sem precisar digitar meus dados"        | vincular conta do Google                    | 3      | 5      | Alta        | 
 
 ##### US01 - Fazer cadastro no aplicativo
 
@@ -67,9 +72,6 @@
 
 - Deve ser efetuado o cadastro
 
-
-#### Login
-![Imgur](https://i.imgur.com/4tQkFly.png)
 
 
 ##### US03 - Realizar login na aplicação
@@ -99,13 +101,6 @@
 - Deve haver um campo para login com conta google
 
 - Deve aparecer confirmação de login com conta Google
-
-
-#### Conta
-![Imgur](https://i.imgur.com/lPnuoPU.png)
-
-#### Nota
-![Imgur](https://i.imgur.com/jURYNsb.png)
 
 
 ##### US13 - Criar Nota
@@ -178,8 +173,6 @@
 - Deve salvar a nota automaticamente ao fechá-la
 
 
-#### Caderno
-![Imgur](https://i.imgur.com/PMmYFO2.png)
 
 
 

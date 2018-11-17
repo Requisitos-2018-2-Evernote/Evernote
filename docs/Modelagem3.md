@@ -72,7 +72,15 @@
 
 - Deve ser efetuado o cadastro
 
+#### Login
 
+
+
+| Tema     | Épico                         | ID   | "Eu, como" | Desejo                                                 | Para que eu possa                                      | Comentário                                  | Sprint | pontos | prioridade  | 
+|----------|-------------------------------|------|------------|--------------------------------------------------------|--------------------------------------------------------|---------------------------------------------|--------|--------|-------------| 
+| Login    |                               | US03 | Usuário    | realizar login na aplicação                            | acessar as funcionalidades do aplicativo               |                                             | 1      | 3      | Muito Alta  | 
+|          |                               | US04 | Usuário    | terminar sessão                                        | deslogar da minha conta                                |                                             | 1      | 2      | Alta        | 
+|          |                               | US05 | Usuário    | realizar login utilizando o Google                     | realizar login com maior praticidade                   |       
 
 ##### US03 - Realizar login na aplicação
 

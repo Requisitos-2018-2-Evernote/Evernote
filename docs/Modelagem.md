@@ -99,10 +99,10 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 | Título | Capturar página da web utilizando o [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper)|
 |-----------|------------------|
 | **Objetivo** | Descrever as opções relacionadas à [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura) de páginas da web com o Web Clipper.|
-| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja salvar informações de uma página da web como [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota).<br>**Pré-condição**  - Possuir conta no [app](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) e extensão adicionada ao Google Chrome.|
+| **Contexto** | **Situação**  - [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) deseja salvar informações de uma página da web como [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota).<br>**Pré-condição**  - Possuir conta no [app](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) e extensão adicionada ao [Google](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) Chrome.|
 | **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario).|
-| **Recursos** | Internet;<br>Conta no Evernote;<br>Google Chrome;<br>[Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper).|
-| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um **formato de captura**;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) deseja salvar a [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar [etiquetas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar uma observação à [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);|
+| **Recursos** | Internet;<br>Conta no Evernote;<br>[Google](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) Chrome;<br>[Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper).|
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o [Google](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) Chrome e navega até a página da web desejada;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do [Evernote Web Clipper](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#evernote-web-clipper);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um **formato de captura**;<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) deseja salvar a [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar [etiquetas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar uma observação à [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);<br>[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);|
 | **Restrição** |Estar conectado à internet;<br>Possuir extensão Web Clipper adicionada ao Chrome;|
 | **Exceções** |[Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode não salvar a [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota);<br>Falha na conexão com a internet.|
 
@@ -153,13 +153,13 @@ Os cenários representam atividades que podem ser feitas e motivos da sua necess
 
 #### Criar pilha de cadernos                                                            
 
-| Título | Criar uma pilha de cadernos |
+| Título | Criar uma [pilha](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pilha) de cadernos |
 |-----------|------------------|
 | **Objetivo** | Agrupar cadernos por temas em comum |
 | **Contexto** | Ter [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> Agrupar [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) |
 | **Atores** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) |
 | **Recursos** | Celular <br> Computador <br> Bateria |
-| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em ["cadernos"](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica e segura um [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) existente <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona opção "mover para pilha" ou "mover para nova pilha" |
+| **Episódios** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o [aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica em ["cadernos"](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica e segura um [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) existente <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona opção "mover para [pilha](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pilha)" ou "mover para nova [pilha](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pilha)" |
 | **Exceções** | Celular está sem bateria <br> [Aplicativo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao) não abre <br> Touch do celular não funciona |
 
 #### Esvaziar lixeira
@@ -206,6 +206,13 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 | [L07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) | Nota |
 | [L08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) | Caderno |
 | [L09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pilha) | Pilha |
+| [L10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#lembrete) | Lembrete |
+| [L11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#anexo) | Anexo |
+| [L12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#upgrade) | Upgrade |
+| [L13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#digitalizacao) | Digitalização |
+| [L14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nuvem) | Núvem |
+| [L15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) | Google |
+| [L16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#offline) | Offline |
 
 #### Aplicação
 
@@ -222,7 +229,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Pessoa que está utilizando o aplicativo. |
 | **Classificação** | Sujeito. |
-| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso; <br> Usuário deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o Google Chrome e navega até a página da web desejada; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a nota; <br> Poderá utilizar todos os recursos disponíveis na aplicação. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode definir um limite de tempo após o qual será solicitado que insira novamente o código de acesso; <br> Usuário deseja proteger conteúdo da aplicação; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) abre o [Google](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) Chrome e navega até a página da web desejada; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) salva a nota; <br> Poderá utilizar todos os recursos disponíveis na aplicação. |
 | **Sinônimos** | Usuários. |
 
 #### Código de acesso
@@ -238,7 +245,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 
 | Léxico | Evernote Web Clipper |
 |-----------|------------------|
-| **Noção** | Extensão do Google Chrome utilizada para capturar páginas da web e salvar como nota no Evernote. |
+| **Noção** | Extensão do [Google](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) Chrome utilizada para capturar páginas da web e salvar como nota no Evernote. |
 | **Classificação** | Objeto. |
 | **Impactos** | Capturar página da web utilizando o Evernote Web Clipper; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) clica sobre o ícone do Evernote Web Clipper. |
 | **Sinônimos** | Web Clipper. |
@@ -249,7 +256,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Parte de uma página da web que será salva em uma nota. |
 | **Classificação** | Objeto. |
-| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um formato de captura; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Possui os seguinte formatos: Artigo, Artigo Simplificado, Página inteira, Seleção e Captura de tela. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona um formato de captura; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual [caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) deseja salvar a captura; <br> Possui os seguinte formatos: Artigo, Artigo Simplificado, Página inteira, Seleção e Captura de tela. |
 | **Sinônimos** | Capturas. |
 
 #### Etiqueta
@@ -258,7 +265,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Classificação de uma nota, facilitando encontrar notas que possuem a mesma etiqueta. |
 | **Classificação** | Objeto. |
-| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar etiquetas; <br> Uma forma de dividir suas notas além dos cadernos. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode adicionar etiquetas; <br> Uma forma de dividir suas notas além dos [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno). |
 | **Sinônimos** | Etiquetas. <br> Tag. |
 
 #### Nota
@@ -267,7 +274,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Arquivo contendo anotações do usuário, que fica armazenado em nuvem no Evernote. |
 | **Classificação** | Objeto. |
-| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe se a aplicação deve exibir notas no widget; <br> Uma nota pode possuir anexos. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) escolhe se a aplicação deve exibir notas no widget; <br> Uma nota pode possuir [anexos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#anexo). |
 | **Sinônimos** | Notas; <br> Anotações. |
 
 #### Caderno
@@ -276,16 +283,16 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Agrupador de notas no Evernote. |
 | **Classificação** | Objeto. |
-| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a captura; <br> Cadernos podem ser utilizados para organizar/separar notas. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) seleciona em qual caderno deseja salvar a [captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura); <br> Cadernos podem ser utilizados para organizar/separar notas. |
 | **Sinônimos** | Cadernos. |
 
 #### Pilha
 
 | Léxico | Pilha |
 |-----------|------------------|
-| **Noção** | Agrupador de cadernos no Evernote. |
+| **Noção** | Agrupador de [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) no Evernote. |
 | **Classificação** | Objeto. |
-| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) cria pilha de cadernos; <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) organiza cadernos por temas em comum. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) cria pilha de [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno); <br> [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) organiza [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) por temas em comum. |
 | **Sinônimos** | Pilhas. |
 
 #### Lembrete
@@ -301,7 +308,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 
 | Léxico | Anexo |
 |-----------|------------------|
-| **Noção** | Algo que foi acrescentado, incorporado à uma nota; <br>  Algo que fica próximo, contíguo, adjacente. |
+| **Noção** | Algo que foi acrescentado, incorporado à uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota); <br>  Algo que fica próximo, contíguo, adjacente. |
 | **Classificação** | Objeto. |
 | **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) recebeu uma nota contendo uma planilha de dados como anexo. |
 | **Sinônimos** | Incluído; <br> Ligado; <br> Junto. |
@@ -321,7 +328,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Processo que consiste em transformar um documento físico em uma cópia digital. |
 | **Classificação** | Estado. |
-| **Impactos** | Usuário inseriu a cópia digitalizada de seu RG em uma nota. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) inseriu a cópia digitalizada de seu RG em uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota). |
 | **Sinônimos** | Escaneamento; <br>  Virtualizar. |
 
 #### Núvem
@@ -330,7 +337,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Um armazenamento de dados disponível por um serviço e acessível em qualquer lugar do mundo e a qualquer hora, sem necessidade de softwares ou aplicativos adicionais. |
 | **Classificação** | Estado. |
-| **Impactos** | Todas as notas e cadernos do usuário são armazenados na núvem para posterior sincronização entre dispositivos. |
+| **Impactos** | Todas as [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) e [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) do usuário são armazenados na núvem para posterior sincronização entre dispositivos. |
 | **Sinônimos** | Cloud. |
 
 #### Google
@@ -339,7 +346,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Uma empresa multinacional de serviços online e software dos Estados Unidos especializada no ramo de busca online. |
 | **Classificação** | Estado. |
-| **Impactos** | Usuário usou a ferramenta Google para solucionar uma dúvida sobre o Evernote. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) usou a ferramenta Google para solucionar uma dúvida sobre o Evernote. |
 | **Sinônimos** | Não possui. |
 
 #### Offline
@@ -348,7 +355,7 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Condição na qual um usuário se encontra sem acesso ou desconectado da rede mundial de computadores. |
 | **Classificação** | Estado. |
-| **Impactos** | Usuário não pôde compartilhar uma nota pois estava offline. |
+| **Impactos** | Usuário não pôde compartilhar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) pois estava offline. |
 | **Sinônimos** | Desconectado; <br> Deslogado. |
 
 

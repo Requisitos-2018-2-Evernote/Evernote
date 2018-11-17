@@ -60,8 +60,8 @@ funcionalidades do evernote.
 |R22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| 
 |R23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.|
 |R24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| 
-|R25. |O usuário deve ser capaz de marca o texto de uma nota. | 
-|R26. |O usuário deve ser capaz de inserir código-fonte em uma nota.| 
+|R25.| O usuário deve ser capaz de marca o texto de uma nota. | 
+|R26.| O usuário deve ser capaz de inserir código-fonte em uma nota.| 
 |R27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|
 |R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| 
 |R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| 
@@ -76,22 +76,66 @@ funcionalidades do evernote.
 |R38.| O usuário deve ser capaz de esconder a barra de ferramentas.|
 |R39.| O usuário deve ser capaz de duplicar uma nota. | 
 |R40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| 
+|R41.| O usuário deve ser capaz de etiquetar uma nota. |
+|R42.| O usuário deve ser capaz de localizar fotos. |
+|R43.| O usuário deve ser capaz de criar nota contendo letra de caligafria. |
+|R44.| O usuário deve ser capaz de digitalizar um documento. |
+|R45.| O usuário deve ser capaz de usar um buscador de texto. |
+|R46.| O usuário deve ser capaz de criar uma lista. |
+|R47.| O usuário deve ser capaz de criar um lembrete. |
+|R48.| O usuário deve ser capaz de nomear um lembrete. |
+|R49.| O usuário deve ser capaz de logar na conta Evernote atravéz de uma conta do Google. |
+|R50.| O usuário deve ser capaz de adicionar um caderno aos atalhos. |
+|R51.| O usuário deve ser capaz de salvar a captura de uma tela da internet. |
+|R52.| O usuário deve ser capaz de de realizar uma avaliação do aplicativo Evernote. |
+|R53.| O usuário deve ser capaz de escolher forma de pagamento da assinatura Evernote(Premium e Business). |
+|R54.| O usuário deve ser capaz de realizar um login. |
+|R55.| O usuário deve ser capaz de recuperar a senha da conta Evernote. |
+|R56.| O usuário deve ser capaz de realizar um upgrade na conta Evernote. |
+|R57.| O usuário deve ser capaz de realizar uma busca por explicações de funcionalidades. |
+|R58.| O usuário deve ser capaz de anexar arquivos de outras ferramentas. |
+|R59.| O usuário deve ser capaz de administrar a conta Evernote. |
+|R60.| O usuário deve ser capaz de realizar um cadastro. |
+|R61.| O usuário deve ser capaz de restaurar um documento. |
+|R62.| O usuário deve ser capaz de testar a versão do Evernote Premium. |
+|R63.| O usuário deve ser capaz de testar a versão do Evernote Business. |
+|R64.| O usuário deve ser capaz de criar um caderno. |
+|R65.| O usuário deve ser capaz de nomear um caderno. |
+|R66.| O usuário deve ser capaz de utilizar um caderno em modo offline. |
+|R67.| O usuário deve ser capaz de marcar uma nota como feita. |
+|R68.| O usuário deve ser capaz de visualizar cadernos. |
+|R69.| O usuário deve ser capaz de inserir tópicos em uma nota. |
+|R70.| O usuário deve ser capaz de inserir texto em uma nota |
+|R71.| O usuário deve ser capaz de nomear etiqueta. |
+|R72.| O usuário deve ser capaz de bloquear senha. |
+|R73.| O usuário deve ser capaz de esvaziar lixeira. |
+|R74.| O usuário deve ser capaz de criar uma nota simples. |
+|RNF75.| O usuário deve ser capaz de contar com uma plataforma integrada com outras ferramentas. |
+|RNF76.| O usuário deve ser capaz de contar com a disponibilidade de um servidor núvem. |
 
 
 ### Story Board
 
-#### Uso diário 
+#### SB01 Uso diário 
 ![Imgur](https://i.imgur.com/99xUIVI.jpg)
 Autor: João Victor
 
-#### Criando Listas
+#### SB02 - Criando Listas
 
 ![Imgur](https://i.imgur.com/Q4pm6aI.jpg?1)
 Autor: Marcelo Araújo
 
-#### Catálogo de Botânica
+#### SB03 - Catálogo de Botânica
 ![Imgur](https://i.imgur.com/RycRwGb.png)
 Autor: João Victor
+
+#### SB04 - Lista de compras
+![Imgur](https://i.imgur.com/18p4jyR.png)
+Autor: Matheus Filipe
+
+#### SB05 - Nota de áudio
+![Imgur](https://i.imgur.com/0KVG3nP.png)
+Autor: Matheus Filipe
 
 ### Brainstorm
 
@@ -208,8 +252,8 @@ dos requisitos nas seguinte categorias:
 |R22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| Could|
 |R23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.| Could|
 |R24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| Could|
-|R25. |O usuário deve ser capaz de marca o texto de uma nota. | Would|
-|R26. |O usuário deve ser capaz de inserir código-fonte em uma nota.| Could|
+|R25.| O usuário deve ser capaz de marca o texto de uma nota. | Would|
+|R26.| O usuário deve ser capaz de inserir código-fonte em uma nota.| Could|
 |R27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|Would|
 |R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| Would|
 |R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| Would|

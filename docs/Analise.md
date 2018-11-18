@@ -9,9 +9,9 @@
 Foi decidido pelo grupo de forma unânime que cada membro da equipe ficaria com uma parte ou funcionalidade do software Evernote, de forma a facilitar a identificação de erros para, posteriormente, serem corrigidos. A inspeção realizada está centrada nos modelos de Elicitação assim como suas respectivas técnicas escolhidas.
 
 #### Visão geral
-> * Cenários: 
+> * Cenários:
 Os cenários são conhecidos como uma estratégia usada para não só evidenciar as interações entre ambientes e sistemas como também para elicitar toda a parte comportamental de um produto de software.
-> * Cenários: 
+> * Léxicos:
 Os léxicos se tratam de uma técnica que visa a descrição de símbolos de uma linguagem, semelhante a uma explicação de dicionário sobre o significado do mesmo.
 
 #### Preparação

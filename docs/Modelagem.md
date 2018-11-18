@@ -355,8 +355,92 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 |-----------|------------------|
 | **Noção** | Condição na qual um usuário se encontra sem acesso ou desconectado da rede mundial de computadores. |
 | **Classificação** | Estado. |
-| **Impactos** | Usuário não pôde compartilhar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) pois estava offline. |
+| **Impactos** | [Usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) não pôde compartilhar uma [nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) pois estava offline. |
 | **Sinônimos** | Desconectado; <br> Deslogado. |
+
+#Modelagem-Inicial-Versões
+
+#### Assinatura
+
+| Léxico | Assinatura |
+|-----------|------------------|
+| **Noção** | Ato de realizar uma assinatura de um Pacote de plano do Evernote. |
+| **Classificação** | Estado. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) basic assina o plano Premium. <br> O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) assina o plano Business. |
+| **Sinônimos** | Assinar; <br> Subscrição; <br> Contrato. |
+
+#### Pacote Basic
+
+| Léxico | Pacote Basic |
+|-----------|------------------|
+| **Noção** | Plano do Evernote que oferece inúmeras funções gratuitas. |
+| **Classificação** | Objeto. |
+| **Impactos** | Plano inicial, acessível por qual pessoa. |
+| **Sinônimos** | Pacote; <br> Plano; <br> Planos; <br> Subscrição; <br> Contrato. |
+
+
+#### Pacote Premium
+
+| Léxico | Pacote Premium |
+|-----------|------------------|
+| **Noção** | Plano do Evernote que fornece anotações em PDF, limite de upload mensal de 10gb, tamanho máximo de nota de 200mb, número de dispositivos logados ilimitado e acesso offline por desktop e mobile. |
+| **Classificação** | Objeto. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) assina o pacote premium. |
+| **Sinônimos** | Pacote; <br> Plano; <br> Planos; <br> Subscrição; <br> Contrato. |
+
+#### Pacote Business
+
+| Léxico | Pacote Business |
+|-----------|------------------|
+| **Noção** | Plano do Evernote que fornece anotações em PDF, integração com diversos serviços, colaboração de equipe, limite de upload mensal de 20gb, tamanho máximo de nota de 200mb, número de dispositivos logados ilimitado, acesso offline por desktop e mobile e número de spaces de colaboração ilimitado. |
+| **Classificação** | Objeto. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) assina o pacote business. |
+| **Sinônimos** | Pacote; <br> Plano; <br> Planos; <br> Subscrição; <br> Contrato. |
+
+#### Notificações
+
+| Léxico | Notificações |
+|-----------|------------------|
+| **Noção** | Avisos ao [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) sobre atualizações, promoções ou convites de acesso. |
+| **Classificação** | Objeto. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) recebe notificações para o melhor uso do aplicativo. |
+| **Sinônimos** | Notificações; <br> Aviso; <br> Prevenir; <br> Anunciar. |
+
+#### Nome de usuário
+
+| Léxico | Nome de usuário |
+|-----------|------------------|
+| **Noção** | Nome que o [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode escolher para colocar em seu perfil. |
+| **Classificação** | Objeto. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode ser reconhecido por amigos através de seu nome de usuário. |
+| **Sinônimos** | Nickname; <br> Nick; <br> Nome de perfil. |
+
+#### Facebook
+
+| Léxico | Facebook |
+|-----------|------------------|
+| **Noção** | Rede social que está integrada ao pacote premium do Evernote. |
+| **Classificação** | Objeto. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode ser reconhecido por seu nome de perfil. <br> O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode se cadastrar por meio de uma conta Facebook. |
+| **Sinônimos** | Rede social; <br> Face. |
+
+#### Compartilhar
+
+| Léxico | Compartilhar |
+|-----------|------------------|
+| **Noção** | Ato de permitir que outras pessoas possam visualizar ou editar [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota), [cadernos](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno) e [etiquetas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta). |
+| **Classificação** | Verbo. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode compartilhar suas [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) de interesse com outros [usuários](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) |
+| **Sinônimos** | Compartilhamento; <br> Share; <br> Shared; <br> Compartilhado; <br> Compartilhou. |
+
+#### Chat
+
+| Léxico | Chat |
+|-----------|------------------|
+| **Noção** | Ambiente que o [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode trocar mensagem com outros [usuários](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario). |
+| **Classificação** | Objeto. |
+| **Impactos** | O [usuário](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#usuario) pode mandar [notas](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota) instantaneamente e conversar com amigos. |
+| **Sinônimos** | Bate-papo; <br> Conversa; <br> Diálogo; <br> Conversação. |
 
 
 ## Referências

@@ -19,7 +19,7 @@
 | [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario) | Login de Usuário |  
 
 #### Administrar bloqueio de senha
-![Administrar bloqueio de senha](https://i.imgur.com/EFzAWAX.png)
+![Diagrama Administrar Bloqueio de senha](https://i.imgur.com/3llHLE5.png)
 
 #### Evernote web clipper
 ![Evernote web clipper](https://i.imgur.com/eQ2Z9j1.png)
@@ -216,6 +216,15 @@ Regras de Negócio 02
 | [UCS11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desativar-o-bloqueio-de-senha)               | Desativar o bloqueio de senha               |
 | [UCS12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-a-senha-de-bloqueio)                 | Alterar a senha de bloqueio                 |
 | [UCS13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar nova senha ao app                  |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Desbloquear com impressão digital           |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Alterar tempo para que seja informada a senha novamente                |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar tempo limite ao app                |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Salvar nota a partir de página da web       |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Selecionar formato de captura               |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Adicionar etiquetas                         |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Adicionar observações                       |
+| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Selecionar em qual caderno salvar a nota    |
+
 
 #### Acessar Caderno
 
@@ -516,19 +525,473 @@ Não possuir uma das formas de pagamento aceitas.
 **Pós-condições:**
 O usuário terá uma conta premium.
 
-#### Administrar bloqueio de senha
+### Administrar bloqueio de senha
+**Descrição**
 
-#### Informar senha ao aplicativo
+Este caso de uso permite ao usuário acesso às configurações relacionadas ao bloqueio de senha.
 
-#### Verificar senha
+**Atores**
 
-#### Notificar que a senha é inválida ao usuário
+Usuário.
 
-#### Desativar o bloqueio de senha
+**Pré-condições**
 
-#### Alterar a senha de bloqueio
+O usuário deve estar logado na aplicação e ter conexão com a internet.
 
-#### Informar nova senha ao app
+**Pós-condições**
+
+O usuário deverá ter alguma alteração relacionada à senha modificada.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário pode Desativar o bloqueio de senha(UC11);
+5. O usuário pode Alterar a senha de bloqueio(UC12);
+6. O usuário pode Ativar o bloqueio com impressão digital(UC14);
+7. O usuário pode Alterar tempo para que seja informada a senha novamente(UC15);
+8. O usuário conclui as alterações relacionadas ao bloqueio de senha.
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Informar senha ao aplicativo
+**Descrição**
+
+Neste caso de uso o usuário informa sua senha ao aplicativo.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O aplicativo pede que informe a senha.
+
+**Pós-condições**
+
+O conteúdo do aplicativo deve ser desbloqueado.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha(UC08).
+
+**Fluxo alternativo**
+1. O usuário abre o aplicativo;
+2. O usuário precisa informar a senha(UC08).
+
+**Fluxos de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Verificar senha
+**Descrição**
+
+Neste caso de uso o aplicativo verifica se a senha é válida.
+
+**Atores**
+
+Evernote.
+
+**Pré-condições**
+
+O aplicativo pede que informe a senha.
+
+**Pós-condições**
+
+Validação da senha.
+
+**Fluxo principal**
+
+1. O usuário abre o aplicativo;
+2. O usuário precisa informar a senha(UC08);
+3. A senha é verificada(UC09).
+
+**Fluxo alternativo**
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O aplicativo verifica a senha informada(UC09).
+
+**Fluxos de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Notificar que a senha é inválida ao usuário
+**Descrição**
+
+Neste caso de uso o aplicativo notifica ao usuário que a senha informada é inválida.
+
+**Atores**
+
+Evernote.
+
+**Pré-condições**
+
+Validação da senha.
+
+**Pós-condições**
+
+Usuário notificado sobre invalidez da senha.
+
+**Fluxo principal**
+
+1. O usuário abre o aplicativo;
+2. O usuário precisa informar a senha(UC08);
+3. A senha é verificada(UC09);
+4. A senha é inválida e o usuário é notificado(UC10).
+
+**Fluxo alternativo**
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O aplicativo verifica a senha informada(UC09).
+5. A senha é inválida e o usuário é notificado(UC10).
+
+**Fluxos de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Desativar o bloqueio de senha
+**Descrição**
+
+Este caso de uso permite ao usuário desativar o bloqueio de senha.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário deverá possuir uma senha de bloqueio.
+
+**Pós-condições**
+
+O usuário deverá ter o bloqueio de senha desativado.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário clica em "Desativar o bloqueio de senha";
+5. Senha é desativada e usuário retorna à página anterior.
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Alterar a senha de bloqueio
+**Descrição**
+
+Este caso de uso permite ao usuário alterar a senha de bloqueio.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário deverá possuir uma senha de bloqueio.
+
+**Pós-condições**
+
+O usuário deverá ter a senha de bloqueio alterada.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário clica em "Alterar a senha de bloqueio";
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Informar nova senha ao app
+**Descrição**
+
+Neste caso de uso o usuário informa sua nova senha ao app.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário clica em alterar a senha.
+
+**Pós-condições**
+
+O usuário terá sua senha alterada.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário clica em "Alterar a senha de bloqueio";
+5. O usuário informa nova senha ao app(UC13);
+6. O usuário tem sua senha alterada.
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Desbloquear com impressão digital
+**Descrição**
+
+Este caso de uso permite ao usuário ativar desbloqueio com impressão digital.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário deve possuir bloqueio de senha ativo.
+
+**Pós-condições**
+
+O usuário poderá desbloquear o app com a impressão digital.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário clica em "Ativar o bloqueio com impressão digital"(UC14);
+5. O desbloqueio com impressão digital é ativo.
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Alterar tempo para que seja informada a senha novamente
+**Descrição**
+
+Este caso de uso permite ao usuário decidir o intervalo de tempo para que seja necessário informar a senha novamente.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário deverá possuir bloqueio com senha ativo.
+
+**Pós-condições**
+
+Tempo para informar senha novamente alterado.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário clica em "Alterar tempo para que seja informada a senha novamente"(UC15).
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Informar tempo limite ao app
+**Descrição**
+
+Neste caso de uso o usuário informa o tempo limite ao app.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário clicar em alterar tempo para que seja informada a senha novamente.
+
+**Pós-condições**
+
+Tempo para informar senha novamente alterado.
+
+**Fluxo principal**
+
+1. O usuário abre configurações;
+2. O usuário clica em "Administrar bloqueio de senha";
+3. O usuário insere sua senha;
+4. O usuário clica em "Alterar tempo para que seja informada a senha novamente"(UC15);
+5. O usuário informa tempo limite ao app(UC16);
+6. Tempo limite é modificado.
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Salvar nota a partir de página da web
+**Descrição**
+
+Este caso de uso permite ao usuário salvar uma nota a partir de uma página da web.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário precisa possuir extensão do google chrome instalada e estar logado em sua conta.
+
+**Pós-condições**
+
+Nota salva a partir de página da web.
+
+**Fluxo principal**
+
+1. O usuário clica no ícone da extensão;
+2. O usuário pode Adicionar observações à nota;
+3. O usuário pode Adicionar etiquetas à nota;
+4. O usuário seleciona o formato de captura(UC18);
+5. O usuário Seleciona em qual caderno salvar a nota(UC21);
+6. Nota é salva.
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Selecionar formato de captura
+**Descrição**
+
+Neste caso de uso o usuário seleciona formato de captura da nota.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário precisa clicar no ícone da extensão.
+
+**Pós-condições**
+
+Formato de captura selecionado.
+
+**Fluxo principal**
+
+1. O usuário clica no ícone da extensão;
+2. O usuário seleciona o formato de captura(UC18);
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Adicionar etiquetas
+**Descrição**
+
+Este caso de uso permite ao usuário adicionar etiquetas a uma nota salva pelo Evernote web clipper.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário precisa clicar no ícone da extensão.
+
+**Pós-condições**
+
+Etiqueta adicionada à nota.
+
+**Fluxo principal**
+
+1. O usuário clica no ícone da extensão;
+3. O usuário adiciona etiqueta(s) à nota(UC19);
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Adicionar observações
+**Descrição**
+
+Este caso de uso permite ao usuário adicionar observações a uma nota salva pelo Evernote web clipper.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário precisa clicar no ícone da extensão.
+
+**Pós-condições**
+
+Etiqueta adicionada à nota.
+
+**Fluxo principal**
+
+1. O usuário clica no ícone da extensão;
+3. O usuário adiciona observação(ões) à nota(UC20);
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
+
+
+### Selecionar em qual caderno salvar a nota
+**Descrição**
+
+Neste caso de uso o usuário seleciona em qual caderno deseja salvar a nota.
+
+**Atores**
+
+Usuário.
+
+**Pré-condições**
+
+O usuário precisa clicar no ícone da extensão.
+
+**Pós-condições**
+
+Caderno para salvar nota selecionado.
+
+**Fluxo principal**
+
+1. O usuário clica no ícone da extensão;
+2. O usuário seleciona em qual caderno salvar a nota(UC21).
+
+**Fluxo de exceção**
+
+**FE01 - Conexão com a Internet**  
+Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
 
 ## Referências
 

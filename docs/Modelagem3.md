@@ -257,6 +257,6 @@
 
 ## Conclusão
 
-Obtivemos 38 histórias de usuário, totalizando 124 pontos.
+Obtivemos 38 histórias de usuário, totalizando 121 pontos.
 
 Clique [aqui](https://docs.google.com/spreadsheets/d/1cEXzIZBpXOSc3k0KLjiRVBGG20TGeL6wHlkrhHpQw2I/edit#gid=1512588497) para ter acesso ao Product Backlog completo.

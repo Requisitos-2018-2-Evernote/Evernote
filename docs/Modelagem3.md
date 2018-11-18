@@ -237,8 +237,23 @@
 ## Resultado
 #### Sprint 1
 
-![Imgur](https://i.imgur.com/sEWsLZU.png)
-Total de pontos: 21 pontos
+![Imagem](images/s1.png)
+
+#### Sprint 2
+
+![Imagem](images/s2.png)
+
+#### Sprint 3
+
+![Imagem](images/s3.png)
+
+#### Sprint 4
+
+![Imagem](images/s4.png)
+
+#### Sprint 5
+
+![Imagem](images/s5.png)
 
 ## Conclusão
 

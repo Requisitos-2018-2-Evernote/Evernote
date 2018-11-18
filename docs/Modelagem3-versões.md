@@ -22,3 +22,9 @@
 ###Versão 1.0
 ![Imgur](https://i.imgur.com/PMmYFO2.png)
 
+## Resultado
+###Versão 1.0
+#### Sprint 1
+
+![Imgur](https://i.imgur.com/sEWsLZU.png)
+Total de pontos: 21 pontos

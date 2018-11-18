@@ -201,14 +201,21 @@ Regras de Negócio 02
 
 ## Especificação de Casos de Uso
 
-|ID|Nome|
-|--|--|
-|[UCS01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno)|Acessar Caderno|
-|[UCS02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno)|Criar Caderno|
-|[UCS03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota)|Acessar Nota|
-|[UCS04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)|Adicionar Etiqueta|
-|[UCS05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)|Adicionar Lembrete|
-|[UCS06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)|Mudar para plano Premium|
+| ID                                                                                                                     | Nome                                        |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| [UCS01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno)                             | Acessar Caderno                             |
+| [UCS02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno)                               | Criar Caderno                               |
+| [UCS03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota)                                | Acessar Nota                                |
+| [UCS04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)                          | Adicionar Etiqueta                          |
+| [UCS05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)                          | Adicionar Lembrete                          |
+| [UCS06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)                    | Mudar para plano Premium                    |
+| [UCS07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha)               | Administrar bloqueio de senha               |
+| [UCS08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-senha-ao-aplicativo)                | Informar senha ao aplicativo                |
+| [UCS09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#verificar-senha)                             | Verificar senha                             |
+| [UCS10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#notificar-que-a-senha-é-inválida-ao-usuário) | Notificar que a senha é inválida ao usuário |
+| [UCS11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desativar-o-bloqueio-de-senha)               | Desativar o bloqueio de senha               |
+| [UCS12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-a-senha-de-bloqueio)                 | Alterar a senha de bloqueio                 |
+| [UCS13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar nova senha ao app                  |
 
 #### Acessar Caderno
 
@@ -509,6 +516,19 @@ Não possuir uma das formas de pagamento aceitas.
 **Pós-condições:**
 O usuário terá uma conta premium.
 
+#### Administrar bloqueio de senha
+
+#### Informar senha ao aplicativo
+
+#### Verificar senha
+
+#### Notificar que a senha é inválida ao usuário
+
+#### Desativar o bloqueio de senha
+
+#### Alterar a senha de bloqueio
+
+#### Informar nova senha ao app
 
 ## Referências
 

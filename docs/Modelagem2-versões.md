@@ -4,4 +4,4 @@
 ![Administrar bloqueio de senha](https://i.imgur.com/EFzAWAX.png)
 
 #### Administrar bloqueio de senha v1.0 Mateus Oliveira
-![Diagrama Administrar Bloqueio de senha](https://i.imgur.com/3llHLE5.png)
+![Diagrama Administrar Bloqueio de senha](https://i.imgur.com/KjWuAX5.png)

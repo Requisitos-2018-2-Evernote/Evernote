@@ -4,22 +4,22 @@
 |-------|
 |[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2-versões) |
 
-### Sumário Casos de Uso
+### Sumário Diagramas de Casos de Uso
 |ID|Nome  |
 |--|--|
-| [UC01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha) | Administrar bloqueio de senha |
-| [UC02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#evernote-web-clipper) | Evernote web clipper |
-| [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete) | Criar Lembrete |
-| [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-nota) | Criar Nota
-| [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#pesquisar-nota) | Pesquisar Nota |
-| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo |
-| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#restaurar-nota) | Restaurar Nota |
-| [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro) | Cadastro |
-| [UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#lixeira) | Lixeira |
-| [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario) | Login de Usuário |  
+| [UCD01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha) | Administrar bloqueio de senha |
+| [UCD02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#evernote-web-clipper) | Evernote web clipper |
+| [UCD03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete) | Criar Lembrete |
+| [UCD04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-nota) | Criar Nota
+| [UCD05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#pesquisar-nota) | Pesquisar Nota |
+| [UCD06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo |
+| [UCD07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#restaurar-nota) | Restaurar Nota |
+| [UCD08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro) | Cadastro |
+| [UCD10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#lixeira) | Lixeira |
+| [UCD09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario) | Login de Usuário |  
 
 #### Administrar bloqueio de senha
-![Diagrama Administrar Bloqueio de senha](https://i.imgur.com/3llHLE5.png)
+![Diagrama Administrar Bloqueio de senha](https://i.imgur.com/KjWuAX5.png)
 
 #### Evernote web clipper
 ![Evernote web clipper](https://i.imgur.com/eQ2Z9j1.png)
@@ -203,27 +203,27 @@ Regras de Negócio 02
 
 | ID                                                                                                                     | Nome                                        |
 |------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| [UCS01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno)                             | Acessar Caderno                             |
-| [UCS02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno)                               | Criar Caderno                               |
-| [UCS03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota)                                | Acessar Nota                                |
-| [UCS04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)                          | Adicionar Etiqueta                          |
-| [UCS05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)                          | Adicionar Lembrete                          |
-| [UCS06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)                    | Mudar para plano Premium                    |
-| [UCS07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha)               | Administrar bloqueio de senha               |
-| [UCS08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-senha-ao-aplicativo)                | Informar senha ao aplicativo                |
-| [UCS09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#verificar-senha)                             | Verificar senha                             |
-| [UCS10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#notificar-que-a-senha-é-inválida-ao-usuário) | Notificar que a senha é inválida ao usuário |
-| [UCS11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desativar-o-bloqueio-de-senha)               | Desativar o bloqueio de senha               |
-| [UCS12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-a-senha-de-bloqueio)                 | Alterar a senha de bloqueio                 |
-| [UCS13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar nova senha ao app                  |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Desbloquear com impressão digital           |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Alterar tempo para que seja informada a senha novamente                |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar tempo limite ao app                |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Salvar nota a partir de página da web       |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Selecionar formato de captura               |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Adicionar etiquetas                         |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Adicionar observações                       |
-| [UCS14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Selecionar em qual caderno salvar a nota    |
+| [UC01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno)                             | Acessar Caderno                             |
+| [UC02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno)                               | Criar Caderno                               |
+| [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota)                                | Acessar Nota                                |
+| [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)                          | Adicionar Etiqueta                          |
+| [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)                          | Adicionar Lembrete                          |
+| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)                    | Mudar para plano Premium                    |
+| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha)               | Administrar bloqueio de senha               |
+| [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-senha-ao-aplicativo)                | Informar senha ao aplicativo                |
+| [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#verificar-senha)                             | Verificar senha                             |
+| [UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#notificar-que-a-senha-é-inválida-ao-usuário) | Notificar que a senha é inválida ao usuário |
+| [UC11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desativar-o-bloqueio-de-senha)               | Desativar o bloqueio de senha               |
+| [UC12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-a-senha-de-bloqueio)                 | Alterar a senha de bloqueio                 |
+| [UC13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar nova senha ao app                  |
+| [UC14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desbloquear-com-impressao-digital)           | Desbloquear com impressão digital           |
+| [UC15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-tempo-para-que-seja-informada-a-senha-novamente)| Alterar tempo para que seja informada a senha novamente|
+| [UC16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-tempo-limite-ao-app)                  | Informar tempo limite ao app                |
+| [UC17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#salvar-nota-a-partir-de-pagina-da-web)                  | Salvar nota a partir de página da web       |
+| [UC18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-formato-de-captura)                  | Selecionar formato de captura               |
+| [UC19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiquetas)                  | Adicionar etiquetas                         |
+| [UC20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-observacoes)                  | Adicionar observações                       |
+| [UC21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-em-qual-caderno-salvar-a-nota)                  | Selecionar em qual caderno salvar a nota    |
 
 
 #### Acessar Caderno

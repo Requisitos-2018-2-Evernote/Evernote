@@ -51,33 +51,33 @@ funcionalidades do evernote.
 |R10.| O usuário deve visualizar a data de uma nota.|
 |R12.| O usuário deve ser capaz de editar o titulo de uma nota. |
 |R13.| O usuário tem acesso a informações detalhas de uma nota. |
-|R14.| O usuário deve ser capaz de copiar uma nota inteira. | 
-|R15.| O usuário deve ser capaz de copiar um “link interno” de uma nota.| 
-|R16.| O usuário pode visualizar a hora de criação de uma nota. | 
+|R14.| O usuário deve ser capaz de copiar uma nota inteira. |
+|R15.| O usuário deve ser capaz de copiar um “link interno” de uma nota.|
+|R16.| O usuário pode visualizar a hora de criação de uma nota. |
 |R17.| O usuário pode personalizar a barra de ferramentas de uma nota.|
 |R18.| O usuário deve ser capaz de alterar a fonte do texto de uma nota.|
 |R19.| O usuário deve ser capaz de alterar o tamanho do texto de uma nota.|
-|R20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.| 
-|R21.| O usuário deve ser capaz de alterar o texto de uma nota para negrito.| 
-|R22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.| 
+|R20.| O usuário deve ser capaz de alterar a cor do texto de uma nota.|
+|R21.| O usuário deve ser capaz de alterar o texto de uma nota para negrito.|
+|R22.| O usuário deve ser capaz de alterar o texto de uma nota para itálico.|
 |R23.| O usuário deve ser capaz de alterar o texto de uma nota para sublinhado.|
-|R24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.| 
-|R25.| O usuário deve ser capaz de marca o texto de uma nota. | 
-|R26.| O usuário deve ser capaz de inserir código-fonte em uma nota.| 
+|R24.| O usuário deve ser capaz de alterar o texto de uma nota para traçado.|
+|R25.| O usuário deve ser capaz de marca o texto de uma nota. |
+|R26.| O usuário deve ser capaz de inserir código-fonte em uma nota.|
 |R27.| O usuário deve ser capaz de inserir uma lista com marcadores no texto de uma nota.|
-|R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.| 
-|R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.| 
-|R30.| O usuário deve ser capaz de alinha o texto de uma nota. | 
+|R28.| O usuário deve ser capaz de inserir uma lista numerada no texto de uma nota.|
+|R29.| O usuário deve ser capaz de inserir uma caixa de seleção em uma nota.|
+|R30.| O usuário deve ser capaz de alinha o texto de uma nota. |
 |R31.| O usuário deve ser capaz de inserir uma tabela em uma nota.|
 |R32.| O usuário deve ser capaz de inserir uma linha em uma nota.|
-|R33.| O usuário deve ser capaz de anexar arquivos em uma nota. | 
+|R33.| O usuário deve ser capaz de anexar arquivos em uma nota. |
 |R34.| O usuário deve ser capaz de anexar arquivos do google drive em uma nota.|
-|R35.| O usuário deve ser capaz de gravar áudio em uma nota. | 
+|R35.| O usuário deve ser capaz de gravar áudio em uma nota. |
 |R36.| O usuário deve ser capaz de tirar uma foto para uma nota. |
 |R37.| O usuário deve ser capaz de inserir uma foto em uma nota. |
 |R38.| O usuário deve ser capaz de esconder a barra de ferramentas.|
-|R39.| O usuário deve ser capaz de duplicar uma nota. | 
-|R40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.| 
+|R39.| O usuário deve ser capaz de duplicar uma nota. |
+|R40.| O usuário deve ser capaz de alterar a data e hora da criação de uma nota.|
 |R41.| O usuário deve ser capaz de etiquetar uma nota. |
 |R42.| O usuário deve ser capaz de localizar fotos. |
 |R43.| O usuário deve ser capaz de criar nota contendo letra de caligafria. |
@@ -119,7 +119,7 @@ Autor: João Victor e Matheus Filipe
 
 ### Story Board
 
-#### SB01 Uso diário 
+#### SB01 Uso diário
 ![Imgur](https://i.imgur.com/99xUIVI.jpg)
 Autor: João Victor
 
@@ -202,6 +202,9 @@ Autor: Marcelo Magalhães
 ![Imgur](https://i.imgur.com/IP5VG7I.png?1)
 Autor: João Victor
 
+#### FTF03
+![Imgur](https://i.imgur.com/eeIKoHe.png)
+Autor: Larissa Sales
 
 ### MoSCoW
 

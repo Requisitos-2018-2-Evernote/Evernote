@@ -37,11 +37,11 @@ Autor: João Victor
 
 #### Segurança do conteúdo
 ![Segurança do conteúdo](https://i.imgur.com/DZiVsXy.png)
-Autor: Mateus Oliveira 
+Autor: Mateus Oliveira
 
 #### Satisfação do usuário free
 ![Satisfação do usuário free](https://i.imgur.com/HvIosgP.png)
-Autor: Mateus Oliveira 
+Autor: Mateus Oliveira
 
 #### Segurança no armazenamento de dados
 ![Imgur](https://i.imgur.com/8zV2lLE.png)
@@ -56,8 +56,7 @@ Autor: Marcelo Magalhães
 
 #### Organização dos cadernos do usuário
 ![Imgur](https://i.imgur.com/FTyDMtR.jpg)
-
-Autor: Larissa Sales 
+Autor: Larissa Sales
 
 
 #### Amigabilidade da interface
@@ -86,14 +85,17 @@ Autor: João Victor
 ### Login
 
 ![Imgur](https://i.imgur.com/Nl7ftNu.png)
+Autor: Larissa Sales
 
 ### Exportar Nota
 
 ![Imgur](https://i.imgur.com/IVM3fnd.png)
+Autor: Larissa Sales
 
 ### Restaurar Nota
 
 ![Imgur](https://i.imgur.com/7R6KzeU.png)
+Autor: Larissa Sales
 
 ### Armazenar em nuvem
 ![](https://i.imgur.com/rYRpboG.png)

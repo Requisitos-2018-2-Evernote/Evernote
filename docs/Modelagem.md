@@ -213,6 +213,14 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 | [L14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nuvem) | Núvem |
 | [L15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google) | Google |
 | [L16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#offline) | Offline |
+| [L17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#assinatura) | Assinatura |
+| [L18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pacote-basic) | Pacote Basic |
+| [L19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#pacote-premium) | Pacote Premium |
+| [L20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#notificacoes) | Notificações |
+| [L21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nome-de-usuario) | Nome de usuário |
+| [L22](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#facebook) | Facebook |
+| [L23](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#compartilhar) | Compartilhar |
+| [L24](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#chat) | Chat |
 
 #### Aplicação
 

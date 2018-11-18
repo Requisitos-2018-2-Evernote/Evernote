@@ -209,7 +209,7 @@ Regras de Negócio 02
 | [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)                          | Adicionar Etiqueta                          |
 | [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)                          | Adicionar Lembrete                          |
 | [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)                    | Mudar para plano Premium                    |
-| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha)               | Administrar bloqueio de senha               |
+| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha_1)               | Administrar bloqueio de senha               |
 | [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-senha-ao-aplicativo)                | Informar senha ao aplicativo                |
 | [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#verificar-senha)                             | Verificar senha                             |
 | [UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#notificar-que-a-senha-é-inválida-ao-usuário) | Notificar que a senha é inválida ao usuário |
@@ -221,9 +221,8 @@ Regras de Negócio 02
 | [UC16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-tempo-limite-ao-app)                  | Informar tempo limite ao app                |
 | [UC17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#salvar-nota-a-partir-de-pagina-da-web)                  | Salvar nota a partir de página da web       |
 | [UC18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-formato-de-captura)                  | Selecionar formato de captura               |
-| [UC19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiquetas)                  | Adicionar etiquetas                         |
-| [UC20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-observacoes)                  | Adicionar observações                       |
-| [UC21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-em-qual-caderno-salvar-a-nota)                  | Selecionar em qual caderno salvar a nota    |
+| [UC19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-observacoes)                  | Adicionar observações                       |
+| [UC20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-em-qual-caderno-salvar-a-nota)                  | Selecionar em qual caderno salvar a nota    |
 
 
 #### Acessar Caderno
@@ -910,34 +909,6 @@ Formato de captura selecionado.
 Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
 
 
-### Adicionar etiquetas
-**Descrição**
-
-Este caso de uso permite ao usuário adicionar etiquetas a uma nota salva pelo Evernote web clipper.
-
-**Atores**
-
-Usuário.
-
-**Pré-condições**
-
-O usuário precisa clicar no ícone da extensão.
-
-**Pós-condições**
-
-Etiqueta adicionada à nota.
-
-**Fluxo principal**
-
-1. O usuário clica no ícone da extensão;
-3. O usuário adiciona etiqueta(s) à nota(UC19);
-
-**Fluxo de exceção**
-
-**FE01 - Conexão com a Internet**  
-Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem de erro.
-
-
 ### Adicionar observações
 **Descrição**
 
@@ -958,7 +929,7 @@ Etiqueta adicionada à nota.
 **Fluxo principal**
 
 1. O usuário clica no ícone da extensão;
-3. O usuário adiciona observação(ões) à nota(UC20);
+3. O usuário adiciona observação(ões) à nota(UC19);
 
 **Fluxo de exceção**
 
@@ -986,7 +957,7 @@ Caderno para salvar nota selecionado.
 **Fluxo principal**
 
 1. O usuário clica no ícone da extensão;
-2. O usuário seleciona em qual caderno salvar a nota(UC21).
+2. O usuário seleciona em qual caderno salvar a nota(UC20).
 
 **Fluxo de exceção**
 

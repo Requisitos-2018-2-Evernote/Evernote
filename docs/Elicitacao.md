@@ -361,6 +361,25 @@ Dentro de minha conta clico no botão superior esquerdo para abrir o menu latera
 Como faço para listar minhas notas?
 Dentro de minha conta clico no botão superior esquerdo para abrir o menu lateral e seleciono a aba "Notas".
 
+#### Requisitos elicitados
+
+|ID|Requisito|
+|--|---------|
+|RF45|Usar buscador de texto.|
+|RF47|Criar lembrete.|
+|RF48|Nomear lembrete.|
+|RF04|Compartilhar nota.|
+|RF54|Realizar login.|
+|RF55|Recuperar senha.|
+|RF56|Realizar upgrade de conta.|
+|RF40|Definir data de lembrete.|
+|RF16|Definir hora de lembrete.|
+|RF68|Listar cadernos.|
+|RF01|Listar notas.|
+|RF03|Editar nota.|
+|RF74|Criar nota simples.|
+|RF75|Criar etiqueta.|
+
 Autor: Matheus Filipe
 
 ## Referências

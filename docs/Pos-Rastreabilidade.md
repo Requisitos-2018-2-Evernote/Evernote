@@ -161,7 +161,7 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 
 
 
-## Backward-To
+## Backward-From Funcional 
 
 
 | ID     | Requisito                                    | Product Backlog | Esp. Casos de Uso/UML | Cenário | Léxico             | MoSCoW  | First Things First | Análise de Protocolo/Observação Participativa | Storyboard/Brainstorm | Questionário | RichPicture | Gráfico i* | 
@@ -220,6 +220,56 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 | [RF74](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#introspeccao)   | Criar nota simples                           | [US13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)            | [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)              | [CE03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)    | [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)               | -       | -                  | [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                                         | -                   | [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)         | [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral-2)        | -          | 
 | [RF75](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#introspeccao)   | Criar etiqueta                               |  -           | -              | [CE19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)    | [Etiqueta](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta)           | -       | -                  | [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                                         | -                       | [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)         | [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)        | [i*01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#geral_1)      |
 
+
+## Backward-From Não Funcional 
+
+
+
+| ID    | Requisito                                |  | NFR             | Product Backlog | Esp. Casos de Uso | Cenário | Léxico | MoSCoW | First Things First | Análise de Protocolo/Observação Participativa | Storytelling/Brainstorm | Questionário | RichPicture | Gráfico i* | 
+|-------|------------------------------------------|--|-----------------|-----------------|-------------------|---------|--------|--------|--------------------|-----------------------------------------------|-------------------------|--------------|-------------|------------| 	
+|  [RNF1](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar balanceadores de rede               |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF2](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Usar FIREWALLS                           |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF3](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Usar VPNs                                |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF4](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Usar origem de endereço de IP            |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF5](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Criptografar usando DKIM                 |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF6](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Usar politica DMARC                      |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF7](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Usar Email e senha                       |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF8](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Limitar tentativas de login              |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF9](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR)  | Permitir medição de força                |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF10](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar Salt exclusivo                      |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF11](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar retenção de notas                   |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF12](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Armazenar senha por PBKDF2               |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF13](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar token de autenticação               |  | [NFR Segurança](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#segurança)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF14](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar modo offline                    |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF15](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar imei e SIM                      |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF16](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar Cache                           |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF17](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar modo online                     |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF18](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar armazenamento em nuvem          |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF19](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar pesquisa avançada               |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF20](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Disponibilizar tecnicas de pesquisas     |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF21](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar metadados de notas              |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF22](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Utilizar dois data centers               |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF23](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Armazenar conteudo das notas             |  | [NFR Desempenho](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#desempenho)  |                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF24](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Disponibilizar sistema de ajuda          |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF25](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Elaborar documentação de usuário         |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF26](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar tutorial                            |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF27](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar icones Intuitivos                   |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF28](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar Pesquisa rapida                     |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF29](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar categorias de notas                 |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF30](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar interface limpa                     |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF31](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar linguagem simples                   |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF32](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar categoria de nomes                  |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF33](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar rotulos                             |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF34](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar linkls                              |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF35](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar apresentação simples de conteudo    |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF36](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | usar formato de informação simples       |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF37](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar layout agradavel                    |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF38](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar graficos                            |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF39](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar localização de informação aparente  |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF40](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Apresentar qualidade nos resultados      |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+|  [RNF41](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#NFR) | Usar Icones grandes                      |  | [NFR Usabilidade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#Usabilidade)|                 |                   |         |        |        |                    |                                               |                         |              |             |            | 
+
+
 ##Forward-From
 
 |US|Aplicativo| Descrição|
@@ -262,6 +312,318 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 |[US36](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us36-compartilhar-caderno)|[IMG54](https://requisitos-2018-2-evernote.github.io/Evernote/Pos-Rastreabilidade/#img52)|Compartilhar caderno|
 |[US37](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us37-pesquisar-notas-dentro-do-caderno)|[IMG55](https://requisitos-2018-2-evernote.github.io/Evernote/Pos-Rastreabilidade/#img54) <br> [IMG56](https://requisitos-2018-2-evernote.github.io/Evernote/Pos-Rastreabilidade/#img55)|Pesquisar notas dentro do caderno|
 |[US38](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us38-deletar-permanentemente)|[IMG57](https://requisitos-2018-2-evernote.github.io/Evernote/Pos-Rastreabilidade/#img53)|Deletar permanentemente|
+
+
+
+
+
+## Elos Funcionais 
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF1|Desenvolvimento|   [UCS04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#especificacao-de-casos-de-uso)   <p> [CE17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)   <p>  [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)  <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo) <p> [SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#funcionalidades-e-recursos)             <p> [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)    <p>[i*01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#geral_1)   |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF2|Desenvolvimento|            [CE16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p>  [FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01)       <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                         <p>  [RP09](http://127.0.0.1:8000/Pre-Rastreabilidade/#funcionalidades-e-recursos)    <p> |  |
+
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF3|Desenvolvimento|  [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)  <p>[FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)         <p>[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)               <p>[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)        <p> [i*03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#login)     |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF4|Desenvolvimento| [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)         <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)<p> [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)    <p> [BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)     <p> [RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)     |  |
+
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF5|Desenvolvimento|  [US22](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)        <p> [Anexo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#anexo)       <p> [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)<p>[FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)            <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)  <p>[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)                <p>[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)    <p> [i*05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#restaurar-nota)   |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF6|Desenvolvimento|   [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)          <p> [FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01)          <p>  [RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho)      |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF7|Desenvolvimento|  [Digitalização](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#digitalizacao)     <p> [FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01)     <p>  [RP04](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#pequenas-empresas)     |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF8|Desenvolvimento|  [US23](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)              <p>[UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#casos-de-uso)               <p>[CE20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)     <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)   <p>[FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01)            <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                              <p>[i*01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#geral_1)   |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF9|Desenvolvimento|   [US08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)         <p> [SB05](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#sb05-lista-de-compras)                  <p> [RP02](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#criar-nota)     |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF10|Desenvolvimento|  [US09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)          <p> [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)           <p> [CE04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)    | [Lembrete](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#lembrete)       <p> [MSCW01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw01)       <p>[AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                                 <p> [SB04](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#sb04-nota-de-audio)                 <p> [RP03](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-de-usuario)   <p>[i*06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#armazenar-em-nuvem)    |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF11|Desenvolvimento|  [US10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)       <p> [UML03]()            <p> [Lembrete](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#lembrete)         <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)       <p> [RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)      |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF12|Desenvolvimento|   [UCS04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#especificacao-de-casos-de-uso)   <p> [CE17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)   <p>  [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)  <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo) <p> [SB01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#funcionalidades-e-recursos)             <p> [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)    <p>[i*01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#geral_1)   |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF13|Desenvolvimento| [Núvem](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nuvem)      <p>[Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)     <p>[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)     <p>[i*03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#login)      |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF14|Desenvolvimento|[US24](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)           <p>[CE22](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)   <p>[Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)         <p> [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) <p>[FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)        <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                             <p>[Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)       <p>[RP06](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#fluxo-de-trabalho)    <p>[i*05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#restaurar-nota)   |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF15|Desenvolvimento| [US05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)      <p> [Google](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#google)    <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)  <p> [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)     <p> [i*03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#login)  |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF16|Desenvolvimento|    [CE18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)    <p> [Caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno)    |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF17|Desenvolvimento|  [US13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)     <p> [UC02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)      <p>[CE07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p> [Captura](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#captura)    <p>[FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01)        |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF18|Desenvolvimento| [CE21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)   |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF19|Desenvolvimento|   [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)  |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF20|Desenvolvimento|  [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)         <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)        <p> [i*03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#login)     |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF21|Desenvolvimento|[CE23](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                                    |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF22|Desenvolvimento| [US10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)   <p> [UCS06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#especificacao-de-casos-de-uso)      <p> [CE24](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p> [Upgrade](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#upgrade)   <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)      |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF23|Desenvolvimento| [CE25](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF24|Desenvolvimento|  [US25](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)      <p>  [CE26](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p> [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)           <p> [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)<p>  [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02 )|  |
+
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF25|Desenvolvimento|  [US19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)    <p>  [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)      <p>  [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)  <p> [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02) |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF26|Desenvolvimento|   [BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)                   | -            | -           | -           |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF27|Desenvolvimento| <p>  [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)    <p>  [i*07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#armazenar-em-disco-local)      |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF28|Desenvolvimento|  [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)        <p>  [CE09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)    | [Anexo](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#anexo)     <p>  [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)      <p>  [i*05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#restaurar-nota)      |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF29|Desenvolvimento|   [US01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#us01-fazer-cadastro-no-aplicativo)     <p>  [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)  |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF30|Desenvolvimento|  [US16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)            <p> [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)            <p> [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)   <p>[FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)  |  |
+
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF31|Desenvolvimento|  [US18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)           <p> [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)        <p> [CE11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p> [i*06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#armazenar-em-nuvem)     |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF32|Desenvolvimento| [i*11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#particularidades-da-versao-premium)       |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF33|Desenvolvimento|  [i*11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#particularidades-da-versao-premium)     |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF34|Desenvolvimento|  [US27](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)     <p>  [UCS2](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#especificacao-de-casos-de-uso)     <p>  [CE10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)   <p> [Caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno)   [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)      <p> [i*03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#login)     |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF35|Desenvolvimento|  [US28](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)       <p>[Caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno)           |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF36|Desenvolvimento|     [Caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno), [Offline](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#offline)  <p> [MSCW01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw01)      <p> [RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)        <p>[i*05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#restaurar-nota)       |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF37|Desenvolvimento|     [UML03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete-v11)   <p> [Lembrete](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#lembrete)   <p> [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) | [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)    <p>[AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)<p> [RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)    |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF38|Desenvolvimento|    [UML03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-lembrete-v11)  <p> [Lembrete](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#lembrete)  <p> [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)<p> [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)  <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)<p> [RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)     |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF39|Desenvolvimento|   [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)   <p>[RP01](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)          |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF40|Desenvolvimento|     [US30](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)    <p> [Caderno](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#caderno)    <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)  <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                 |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF41|Desenvolvimento|   [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)     <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)<p> [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)  <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)   <p>[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)         |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF42|Desenvolvimento|   [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)   |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF43|Desenvolvimento|    [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)    <p>  [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)   |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF44|Desenvolvimento|    [US21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)       <p>  [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)    |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF45|Desenvolvimento|  [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)    |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF46|Desenvolvimento|   [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)    <p>  [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) <p> [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)         |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF47|Desenvolvimento|     [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)    <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) <p> [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)   <p> [i*04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#exportar-nota)      |  |
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF48|Desenvolvimento|    [US14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)     <p>[Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)     <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) <p>[FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)        <p>[AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)         <p>[BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01)                   |  |
+
+
+    
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF49|Desenvolvimento|     [CE15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/) <p>[MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02)  <p>[FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02)   |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF50|Desenvolvimento|  [Etiqueta](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta) <p> [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)          |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF51|Desenvolvimento|  [US06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)  <p> [CE01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)  <p>  [Etiqueta](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta)          |  |
+
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF52|Desenvolvimento|  [CE13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)       |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF53|Desenvolvimento|    [US13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem3/#product-backlog)  <p>  [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/)    <p>  [CE03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)    | [Nota](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#nota)            <p>  [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo)                                         <p>  [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)   <p> [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral-2)   |  |
+
+
+|ID|Categoria|Elementos Rastreáveis|Elo|
+|---------|--------|---------|-------|
+|EF54|Desenvolvimento|    [CE19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/)   <p> [Etiqueta](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#etiqueta)     <p> [AP01](http://127.0.0.1:8000/Elicitacao/#analise-de-protocolo) <p> [Q01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#entrevista)      <p>  [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral)    <p>  [i*01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem4/#geral_1)      |  |
+
+
 
 
 

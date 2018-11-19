@@ -133,3 +133,7 @@ O grupo decidiu por realizar uma verificação completa pelas funcionalidade e d
 
 [UCS13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)
 ![Imagem](images/av-info-nova-senha.png)
+
+## Referências
+
+ * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 24; Disponível em < https://aprender.ead.unb.br/pluginfile.php/348673/mod_resource/content/6/Requisitos - Aula 024.pdf >.

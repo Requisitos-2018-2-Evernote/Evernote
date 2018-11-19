@@ -104,3 +104,7 @@ Autor: Vinícius da Costa
 ![img-plataforma](https://imgur.com/VaZO1Mc.png)  
 Versão 1.0  
 Autor: Marcelo Magalhães
+
+## Referências
+
+ * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 04; Disponível em < https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos - Aula 04.pdf >.

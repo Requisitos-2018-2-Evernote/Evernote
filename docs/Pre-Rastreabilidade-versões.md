@@ -39,3 +39,14 @@ Autor: João Victor
 ### Versão 1.0  
 ![img-trabalho](https://i.imgur.com/IT3rbkp.png)  
 Autor: João Victor
+
+# Argumentação
+
+## Monetização
+### Versão 1.0  
+![img-trabalho](https://i.imgur.com/JdCQZtB.png)  
+![img-trabalho](https://i.imgur.com/laRoY8o.png)  
+
+## Referências
+
+ * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 04; Disponível em < https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos - Aula 04.pdf >.

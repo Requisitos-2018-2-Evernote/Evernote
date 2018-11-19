@@ -44,10 +44,6 @@ Autor: João Victor
 ![img-trabalho](https://i.imgur.com/IT3rbkp.png)  
 Autor: João Victor
 
-#### Funcionalidades e recursos 1.0
-![Imgur](https://i.imgur.com/RIHuQF0.jpg)
-Autor: Matheus Filipe
-
 # Argumentação
 
 ## Monetização

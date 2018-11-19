@@ -72,6 +72,7 @@ Autor: João Victor
 ### Geral
 
 ![enter image description here](https://i.imgur.com/81ivaaf.jpg)
+Autor: Matheus Filipe
 
 ![](https://i.imgur.com/SBOuWzK.png)
 Autor: João Victor
@@ -124,6 +125,7 @@ Autor: João Victor
 
 ### Particularidades da versão premium
 ![enter image description here](https://i.imgur.com/sCGtOJg.jpg)
+Autor: Matheus Filipe
 
 
 ## Referências

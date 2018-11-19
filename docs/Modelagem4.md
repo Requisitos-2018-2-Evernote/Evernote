@@ -44,7 +44,7 @@ Autor: Mateus Oliveira
 Autor: Mateus Oliveira
 
 #### Segurança no armazenamento de dados
-![Imgur](https://i.imgur.com/8zV2lLE.png)
+![Imgur](https://i.imgur.com/fVhsG4j.jpg)
 Autor: Matheus Filipe
 
 ### Usabilidade

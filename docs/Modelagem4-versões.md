@@ -17,6 +17,11 @@ Autor: João Victor
 ![Imgur](https://i.imgur.com/UgbzWQy.jpg)
 Autor: João Victor
 
+### Segurança de dados
+#### Versão 1.0
+![Imgur](https://i.imgur.com/fIBnKZf.jpg)
+Autor: Matheus Filipe
+
 ### Usabilidade
 #### Versão 1.0
 ![Imgur](https://i.imgur.com/qxDhPr7.jpg)

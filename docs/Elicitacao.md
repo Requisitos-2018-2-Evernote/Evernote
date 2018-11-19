@@ -27,6 +27,49 @@
 
 ### Questionário
 
+![Imgur](https://i.imgur.com/ywgAK4z.png)
+
+![Imgur](https://i.imgur.com/c6ACI49.png)
+
+![Imgur](https://i.imgur.com/ZtiSCPN.png)
+
+![Imgur](https://i.imgur.com/UzVhfeq.png)
+
+![Imgur](https://i.imgur.com/wpl8Qsq.png)
+
+![Imgur](https://i.imgur.com/kLql9ZG.png)
+
+![Imgur](https://i.imgur.com/WMQ7h5R.png)
+
+![Imgur](https://i.imgur.com/s8jg8ol.png)
+
+![Imgur](https://i.imgur.com/CZTH2K0.png)
+
+![Imgur](https://i.imgur.com/yuvLAxd.png)
+
+![Imgur](https://i.imgur.com/h8spdxq.png)
+
+![Imgur](https://i.imgur.com/Zqn56BV.png)
+
+![Imgur](https://i.imgur.com/VrtohOz.png)
+
+![Imgur](https://i.imgur.com/rfWqf25.png)
+
+![Imgur](https://i.imgur.com/dE4HyUX.png)
+
+![Imgur](https://i.imgur.com/1JvK7Zn.png)
+
+![Imgur](https://i.imgur.com/6JU1pME.png)
+
+![Imgur](https://i.imgur.com/6L0yRA3.png)
+
+![Imgur](https://i.imgur.com/7mPK4ZJ.png)
+
+![Imgur](https://i.imgur.com/6si6SpV.png)
+
+![Imgur](https://i.imgur.com/jcjrbli.png)
+
+
 ### Introspecção
 
 #### IT01
@@ -319,3 +362,11 @@ Como faço para listar minhas notas?
 Dentro de minha conta clico no botão superior esquerdo para abrir o menu lateral e seleciono a aba "Notas".
 
 Autor: Matheus Filipe
+
+## Referências
+
+
+* SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 07; Disponível em < https://aprender.ead.unb.br/pluginfile.php/348648/mod_resource/content/3/Requisitos - Aula 07.pdf >
+
+* https://help.evernote.com/hc/pt-br/articles/209005237-Como-a-sincronização-funciona-no-Evernote- 
+* https://help.evernote.com/hc/pt-br/articles/208313288-Como-usar-o-Work-Chat-para-compartilhar-e-colaborar

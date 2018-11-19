@@ -15,50 +15,95 @@
 | [UCD06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#exportar-arquivo) | Exportar Arquivo |
 | [UCD07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#restaurar-nota) | Restaurar Nota |
 | [UCD08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro) | Cadastro |
-| [UCD10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#lixeira) | Lixeira |
 | [UCD09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario) | Login de Usuário |  
+| [UCD10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#lixeira) | Lixeira |
 
-#### Administrar bloqueio de senha
+
+### Administrar bloqueio de senha
 ![Diagrama Administrar Bloqueio de senha](https://i.imgur.com/KjWuAX5.png)
 
-#### Evernote web clipper
+### Evernote web clipper
 ![Evernote web clipper](https://i.imgur.com/eQ2Z9j1.png)
 
-#### Criar Lembrete
+### Criar Lembrete
 ![Imgur](https://i.imgur.com/97fBYxu.jpg?1)
 
-#### Criar Nota
+### Criar Nota
 ![Imgur](https://i.imgur.com/cnwFYOI.jpg?1)
 
-#### Pesquisar Nota
+### Pesquisar Nota
 ![Imgur](https://i.imgur.com/YDJDe41.png)
 
-#### Exportar Arquivo
+### Exportar Arquivo
 ![Imgur](https://i.imgur.com/oiwhfQD.png)
 
-#### Restaurar Nota
+### Restaurar Nota
 ![Imgur](https://i.imgur.com/2DFXIPN.jpg)
 
-#### Lixeira
+### Lixeira
 ![Imgur](https://i.imgur.com/B0FfeZn.png)
 
-#### Cadastro
+### Cadastro
 ![Imgur](https://i.imgur.com/Tebtpo1.png)
 
-#### Criar Lembrete v1.1
+### Criar Lembrete v1.1
 ![Imgur](https://i.imgur.com/EeXjO7c.png)
 
-#### Criar Conta
+### Criar Conta
 ![Imgur](https://i.imgur.com/Ap9e3P5.png)
 
-#### Etiquetar
+### Etiquetar
 ![Imgur](https://i.imgur.com/zo7Ke69.png)
 
-#### Compartilhar Mana
+### Compartilhar Mana
 ![Imgur](https://i.imgur.com/cop6SS9.png)
 
-#### Criar Nota v1.1
+### Criar Nota v1.1
 ![Imgur](https://i.imgur.com/MXJ6fPb.png)
+
+
+
+### Cadastro
+![Imgur](https://i.imgur.com/d9KhGBL.jpg)
+
+
+
+### Login de Usuário
+![Imgur](https://i.imgur.com/ASguqSU.jpg)
+
+## Especificação de Casos de Uso
+
+| ID                                                                                                                     | Nome                                        |
+|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| [UC01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#cadastro-de-usuario)                  | cadastro de usuario    |
+| [UC02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#login-de-usuario)                  | Login de usuario   |
+| [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno)                             | Acessar Caderno                             |
+| [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno)                               | Criar Caderno                               |
+| [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota)                                | Acessar Nota                                |
+| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)                          | Adicionar Etiqueta                          |
+| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)                          | Adicionar Lembrete                          |
+| [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)                    | Mudar para plano Premium                    |
+| [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha_1)               | Administrar bloqueio de senha               |
+| [UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-senha-ao-aplicativo)                | Informar senha ao aplicativo                |
+| [UC11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#verificar-senha)                             | Verificar senha                             |
+| [UC12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#notificar-que-a-senha-é-inválida-ao-usuário) | Notificar que a senha é inválida ao usuário |
+| [UC13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desativar-o-bloqueio-de-senha)               | Desativar o bloqueio de senha               |
+| [UC14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-a-senha-de-bloqueio)                 | Alterar a senha de bloqueio                 |
+| [UC15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar nova senha ao app                  |
+| [UC16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desbloquear-com-impressao-digital)           | Desbloquear com impressão digital           |
+| [UC17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-tempo-para-que-seja-informada-a-senha-novamente)| Alterar tempo para que seja informada a senha novamente|
+| [UC18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-tempo-limite-ao-app)                  | Informar tempo limite ao app                |
+| [UC19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#salvar-nota-a-partir-de-pagina-da-web)                  | Salvar nota a partir de página da web       |
+| [UC20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-formato-de-captura)                  | Selecionar formato de captura               |
+| [UC21](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-observacoes)                  | Adicionar observações                       |
+| [UC22](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-em-qual-caderno-salvar-a-nota)                  | Selecionar em qual caderno salvar a nota    |
+
+
+### Cadastro de usuário 
+
+
+**Nome do Caso de Uso:**
+Cadastro de usuário 
 
 **Descrição:**
 Este caso de uso permite que o usuário possa se cadatre e tenha acesso ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
@@ -134,9 +179,14 @@ Regras de Negócio 02
 |E-mail|exemplo@exemplo.com| sim | Email valido|
 |Senha|String|sim|Senha valida|
 
+Autor: João Victor
 
-#### Login de Usuário
-![Imgur](https://i.imgur.com/ODqWSBg.png)
+
+### Login de usuário 
+
+
+**Nome do Caso de Uso:**
+Login de usuário 
 
 **Descrição:**  
 Este caso de uso permite que o usuário possa se conectar ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
@@ -199,33 +249,14 @@ Regras de Negócio 02
 |E-mail|exemplo@exemplo.com| sim | Email valido|
 |Senha|String|sim|Senha valida|
 
-## Especificação de Casos de Uso
-
-| ID                                                                                                                     | Nome                                        |
-|------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
-| [UC01](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-caderno)                             | Acessar Caderno                             |
-| [UC02](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#criar-caderno)                               | Criar Caderno                               |
-| [UC03](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#acessar-nota)                                | Acessar Nota                                |
-| [UC04](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-etiqueta)                          | Adicionar Etiqueta                          |
-| [UC05](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-lembrete)                          | Adicionar Lembrete                          |
-| [UC06](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#mudar-para-plano-premium)                    | Mudar para plano Premium                    |
-| [UC07](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#administrar-bloqueio-de-senha_1)               | Administrar bloqueio de senha               |
-| [UC08](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-senha-ao-aplicativo)                | Informar senha ao aplicativo                |
-| [UC09](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#verificar-senha)                             | Verificar senha                             |
-| [UC10](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#notificar-que-a-senha-é-inválida-ao-usuário) | Notificar que a senha é inválida ao usuário |
-| [UC11](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desativar-o-bloqueio-de-senha)               | Desativar o bloqueio de senha               |
-| [UC12](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-a-senha-de-bloqueio)                 | Alterar a senha de bloqueio                 |
-| [UC13](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-nova-senha-ao-app)                  | Informar nova senha ao app                  |
-| [UC14](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#desbloquear-com-impressao-digital)           | Desbloquear com impressão digital           |
-| [UC15](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#alterar-tempo-para-que-seja-informada-a-senha-novamente)| Alterar tempo para que seja informada a senha novamente|
-| [UC16](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#informar-tempo-limite-ao-app)                  | Informar tempo limite ao app                |
-| [UC17](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#salvar-nota-a-partir-de-pagina-da-web)                  | Salvar nota a partir de página da web       |
-| [UC18](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-formato-de-captura)                  | Selecionar formato de captura               |
-| [UC19](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#adicionar-observacoes)                  | Adicionar observações                       |
-| [UC20](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-em-qual-caderno-salvar-a-nota)                  | Selecionar em qual caderno salvar a nota    |
+Autor: João Victor
 
 
-#### Acessar Caderno
+
+
+
+
+### Acessar Caderno
 
 **Nome do Caso de Uso:**
 Acessar Caderno
@@ -258,7 +289,7 @@ O usuário deverá estar logado no sistema.
 O usuário terá acesso aos seus cadernos.
 
 
-#### Criar Caderno
+### Criar Caderno
 
 **Nome do Caso de Uso:**
 Criar Caderno
@@ -288,7 +319,7 @@ O usuário deverá estar logado no sistema.
 **Pós-condições:**
 O usuário terá um novo caderno criado.
 
-#### Acessar Nota
+### Acessar Nota
 
 **Nome do Caso de Uso:**
 Acessar Nota
@@ -355,7 +386,7 @@ Não ter acesso à Internet durante o procedimento
 O usuário terá acesso a sua nota.
 
 
-#### Adicionar Etiqueta
+### Adicionar Etiqueta
 
 **Nome do Caso de Uso:**
 Adicionar Etiqueta
@@ -397,7 +428,7 @@ O usuário deverá estar logado no sistema.
 É adicionada uma nova etiqueta.
 
 
-#### Adicionar Lembrete
+### Adicionar Lembrete
 
 **Nome do Caso de Uso:**
 Adicionar Lembrete
@@ -440,7 +471,7 @@ O usuário deverá estar logado no sistema.
 É adicionado um novo lembrete.
 
 
-#### Mudar para plano Premium
+### Mudar para plano Premium
 
 **Nome do Caso de Uso**
 Mudar para plano Premium

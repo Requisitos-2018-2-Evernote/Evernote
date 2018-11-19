@@ -430,6 +430,11 @@ Equipe Evernote|**NFR**|||||Não Funcional|Usar balanceadores de rede|[NFR Segur
 # IMG55
 ![Screenshot](images/pesquisar-notas-web.png)
 
-### Referências
 
-[Toranzo02] Toranzo, M.; Castro, J. & Mello, E. "Uma proposta para melhorar o rastreamento de requisitos". In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002.
+## Referências
+
+* [Toranzo02] Toranzo, M.; Castro, J. & Mello, E. "Uma proposta para melhorar o rastreamento de requisitos". In: WER02 - Workshop em Engenharia de Requisitos, Valencia, Espanha, Novembro 11-12, 2002.
+
+
+
+ * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 22; Disponível em https://aprender.ead.unb.br/pluginfile.php/348673/mod_resource/content/5/Requisitos - Aula 022.pdf>

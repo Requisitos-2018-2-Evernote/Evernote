@@ -19,3 +19,8 @@ Autor: Matheus Filipe
 ![Imgur](https://i.imgur.com/CwMytqZ.jpg)
 
 Autor: João Victor
+
+
+## Referências
+
+ * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 24; Disponível em < https://aprender.ead.unb.br/pluginfile.php/348673/mod_resource/content/6/Requisitos - Aula 024.pdf >.

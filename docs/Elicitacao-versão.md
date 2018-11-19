@@ -8,6 +8,16 @@ Autor: João Victor
 ### Brainstorm
 Versão 1.0
 
+
+
+### NFR
+Versão 1.0
+![Imgur](https://i.imgur.com/pe2dprs.jpg)
+
+
+
+
+
 ## Referências
 
 

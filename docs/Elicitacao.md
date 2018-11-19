@@ -320,6 +320,57 @@ dos requisitos nas seguinte categorias:
 
 Autor: João Victor
 
+### NFR
+
+
+|       |                                          | 
+|-------|------------------------------------------| 
+| ID    | Requisito                                | 
+| RNF1  | Usar balanceadores de rede               | 
+| RNF2  | Usar FIREWALLS                           | 
+| RNF3  | Usar VPNs                                | 
+| RNF4  | Usar origem de endereço de IP            | 
+| RNF5  | Criptografar usando DKIM                 | 
+| RNF6  | Usar politica DMARC                      | 
+| RNF7  | Usar Email e senha                       | 
+| RNF8  | Limitar tentativas de login              | 
+| RNF9  | Permitir medição de força                | 
+| RNF10 | Usar Salt exclusivo                      | 
+| RNF11 | Usar retenção de notas                   | 
+| RNF12 | Armazenar senha por PBKDF2               | 
+| RNF13 | Usar token de autenticação               | 
+| RNF14 | Utilizar modo offline                    | 
+| RNF15 | Utilizar imei e SIM                      | 
+| RNF16 | Utilizar Cache                           | 
+| RNF17 | Utilizar modo online                     | 
+| RNF18 | Utilizar armazenamento em nuvem          | 
+| RNF19 | Utilizar pesquisa avançada               | 
+| RNF20 | Disponibilizar tecnicas de pesquisas     | 
+| RNF21 | Utilizar metadados de notas              | 
+| RNF22 | Utilizar dois data centers               | 
+| RNF23 | Armazenar conteudo das notas             | 
+| RNF24 | Disponibilizar sistema de ajuda          | 
+| RNF25 | Elaborar documentação de usuário         | 
+| RNF26 | Usar tutorial                            | 
+| RNF27 | Usar icones Intuitivos                   | 
+| RNF28 | Usar Pesquisa rapida                     | 
+| RNF29 | Usar categorias de notas                 | 
+| RNF30 | Usar interface limpa                     | 
+| RNF31 | Usar linguagem simples                   | 
+| RNF32 | Usar categoria de nomes                  | 
+| RNF33 | Usar rotulos                             | 
+| RNF34 | Usar linkls                              | 
+| RNF35 | Usar apresentação simples de conteudo    | 
+| RNF36 | usar formato de informação simples       | 
+| RNF37 | Usar layout agradavel                    | 
+| RNF38 | Usar graficos                            | 
+| RNF39 | Usar localização de informação aparente  | 
+| RNF40 | Apresentar qualidade nos resultados      | 
+| RNF41 | Usar Icones grandes                      | 
+
+Autor: João Victor
+
+
 ### Análise de Protocolo
 
 Como você faz para criar uma nota?

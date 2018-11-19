@@ -7,6 +7,10 @@
 ![img-geral1](https://i.imgur.com/V0OFrtn.png)  
 Autor: Matheus Filipe
 
+#### Visão Geral 1.1
+![Imgur](https://i.imgur.com/9jMq9Wu.jpg)
+Autor: Matheus Filipe
+
 ### Versão 1.0  
 ![img-geral2](https://i.imgur.com/zKH3GTK.png)  
  Autor: Mateus Oliveira
@@ -39,6 +43,10 @@ Autor: João Victor
 ### Versão 1.0  
 ![img-trabalho](https://i.imgur.com/IT3rbkp.png)  
 Autor: João Victor
+
+#### Funcionalidades e recursos 1.0
+![Imgur](https://i.imgur.com/RIHuQF0.jpg)
+Autor: Matheus Filipe
 
 # Argumentação
 

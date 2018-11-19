@@ -53,14 +53,6 @@ Autor: João Victor
 ![img-estrategia](https://i.imgur.com/bxVk8xA.jpg)  
 Autor: Vinícius da Costa
 
-#### Visão Geral 2
-![Imgur](https://i.imgur.com/9jMq9Wu.jpg)
-Autor: Matheus Filipe
-
-#### Funcionalidades e recursos
-![Imgur](https://i.imgur.com/RIHuQF0.jpg)
-Autor: Matheus Filipe
-
 ## Argumentações
 
 ### Sumário Argumentações

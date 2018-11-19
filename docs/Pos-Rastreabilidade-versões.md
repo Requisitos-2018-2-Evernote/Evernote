@@ -26,7 +26,7 @@
  | ![Screenshot](images/visualizar-notas.png) | ![Screenshot](images/visualizar-notas-web.png) | |
  | ![Screenshot](images/visualizar-notas-opcoes.png) | ![Screenshot](images/visualizar-notas-opcoes-web.png) | |
 
-## Backward-To
+## Backward-From Funcional 
 
 #### Versão 1.0
 ![Imgur](https://i.imgur.com/Wrqgy03.jpg)

@@ -18,9 +18,15 @@ Autor: João Victor
 Autor: João Victor
 
 ### Segurança de dados
+
+
 #### Versão 1.0
+![Imgur](https://i.imgur.com/G43brga.jpg)
+Autor:  Matheus Filipe e João Victor
+#### Versão 2.0
 ![Imgur](https://i.imgur.com/fIBnKZf.jpg)
 Autor: Matheus Filipe
+
 
 ### Usabilidade
 #### Versão 1.0
@@ -28,6 +34,11 @@ Autor: Matheus Filipe
 Autor: João Victor
 
 
+### Amigabilidade da interface
+#### Versão 1.0
+
+![Imgur](https://i.imgur.com/Q5ftZdc.jpg)
+Autor: Matheus Filipe e João Victor
 
 ## iStar
 

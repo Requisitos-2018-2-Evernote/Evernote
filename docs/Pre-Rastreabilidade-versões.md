@@ -34,16 +34,6 @@ Autor: Matheus Filipe
 Autor: João Victor
 
 
-## Pequenas Empresas
-### Versão 1.0  
-![img-empresas](https://i.imgur.com/0Acz1pW.png)  
-Autor: João Victor
-
-## Fluxo de Trabalho
-### Versão 1.0  
-![img-trabalho](https://i.imgur.com/IT3rbkp.png)  
-Autor: João Victor
-
 # Argumentação
 
 ## Monetização

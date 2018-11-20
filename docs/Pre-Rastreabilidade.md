@@ -22,6 +22,9 @@
 | [RP08](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#visao-geral-2) | Visão Geral 2 |
 | [RP09](https://requisitos-2018-2-evernote.github.io/Evernote/Pre-Rastreabilidade/#funcionalidades-e-recursos) | Funcionalidades e recursos |
 
+#### Definição
+Rich Picture é uma técnica de modelagem simples, de fácil modelagem feita geralmente com o cliente que consiste em esquemas compostos por imagens que fornecem um mecanismo para aprender sobre problemas complexos ou mal definidos.
+
 
 #### Visão Geral
 

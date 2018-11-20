@@ -134,8 +134,8 @@ Autor: Matheus Filipe
 
 * Usability testing of note-taking app, Evernote.   UX Planet. Disponível em: [https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91](https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91).
 
-* Ten Usability heuristics. NNGROUP. Disponível em: [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/).
+* 10 Usability Heuristics for User Interface Design. NNGROUP. Disponível em: [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
-* Security. Evernote. Disponível em: [https://evernote.com/intl/pt-br/security](https://evernote.com/intl/pt-br/security).
+* Visão Geral de Segurança. Evernote. Disponível em: [https://evernote.com/intl/pt-br/security](https://evernote.com/intl/pt-br/security).
 
-* Data usage. Evernote. Disponível em: [https://evernote.com/intl/pt-br/privacy/data-usage](https://evernote.com/intl/pt-br/privacy/data-usage).
+* Uso de dados Evernote. Evernote. Disponível em: [https://evernote.com/intl/pt-br/privacy/data-usage](https://evernote.com/intl/pt-br/privacy/data-usage).

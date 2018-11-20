@@ -23,9 +23,9 @@
  | 29/10/2018 | Marcelo Magalhães | iStar Realizar busca | 2.0 |
 
 
-
-
 ## NFR
+
+O _NFR Framework_ é utilizado para documentar requisitos não funcionais, como segurança, desempenho, custo e usabilidade de um sistema.
 
 ### Geral
 ![Imgur](https://i.imgur.com/hICZgwT.jpg)
@@ -68,6 +68,8 @@ Autor: Matheus Filipe
 Autor: João Victor
 
 ## iStar
+
+O _i* Framework_ é  uma linguagem de modelagem que permite modelar situações atuais ou futuras. Foi originalmente desenvolvida para modelagem e raciocínio sobre ambientes organizacionais e seus sistemas de informação, que dependem uns dos outros para realizar suas tarefas e atingir esses objetivos.
 
 ### Geral
 
@@ -129,10 +131,11 @@ Autor: Matheus Filipe
 
 
 ## Referências
-[https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91](https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91)
 
-[https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/)
+* Usability testing of note-taking app, Evernote.   UX Planet. Disponível em: [https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91](https://uxplanet.org/usability-testing-of-note-taking-app-evernote-57a77325cc91).
 
-[https://evernote.com/intl/pt-br/security](https://evernote.com/intl/pt-br/security)
+* Ten Usability heuristics. NNGROUP. Disponível em: [https://www.nngroup.com/articles/ten-usability-heuristics/](https://www.nngroup.com/articles/ten-usability-heuristics/).
 
-[https://evernote.com/intl/pt-br/privacy/data-usage](https://evernote.com/intl/pt-br/privacy/data-usage)
+* Security. Evernote. Disponível em: [https://evernote.com/intl/pt-br/security](https://evernote.com/intl/pt-br/security).
+
+* Data usage. Evernote. Disponível em: [https://evernote.com/intl/pt-br/privacy/data-usage](https://evernote.com/intl/pt-br/privacy/data-usage).

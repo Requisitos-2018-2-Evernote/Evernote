@@ -35,6 +35,7 @@ Existem diversas técnicas que podem ser utilizadas para elicitar um projeto. As
 | [BS01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#bs01) | Brainstorming |
 | [FTF01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf01) | First Things First 1 |
 | [FTF02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf02) | First Things First 2 |
+| [FTF03](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#ftf03) | First Things First 3 |
 | [MSCW01](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw01) | MoSCoW 1 |
 | [MSCW02](https://requisitos-2018-2-evernote.github.io/Evernote/Elicitacao/#mscw02) | MoSCoW 2 |
 

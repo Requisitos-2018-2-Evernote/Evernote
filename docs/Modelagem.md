@@ -190,8 +190,11 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 
 É composta por:
 - Noção, que é uma breve explicação do léxico;
+
 - Classificação, que pode ser sujeito, verbo, estado ou objeto;
+
 - Impactos, que descreve algumas aplicações daquele léxico no contexto do produto estudado;
+
 - Sinônimos, que mostra palavras que contêm o mesmo significado dentro do universo da [aplicação](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem/#aplicacao).
 
 ### Sumário Léxicos
@@ -452,6 +455,6 @@ o Léxico Ampliado da Linguagem (LAL) é uma  representação da linguagem utili
 
 
 ## Referências
-LEITE, Jair. Usando cenários para descobrir requisitos. Disponível [aqui](http://engenhariadesoftware.blogspot.com/2007/05/usando-cenrios-para-descobrir.html). Acesso em: 18 de setembro de 2018.
+LEITE, Jair. Usando cenários para descobrir requisitos. Disponível em: [http://engenhariadesoftware.blogspot.com/2007/05/usando-cenrios-para-descobrir.html](http://engenhariadesoftware.blogspot.com/2007/05/usando-cenrios-para-descobrir.html). Acesso em: 18 de setembro de 2018.
 
-ALMENTERO, Eduardo Kinder. Léxico Ampliado da Linguagem (LAL). Disponível [aqui](https://engenhariaderequisitos.wordpress.com/2012/04/03/aula-do-dia-0304-lexico-ampliado-da-linguagem-lal-2/). Acesso em: 19 de setembro de 2018.
+ALMENTERO, Eduardo Kinder. Léxico Ampliado da Linguagem (LAL). Disponível em: [https://engenhariaderequisitos.wordpress.com/2012/04/03/aula-do-dia-0304-lexico-ampliado-da-linguagem-lal-2/](https://engenhariaderequisitos.wordpress.com/2012/04/03/aula-do-dia-0304-lexico-ampliado-da-linguagem-lal-2/). Acesso em: 19 de setembro de 2018.

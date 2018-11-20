@@ -1,7 +1,24 @@
 
 
-## Rich Pictures 
+## Rich Pictures
 
+_Rich picture_ é uma forma de ilustrar as relações existentes em uma certa atividade e e ajuda a compreender a complexidade de uma situação.
+
+Foi inicialmente desenvolvido como parte do _Soft Systems Methodology (SSM)_ com o objetivo de identificar um problema e desenvolver uma descrição desse problema.
+
+De acordo com Peter Checkland, desenvolvedor do SSM, um _rich picture_ deve conter:
+
+- Estruturas;
+
+- Processos;
+
+- Ambientação;
+
+- Pessoas;
+
+- Problemas expressos por essas pessoas;
+
+- Conflitos.
 
 |Versionamento|
 |-------|
@@ -24,8 +41,6 @@
 
 
 #### Visão Geral
-
-
 ![img- geral7](https://i.imgur.com/FTEbY1r.png)  
 Autor: Matheus Filipe
 
@@ -45,7 +60,7 @@ Autor: João Victor
 ![img-trabalho](https://i.imgur.com/IT3rbkp.png)  
 Autor: João Victor
 
-#### Gerencia de Projeto 
+#### Gerencia de Projeto
 ![Imgur](https://i.imgur.com/xG0exrC.jpg)  
 Autor: João Victor
 
@@ -54,6 +69,8 @@ Autor: João Victor
 Autor: Vinícius da Costa
 
 ## Argumentações
+
+Argumentações são modelos que visam convencer o leitor do motivo para uma certa decisão ter sido tomada. Esse modelo é baseado no senso comum entre os envolvidos no seu desenvolvimento, levando em consideração a situação em que é inserida.
 
 ### Sumário Argumentações
 
@@ -99,4 +116,6 @@ Autor: Marcelo Magalhães
 
 ## Referências
 
- * SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 04; Disponível em < https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos - Aula 04.pdf >.
+ * SERRANO, M; SERRANO, M. Requisitos - Aula 04. Disponível em:  [https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos](https://aprender.ead.unb.br/pluginfile.php/348647/mod_resource/content/3/Requisitos).
+
+ * RICH PICTURES. BETTER EVALUATION. Disponível em: [https://www.betterevaluation.org/en/evaluation-options/richpictures](https://www.betterevaluation.org/en/evaluation-options/richpictures).

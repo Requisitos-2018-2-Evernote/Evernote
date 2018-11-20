@@ -1,5 +1,15 @@
 ## Casos de Uso
 
+Os diagramas de caso de uso descrevem funcionalidades de um sistema do ponto de vista do usuário. Geralmente é composto de quatro partes:
+
+- Cenário: eventos derivados da interação do usuário com o sistema;
+
+- Ator: usuário;
+
+- Caso de uso: ação realizada pelo ator;
+
+- Comunicação: relação do ator com o caso de uso.
+
 |Versionamento|
 |-------|
 |[Versões](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2-versões) |
@@ -90,11 +100,11 @@
 | [UC22](https://requisitos-2018-2-evernote.github.io/Evernote/Modelagem2/#selecionar-em-qual-caderno-salvar-a-nota)                  | Selecionar em qual caderno salvar a nota    |
 
 
-### Cadastro de usuário 
+### Cadastro de usuário
 
 
 **Nome do Caso de Uso:**
-Cadastro de usuário 
+Cadastro de usuário
 
 **Descrição:**
 Este caso de uso permite que o usuário possa se cadatre e tenha acesso ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
@@ -173,11 +183,11 @@ Regras de Negócio 02
 Autor: João Victor
 
 
-### Login de usuário 
+### Login de usuário
 
 
 **Nome do Caso de Uso:**
-Login de usuário 
+Login de usuário
 
 **Descrição:**  
 Este caso de uso permite que o usuário possa se conectar ao sistema. Podendo ser feito a partir de um dispositivo e por meio de uma conta google e/ou email cadastrado.
@@ -988,10 +998,12 @@ Se não houver conexão com a internet, o sistema deverá mostrar uma mensagem d
 
 ## Referências
 
-https://www.evernote.com/Registration.action
+* Cadastro. Evernote. Disponível em: [https://www.evernote.com/Registration.action](https://www.evernote.com/Registration.action).
 
-https://www.evernote.com/Login.action
+* Login. Evernote. Disponível em: [https://www.evernote.com/Login.action](https://www.evernote.com/Login.action).
 
-https://www.devmedia.com.br/especificacao-de-casos-de-uso-na-pratica/18427
+* Especificação de casos de uso na prática. DEVMEDIA. Disponível em: [https://www.devmedia.com.br/especificacao-de-casos-de-uso-na-pratica/18427](https://www.devmedia.com.br/especificacao-de-casos-de-uso-na-pratica/18427).
 
-http://www.funpar.ufpr.br:8080/rup/process/modguide/md_ucmod.htm
+* O que é UML e Diagramas de Caso de Uso: Introdução Prática à UML. DEVMEDIA. Disponível em: [https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408](https://www.devmedia.com.br/o-que-e-uml-e-diagramas-de-caso-de-uso-introducao-pratica-a-uml/23408).
+
+* Diretrizes:  Modelo de Casos de Uso. Funpar. Disponível em: [http://www.funpar.ufpr.br:8080/rup/process/modguide/md_ucmod.htm](http://www.funpar.ufpr.br:8080/rup/process/modguide/md_ucmod.htm).
